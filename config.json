@@ -1,0 +1,7 @@
+{
+    "username" : "AlbertRui",
+    "password" : "ZR610327",
+    "language" : ["java","javascript","python","c++","c"],
+    "outputDir" : "./solutions", 
+    "template" : "./README.tpl" 
+}

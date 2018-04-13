@@ -1,114 +1,70 @@
-# leetcode-spider [![npm package](https://img.shields.io/npm/v/leetcode-spider.svg)](https://www.npmjs.com/package/leetcode-spider)
+<p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-18/597(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-2-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-23-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-24-blue.svg?style=flat-square" alt="">
+</p>
+<h3 align="center">My leetcode solutions</h3>
 
-使用 JS 编写的 leetcode 解题源码爬虫.爬取你自己的 leetcode 解题源码.
+<p align="center">
+    <b>Language: java javascript python c++ c</b>
+    <br>
+    <b>Last updated: 2018-04-13</b>
+    <br><br>
+</p>
+<!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
+<p align="center">The source code is fetched using the tool <a href="https://github.com/Ma63d/leetcode-spider">leetcode-spider</a>.</p>
 
-如果你也想把你在 [leetcode](https://leetcode.com/) 上提交且 accepted 的解题代码爬下来,那么本工具就是为此需求而生!爬下来的代码可以放在 github 上管理和开源出来,可以作为个人展示,更可以借助 [leetcode-viewer](https://github.com/Ma63d/leetcode-viewer) 将代码通过一个单页应用完美展现,几条命令就可以呈现一个 leetcode 源码博客,交流和展示搞起来!
-
-## 新版本来了
-
-- 支持使用模板语法来配置你自己的 README.md 模板了！
-- 新增部分配置项
-- 优化 README.md 输出:
-  ![](img/example.png)
-- 优化网络错误处理机制
- 
-
-**需要 Node 4.0 及以上版本!**
-
-## 安装 Installation
-
-```
-npm i leetcode-spider -g
-```
-
-
-## 使用 Usage
-
-请事先建立好如下 json 文件(以命名为 config.json 为例):
-
-
-```
-{
-	"username" : "hello@gmail.com",
-	"password" : "xxxxxxxxx",
-	"language": ["java","c++","c"],
-	"outputDir": "./solutions", (可选字段)
-	"template": "./README.tpl" (可选字段)
-}
-```
-
-- `username` 和 `password` 对应你的的 leetcode 账户.
-
-
-- `language` 对应于你用来解 leetcode 的编程语言,该项为一个数组,即使只有一种语言.
-目前 `language` 字段支持填写所有 leetcode 的编程语言:
-    - `c++`(别填`cpp`)
-    - `c`
-    - `java`
-    - `javascript` (别填`js`)
-    - `python`
-    - `c#` (别填`csharp`)
-    - `ruby`
-    - `swift`
-    - `go`
-
-- `outputDir` **选填**，表示你希望存放源码文件的目录，默认`"./solutions"`
-- `template` **选填**，表示你自己定义的 README.tpl 路径，默认 "./README.tpl"
-
-
-## 运行 Execution
-
-```
-lc-spider // 默认使用config.json为配置文件运行爬虫
-```
-**程序会记录上一次爬取了哪些题目,之前爬取过的题目再次运行的时候不会爬取,除非你通过-n选项手动指定.**
-
-**这也意味着,当你在进行增量爬取时,根本不需要去指定要爬哪些题目, leetcode-spider 会自动知道哪些题目需要爬.**
-
-举个例子,按照我们的日常使用:
-
-* 当你昨天 A 了5道题,你用爬虫爬了下来
-* 然后今天你 A 了6道题,你今天再次运行程序
-
-程序此时会自动检查你跟上一次爬取结果相比多写了哪些题,然后把这些新增的代码爬取下来,不会重复的去爬取,你也不用手工指定你今天 AC 了哪些题.
-
-永远只用一行命令: `lc-spider`.(除非你想要再去爬以前爬过的题,比如你改进了修改了原先AC的代码,想把新代码爬下来,或者你新增了另一种语言的解法, 那么这种时候可以用-n选项指定具体要爬取的题目,请参考[选项](https://github.com/Ma63d/leetcode-spider#选项)章节的具体内容.)
-
-此外源码对应的 leetcode 的题目,也会爬取下来,放在代码目录, markdown 格式.
-
-爬取完成后会自动生成 README.md 文件,当你把爬下来的代码放在 github 上时,README.md 起一个介绍和导航的作用.另外，有的同学的 config.json 文件是直接放在当前的代码存放目录的，那你在把这个目录上传到 github 上之前，请记得写 `.gitignore` 文件，在里面忽略掉你的 config.json 文件！不然你的用户名和密码也传到 github 上公开给大家了（虽然 leetcode 账户屁用没有）。
-
-如果你运行 lc-spider 却显示无法找到命令,首先请确认一下你在 npm 安装 lc-spider 的时候是否是全局安装(也就是有没有那个`-g`),如果你是全局安装的,那就是你的 npm 的环境变量配置得不对了,请参考百度的 fis 团队写的 [这篇文章](https://github.com/fex-team/fis/issues/565),方便不熟悉 npm 的同学解决自己遇到的问题.
-
-如果还有问题,请联系[我](https://github.com/Ma63d)!或者开 issue ,只要不在睡觉,基本都可以为你解决问题.
-
-## 模板功能
-
-嫌默认生成自带的 README.md 不好看？嫌我写的文案不够好？ 
-没关系，现在你可以自定义你的 README.md 模板，使用 [mustache](https://github.com/janl/mustache.js) 语法（就是 vue 用的那一套），自己书写你的 README.md 模板： 
-
-leetcode-spider 第一次运行之后会在你运行命令的目录下生成 [README.tpl](https://github.com/Ma63d/leetcode-spider/blob/master/lib/README.tpl) 文件，如果你对默认生成的 README.md 文件不满意，那你自行修改这个 README.tpl 模板文件即可。程序会在下次运行时使用这个模板文件来生成  README.md .
-
-
-
-## 帮助 Help
-```
-lc-spider -h
-```
-
-## 选项
-
-### -config or -c
-```
-lc-spider -c xxx.json
-```
-
-使用指定的配置文件运行 lc-spider. 默认使用的是 config.json.
-
-### -number or -n
-```
-lc-spider -n 2-15 3 78-101
-```
-
-只爬取你指定的题目,可以使用连字符(如15-100),此处指定的是需要爬取的题号.程序会检查哪些题目你 AC 了,因此你可以放心的填写.比如你a了200-300之间的某几道题,但是不想一个个的指定出来,那你就大胆的写上200-300,程序会查找200-300范围内你 AC 的源码,并爬取下来.
+| # | Problems | Solutions | Difficulty | Acceptance | Paid-Only
+|:--:|:-----:|:---------:|:----:|:----:|:----:|
+|001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.java)|Easy|38.03%||
+|002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [java](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.java)|Medium|27.93%||
+|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [java](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.java)|Medium|22.20%||
+|004|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [java](.&#x2F;solutions&#x2F;004.median-of-two-sorted-arrays&#x2F;median-of-two-sorted-arrays.java)|Hard|30.15%||
+|005|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)| [java](.&#x2F;solutions&#x2F;005.longest-palindromic-substring&#x2F;longest-palindromic-substring.java)|Medium|23.44%||
+|006|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)| [java](.&#x2F;solutions&#x2F;006.zigzag-conversion&#x2F;zigzag-conversion.java)|Medium|26.57%||
+|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [java](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.java)|Easy|24.41%||
+|008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [java](.&#x2F;solutions&#x2F;008.string-to-integer-atoi&#x2F;string-to-integer-atoi.java)|Medium|17.37%||
+|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [java](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.java)|Easy|38.89%||
+|010|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/)| [java](.&#x2F;solutions&#x2F;010.regular-expression-matching&#x2F;regular-expression-matching.java)|Hard|17.44%||
+|011|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/)| [java](.&#x2F;solutions&#x2F;011.container-with-most-water&#x2F;container-with-most-water.java)|Medium|37.11%||
+|012|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/)| [java](.&#x2F;solutions&#x2F;012.integer-to-roman&#x2F;integer-to-roman.java)|Medium|53.87%||
+|013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [java](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.java)|Easy|52.81%||
+|014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](.&#x2F;solutions&#x2F;014.longest-common-prefix&#x2F;longest-common-prefix.java)|Easy|26.29%||
+|015|[3sum](https://leetcode.com/problems/3sum/)| [java](.&#x2F;solutions&#x2F;015.3sum&#x2F;3sum.java)|Medium|12.90%||
+|016|[3sum-closest](https://leetcode.com/problems/3sum-closest/)| [java](.&#x2F;solutions&#x2F;016.3sum-closest&#x2F;3sum-closest.java)|Medium|29.74%||
+|017|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [java](.&#x2F;solutions&#x2F;017.letter-combinations-of-a-phone-number&#x2F;letter-combinations-of-a-phone-number.java)|Medium|38.10%||
+|019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](.&#x2F;solutions&#x2F;019.remove-nth-node-from-end-of-list&#x2F;remove-nth-node-from-end-of-list.java)|Medium|33.99%||
+|021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](.&#x2F;solutions&#x2F;021.merge-two-sorted-lists&#x2F;merge-two-sorted-lists.java)|Easy|41.16%||
+|024|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [java](.&#x2F;solutions&#x2F;024.swap-nodes-in-pairs&#x2F;swap-nodes-in-pairs.java)|Medium|39.12%||
+|083|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
+|109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;109.convert-sorted-list-to-binary-search-tree&#x2F;convert-sorted-list-to-binary-search-tree.java)|Medium|35.74%||
+|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [java](.&#x2F;solutions&#x2F;122.best-time-to-buy-and-sell-stock-ii&#x2F;best-time-to-buy-and-sell-stock-ii.java)|Easy|47.72%||
+|127|[word-ladder](https://leetcode.com/problems/word-ladder/)| [java](.&#x2F;solutions&#x2F;127.word-ladder&#x2F;word-ladder.java)|Medium|17.43%||
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [java](.&#x2F;solutions&#x2F;141.linked-list-cycle&#x2F;linked-list-cycle.java)|Easy|35.04%||
+|169|[majority-element](https://leetcode.com/problems/majority-element/)| [java](.&#x2F;solutions&#x2F;169.majority-element&#x2F;majority-element.java)|Easy|48.02%||
+|206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.java)|Easy|46.74%||
+|237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [java](.&#x2F;solutions&#x2F;237.delete-node-in-a-linked-list&#x2F;delete-node-in-a-linked-list.java)|Easy|47.24%||
+|238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)| [java](.&#x2F;solutions&#x2F;238.product-of-array-except-self&#x2F;product-of-array-except-self.java)|Medium|50.28%||
+|283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
+|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
+|349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
+|442|[find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| [java](.&#x2F;solutions&#x2F;442.find-all-duplicates-in-an-array&#x2F;find-all-duplicates-in-an-array.java)|Medium|56.96%||
+|445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii/)| [java](.&#x2F;solutions&#x2F;445.add-two-numbers-ii&#x2F;add-two-numbers-ii.java)|Medium|46.21%||
+|448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [java](.&#x2F;solutions&#x2F;448.find-all-numbers-disappeared-in-an-array&#x2F;find-all-numbers-disappeared-in-an-array.java)|Easy|51.14%||
+|485|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/)| [java](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.java)|Easy|53.72%||
+|495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/)| [java](.&#x2F;solutions&#x2F;495.teemo-attacking&#x2F;teemo-attacking.java)|Medium|51.40%||
+|561|[array-partition-i](https://leetcode.com/problems/array-partition-i/)| [java](.&#x2F;solutions&#x2F;561.array-partition-i&#x2F;array-partition-i.java)|Easy|66.26%||
+|565|[array-nesting](https://leetcode.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
+|566|[reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/)| [java](.&#x2F;solutions&#x2F;566.reshape-the-matrix&#x2F;reshape-the-matrix.java)|Easy|57.64%||
+|657|[judge-route-circle](https://leetcode.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
+|667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
+|682|[baseball-game](https://leetcode.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
+|695|[max-area-of-island](https://leetcode.com/problems/max-area-of-island/)| [java](.&#x2F;solutions&#x2F;695.max-area-of-island&#x2F;max-area-of-island.java)|Easy|51.76%||
+|717|[1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
+|725|[split-linked-list-in-parts](https://leetcode.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
+|777|[toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
+|780|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
+|782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/)| [java](.&#x2F;solutions&#x2F;782.jewels-and-stones&#x2F;jewels-and-stones.java)|Easy|82.06%||
 
