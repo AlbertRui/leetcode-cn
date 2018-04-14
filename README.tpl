@@ -19,6 +19,6 @@
 | # | Problems | Solutions | Difficulty | Acceptance | Paid-Only
 |:--:|:-----:|:---------:|:----:|:----:|:----:|
 {{#solutions}}
-|{{id}}|[{{title}}](https://leetcode.com/problems/{{title}}/)|{{solutionLinks}}|{{difficulty}}|{{acceptance}}|{{paidOnly}}|
+|{{id}}|[{{title}}](https://leetcode-cn.com/problems/{{title}}/)|{{solutionLinks}}|{{difficulty}}|{{acceptance}}|{{paidOnly}}|
 {{/solutions}}
 
