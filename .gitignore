@@ -6,3 +6,4 @@ log/*
 result.json
 npm-debug.log
 bin/
+config.json
