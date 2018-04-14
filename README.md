@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-18/597(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-19/597(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-2-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-23-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-24-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-24-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-04-13</b>
+    <b>Last updated: 2018-04-14</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -35,6 +35,7 @@
 |015|[3sum](https://leetcode.com/problems/3sum/)| [java](.&#x2F;solutions&#x2F;015.3sum&#x2F;3sum.java)|Medium|12.90%||
 |016|[3sum-closest](https://leetcode.com/problems/3sum-closest/)| [java](.&#x2F;solutions&#x2F;016.3sum-closest&#x2F;3sum-closest.java)|Medium|29.74%||
 |017|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [java](.&#x2F;solutions&#x2F;017.letter-combinations-of-a-phone-number&#x2F;letter-combinations-of-a-phone-number.java)|Medium|38.10%||
+|018|[4sum](https://leetcode.com/problems/4sum/)| [java](.&#x2F;solutions&#x2F;018.4sum&#x2F;4sum.java)|Medium|27.67%||
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](.&#x2F;solutions&#x2F;019.remove-nth-node-from-end-of-list&#x2F;remove-nth-node-from-end-of-list.java)|Medium|33.99%||
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](.&#x2F;solutions&#x2F;021.merge-two-sorted-lists&#x2F;merge-two-sorted-lists.java)|Easy|41.16%||
 |024|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [java](.&#x2F;solutions&#x2F;024.swap-nodes-in-pairs&#x2F;swap-nodes-in-pairs.java)|Medium|39.12%||
