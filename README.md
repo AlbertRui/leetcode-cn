@@ -1,7 +1,7 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-23/597(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-2-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-25/597(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-25-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-25-blue.svg?style=flat-square" alt="">
 </p>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-04-14</b>
+    <b>Last updated: 2018-04-15</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -40,6 +40,7 @@
 |020|[valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/)| [java](.&#x2F;solutions&#x2F;020.valid-parentheses&#x2F;valid-parentheses.java)|Easy|28.82%||
 |021|[merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [java](.&#x2F;solutions&#x2F;021.merge-two-sorted-lists&#x2F;merge-two-sorted-lists.java)|Easy|41.16%||
 |022|[generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| [java](.&#x2F;solutions&#x2F;022.generate-parentheses&#x2F;generate-parentheses.java)|Medium|58.76%||
+|023|[merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| [java](.&#x2F;solutions&#x2F;023.merge-k-sorted-lists&#x2F;merge-k-sorted-lists.java)|Hard|29.62%||
 |024|[swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [java](.&#x2F;solutions&#x2F;024.swap-nodes-in-pairs&#x2F;swap-nodes-in-pairs.java)|Medium|39.12%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;109.convert-sorted-list-to-binary-search-tree&#x2F;convert-sorted-list-to-binary-search-tree.java)|Medium|35.74%||
