@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-30/601(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-31/601(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-3-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-28-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-29-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-27-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-04-18</b>
+    <b>Last updated: 2018-04-19</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -62,6 +62,7 @@
 |445|[add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/)| [java](.&#x2F;solutions&#x2F;445.add-two-numbers-ii&#x2F;add-two-numbers-ii.java)|Medium|46.21%||
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)| [java](.&#x2F;solutions&#x2F;448.find-all-numbers-disappeared-in-an-array&#x2F;find-all-numbers-disappeared-in-an-array.java)|Easy|51.14%||
 |485|[max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [java](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.java)|Easy|53.72%||
+|494|[target-sum](https://leetcode-cn.com/problems/target-sum/)| [java](.&#x2F;solutions&#x2F;494.target-sum&#x2F;target-sum.java)|Medium|32.11%||
 |495|[teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/)| [java](.&#x2F;solutions&#x2F;495.teemo-attacking&#x2F;teemo-attacking.java)|Medium|51.40%||
 |561|[array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [java](.&#x2F;solutions&#x2F;561.array-partition-i&#x2F;array-partition-i.java)|Easy|66.26%||
 |565|[array-nesting](https://leetcode-cn.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
