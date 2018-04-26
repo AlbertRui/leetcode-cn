@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-43/601(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-4-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-34-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-46/601(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-5-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-36-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-32-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -43,8 +43,10 @@
 |023|[merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| [java](.&#x2F;solutions&#x2F;023.merge-k-sorted-lists&#x2F;merge-k-sorted-lists.java)|Hard|29.62%||
 |024|[swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [java](.&#x2F;solutions&#x2F;024.swap-nodes-in-pairs&#x2F;swap-nodes-in-pairs.java)|Medium|39.12%||
 |026|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [java](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.java)|Easy|35.42%||
+|041|[first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/)| [java](.&#x2F;solutions&#x2F;041.first-missing-positive&#x2F;first-missing-positive.java)|Hard|25.00%||
 |046|[permutations](https://leetcode-cn.com/problems/permutations/)| [java](.&#x2F;solutions&#x2F;046.permutations&#x2F;permutations.java)|Medium|61.80%||
 |047|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)| [java](.&#x2F;solutions&#x2F;047.permutations-ii&#x2F;permutations-ii.java)|Medium|42.18%||
+|049|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)| [java](.&#x2F;solutions&#x2F;049.group-anagrams&#x2F;group-anagrams.java)|Medium|43.36%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
 |090|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii/)| [java](.&#x2F;solutions&#x2F;090.subsets-ii&#x2F;subsets-ii.java)|Medium|45.15%||
 |104|[maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| [java](.&#x2F;solutions&#x2F;104.maximum-depth-of-binary-tree&#x2F;maximum-depth-of-binary-tree.java)|Easy|58.39%||
@@ -63,6 +65,7 @@
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
+|417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
 |436|[find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)| [java](.&#x2F;solutions&#x2F;436.find-right-interval&#x2F;find-right-interval.java)|Medium|18.18%||
 |442|[find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)| [java](.&#x2F;solutions&#x2F;442.find-all-duplicates-in-an-array&#x2F;find-all-duplicates-in-an-array.java)|Medium|56.96%||
 |443|[string-compression](https://leetcode-cn.com/problems/string-compression/)| [java](.&#x2F;solutions&#x2F;443.string-compression&#x2F;string-compression.java)|Easy|23.84%||
