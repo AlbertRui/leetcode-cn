@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-48/601(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-51/601(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-5-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-37-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-33-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-39-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-34-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-04-27</b>
+    <b>Last updated: 2018-04-29</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -52,6 +52,7 @@
 |090|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii/)| [java](.&#x2F;solutions&#x2F;090.subsets-ii&#x2F;subsets-ii.java)|Medium|45.15%||
 |104|[maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| [java](.&#x2F;solutions&#x2F;104.maximum-depth-of-binary-tree&#x2F;maximum-depth-of-binary-tree.java)|Easy|58.39%||
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;109.convert-sorted-list-to-binary-search-tree&#x2F;convert-sorted-list-to-binary-search-tree.java)|Medium|35.74%||
+|120|[triangle](https://leetcode-cn.com/problems/triangle/)| [java](.&#x2F;solutions&#x2F;120.triangle&#x2F;triangle.java)|Medium|42.65%||
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)| [java](.&#x2F;solutions&#x2F;122.best-time-to-buy-and-sell-stock-ii&#x2F;best-time-to-buy-and-sell-stock-ii.java)|Easy|47.72%||
 |127|[word-ladder](https://leetcode-cn.com/problems/word-ladder/)| [java](.&#x2F;solutions&#x2F;127.word-ladder&#x2F;word-ladder.java)|Medium|17.43%||
 |129|[sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)| [java](.&#x2F;solutions&#x2F;129.sum-root-to-leaf-numbers&#x2F;sum-root-to-leaf-numbers.java)|Medium|41.97%||
@@ -59,6 +60,7 @@
 |166|[fraction-to-recurring-decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)| [java](.&#x2F;solutions&#x2F;166.fraction-to-recurring-decimal&#x2F;fraction-to-recurring-decimal.java)|Medium|23.57%||
 |169|[majority-element](https://leetcode-cn.com/problems/majority-element/)| [java](.&#x2F;solutions&#x2F;169.majority-element&#x2F;majority-element.java)|Easy|48.02%||
 |172|[factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)| [java](.&#x2F;solutions&#x2F;172.factorial-trailing-zeroes&#x2F;factorial-trailing-zeroes.java)|Easy|33.03%||
+|187|[repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/)| [java](.&#x2F;solutions&#x2F;187.repeated-dna-sequences&#x2F;repeated-dna-sequences.java)|Medium|39.53%||
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)| [java](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.java)|Easy|46.74%||
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [java](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.java)|Easy|39.25%||
 |237|[delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)| [java](.&#x2F;solutions&#x2F;237.delete-node-in-a-linked-list&#x2F;delete-node-in-a-linked-list.java)|Easy|47.24%||
@@ -67,6 +69,7 @@
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
+|371|[sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/)| [java](.&#x2F;solutions&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.java)|Easy|53.42%||
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
 |436|[find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)| [java](.&#x2F;solutions&#x2F;436.find-right-interval&#x2F;find-right-interval.java)|Medium|18.18%||
 |442|[find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)| [java](.&#x2F;solutions&#x2F;442.find-all-duplicates-in-an-array&#x2F;find-all-duplicates-in-an-array.java)|Medium|56.96%||
