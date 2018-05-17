@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-52/617(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-5-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-54/617(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-6-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-40-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-34-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-35-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-05-16</b>
+    <b>Last updated: 2018-05-17</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -71,6 +71,7 @@
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
 |371|[sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/)| [java](.&#x2F;solutions&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.java)|Easy|53.42%||
+|403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
 |436|[find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)| [java](.&#x2F;solutions&#x2F;436.find-right-interval&#x2F;find-right-interval.java)|Medium|18.18%||
 |442|[find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)| [java](.&#x2F;solutions&#x2F;442.find-all-duplicates-in-an-array&#x2F;find-all-duplicates-in-an-array.java)|Medium|56.96%||
@@ -92,6 +93,7 @@
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
 |682|[baseball-game](https://leetcode-cn.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/)| [java](.&#x2F;solutions&#x2F;695.max-area-of-island&#x2F;max-area-of-island.java)|Easy|51.76%||
+|697|[degree-of-an-array](https://leetcode-cn.com/problems/degree-of-an-array/)| [java](.&#x2F;solutions&#x2F;697.degree-of-an-array&#x2F;degree-of-an-array.java)|Easy|40.11%||
 |717|[1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
 |725|[split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
