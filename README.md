@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-56/617(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-6-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-40-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-58/617(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-7-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-41-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-37-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-05-18</b>
+    <b>Last updated: 2018-05-19</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -62,6 +62,7 @@
 |172|[factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)| [java](.&#x2F;solutions&#x2F;172.factorial-trailing-zeroes&#x2F;factorial-trailing-zeroes.java)|Easy|33.03%||
 |187|[repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/)| [java](.&#x2F;solutions&#x2F;187.repeated-dna-sequences&#x2F;repeated-dna-sequences.java)|Medium|39.53%||
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)| [java](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.java)|Easy|46.74%||
+|209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)| [java](.&#x2F;solutions&#x2F;209.minimum-size-subarray-sum&#x2F;minimum-size-subarray-sum.java)|Medium|32.16%||
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [java](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.java)|Easy|39.25%||
 |237|[delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)| [java](.&#x2F;solutions&#x2F;237.delete-node-in-a-linked-list&#x2F;delete-node-in-a-linked-list.java)|Easy|47.24%||
 |238|[product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/)| [java](.&#x2F;solutions&#x2F;238.product-of-array-except-self&#x2F;product-of-array-except-self.java)|Medium|50.28%||
@@ -74,6 +75,7 @@
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
 |371|[sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/)| [java](.&#x2F;solutions&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.java)|Easy|53.42%||
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
+|407|[trapping-rain-water-ii](https://leetcode-cn.com/problems/trapping-rain-water-ii/)| [java](.&#x2F;solutions&#x2F;407.trapping-rain-water-ii&#x2F;trapping-rain-water-ii.java)|Hard|19.64%||
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
 |436|[find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)| [java](.&#x2F;solutions&#x2F;436.find-right-interval&#x2F;find-right-interval.java)|Medium|18.18%||
 |442|[find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)| [java](.&#x2F;solutions&#x2F;442.find-all-duplicates-in-an-array&#x2F;find-all-duplicates-in-an-array.java)|Medium|56.96%||
