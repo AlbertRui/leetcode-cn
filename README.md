@@ -1,7 +1,7 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-65/617(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-7-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-67/617(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-8-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-42-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-42-blue.svg?style=flat-square" alt="">
 </p>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-05-19</b>
+    <b>Last updated: 2018-05-20</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -47,6 +47,7 @@
 |046|[permutations](https://leetcode-cn.com/problems/permutations/)| [java](.&#x2F;solutions&#x2F;046.permutations&#x2F;permutations.java)|Medium|61.80%||
 |047|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)| [java](.&#x2F;solutions&#x2F;047.permutations-ii&#x2F;permutations-ii.java)|Medium|42.18%||
 |049|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)| [java](.&#x2F;solutions&#x2F;049.group-anagrams&#x2F;group-anagrams.java)|Medium|43.36%||
+|051|[n-queens](https://leetcode-cn.com/problems/n-queens/)| [java](.&#x2F;solutions&#x2F;051.n-queens&#x2F;n-queens.java)|Hard|46.21%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
 |088|[merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/)| [java](.&#x2F;solutions&#x2F;088.merge-sorted-array&#x2F;merge-sorted-array.java)|Easy|28.61%||
 |090|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii/)| [java](.&#x2F;solutions&#x2F;090.subsets-ii&#x2F;subsets-ii.java)|Medium|45.15%||
