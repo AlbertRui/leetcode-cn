@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-67/617(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-68/629(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-8-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-42-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-42-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-43-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-05-20</b>
+    <b>Last updated: 2018-06-07</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -103,6 +103,7 @@
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
 |682|[baseball-game](https://leetcode-cn.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
 |686|[repeated-string-match](https://leetcode-cn.com/problems/repeated-string-match/)| [java](.&#x2F;solutions&#x2F;686.repeated-string-match&#x2F;repeated-string-match.java)|Easy|20.00%||
+|693|[binary-number-with-alternating-bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)| [java](.&#x2F;solutions&#x2F;693.binary-number-with-alternating-bits&#x2F;binary-number-with-alternating-bits.java)|Easy|56.97%||
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/)| [java](.&#x2F;solutions&#x2F;695.max-area-of-island&#x2F;max-area-of-island.java)|Easy|51.76%||
 |697|[degree-of-an-array](https://leetcode-cn.com/problems/degree-of-an-array/)| [java](.&#x2F;solutions&#x2F;697.degree-of-an-array&#x2F;degree-of-an-array.java)|Easy|40.11%||
 |717|[1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
