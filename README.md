@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-68/629(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-69/629(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-8-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-42-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-43-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-44-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-06-07</b>
+    <b>Last updated: 2018-06-08</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -107,6 +107,7 @@
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/)| [java](.&#x2F;solutions&#x2F;695.max-area-of-island&#x2F;max-area-of-island.java)|Easy|51.76%||
 |697|[degree-of-an-array](https://leetcode-cn.com/problems/degree-of-an-array/)| [java](.&#x2F;solutions&#x2F;697.degree-of-an-array&#x2F;degree-of-an-array.java)|Easy|40.11%||
 |717|[1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
+|720|[longest-word-in-dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/)| [java](.&#x2F;solutions&#x2F;720.longest-word-in-dictionary&#x2F;longest-word-in-dictionary.java)|Easy|31.36%||
 |725|[split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
 |780|[max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
