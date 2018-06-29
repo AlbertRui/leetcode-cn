@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-74/633(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-76/637(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-8-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-43-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-46-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-44-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-47-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-06-17</b>
+    <b>Last updated: 2018-06-29</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -48,6 +48,7 @@
 |047|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)| [java](.&#x2F;solutions&#x2F;047.permutations-ii&#x2F;permutations-ii.java)|Medium|42.18%||
 |049|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)| [java](.&#x2F;solutions&#x2F;049.group-anagrams&#x2F;group-anagrams.java)|Medium|43.36%||
 |051|[n-queens](https://leetcode-cn.com/problems/n-queens/)| [java](.&#x2F;solutions&#x2F;051.n-queens&#x2F;n-queens.java)|Hard|46.21%||
+|055|[jump-game](https://leetcode-cn.com/problems/jump-game/)| [java](.&#x2F;solutions&#x2F;055.jump-game&#x2F;jump-game.java)|Medium|30.77%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
 |088|[merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/)| [java](.&#x2F;solutions&#x2F;088.merge-sorted-array&#x2F;merge-sorted-array.java)|Easy|28.61%||
 |090|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii/)| [java](.&#x2F;solutions&#x2F;090.subsets-ii&#x2F;subsets-ii.java)|Medium|45.15%||
@@ -103,6 +104,7 @@
 |647|[palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| [java](.&#x2F;solutions&#x2F;647.palindromic-substrings&#x2F;palindromic-substrings.java)|Medium|55.87%||
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
+|680|[valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii/)| [java](.&#x2F;solutions&#x2F;680.valid-palindrome-ii&#x2F;valid-palindrome-ii.java)|Easy|24.80%||
 |682|[baseball-game](https://leetcode-cn.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
 |686|[repeated-string-match](https://leetcode-cn.com/problems/repeated-string-match/)| [java](.&#x2F;solutions&#x2F;686.repeated-string-match&#x2F;repeated-string-match.java)|Easy|20.00%||
 |690|[employee-importance](https://leetcode-cn.com/problems/employee-importance/)| [java](.&#x2F;solutions&#x2F;690.employee-importance&#x2F;employee-importance.java)|Easy|45.54%||
