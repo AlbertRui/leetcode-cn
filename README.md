@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-78/637(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-79/637(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-8-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-46-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-47-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-47-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-06-30</b>
+    <b>Last updated: 2018-07-01</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -75,6 +75,7 @@
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)| [java](.&#x2F;solutions&#x2F;242.valid-anagram&#x2F;valid-anagram.java)|Easy|42.36%||
 |257|[binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/)| [java](.&#x2F;solutions&#x2F;257.binary-tree-paths&#x2F;binary-tree-paths.java)|Easy|51.13%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
+|309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
 |319|[bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/)| [java](.&#x2F;solutions&#x2F;319.bulb-switcher&#x2F;bulb-switcher.java)|Medium|28.71%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
 |344|[reverse-string](https://leetcode-cn.com/problems/reverse-string/)| [java](.&#x2F;solutions&#x2F;344.reverse-string&#x2F;reverse-string.java)|Easy|61.12%||
