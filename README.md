@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-80/688(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-81/688(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-9-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-47-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-47-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-48-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -121,4 +121,5 @@
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
 |780|[max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
 |782|[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones/)| [java](.&#x2F;solutions&#x2F;782.jewels-and-stones&#x2F;jewels-and-stones.java)|Easy|82.06%||
+|906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
 
