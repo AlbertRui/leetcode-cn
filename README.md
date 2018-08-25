@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-84/696(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-85/700(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-9-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-49-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-50-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-49-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-08-17</b>
+    <b>Last updated: 2018-08-25</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -105,6 +105,7 @@
 |565|[array-nesting](https://leetcode-cn.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
 |566|[reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)| [java](.&#x2F;solutions&#x2F;566.reshape-the-matrix&#x2F;reshape-the-matrix.java)|Easy|57.64%||
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
+|623|[add-one-row-to-tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)| [java](.&#x2F;solutions&#x2F;623.add-one-row-to-tree&#x2F;add-one-row-to-tree.java)|Medium|33.85%||
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [java](.&#x2F;solutions&#x2F;633.sum-of-square-numbers&#x2F;sum-of-square-numbers.java)|Easy|22.38%||
 |647|[palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| [java](.&#x2F;solutions&#x2F;647.palindromic-substrings&#x2F;palindromic-substrings.java)|Medium|55.87%||
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
