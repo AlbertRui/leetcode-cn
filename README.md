@@ -1,7 +1,7 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-86/704(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-9-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-87/708(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-10-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-51-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-49-blue.svg?style=flat-square" alt="">
 </p>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-08-31</b>
+    <b>Last updated: 2018-09-05</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -44,6 +44,7 @@
 |024|[swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [java](.&#x2F;solutions&#x2F;024.swap-nodes-in-pairs&#x2F;swap-nodes-in-pairs.java)|Medium|39.12%||
 |026|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [java](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.java)|Easy|35.42%||
 |041|[first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/)| [java](.&#x2F;solutions&#x2F;041.first-missing-positive&#x2F;first-missing-positive.java)|Hard|25.00%||
+|042|[trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/)| [java](.&#x2F;solutions&#x2F;042.trapping-rain-water&#x2F;trapping-rain-water.java)|Hard|35.10%||
 |046|[permutations](https://leetcode-cn.com/problems/permutations/)| [java](.&#x2F;solutions&#x2F;046.permutations&#x2F;permutations.java)|Medium|61.80%||
 |047|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)| [java](.&#x2F;solutions&#x2F;047.permutations-ii&#x2F;permutations-ii.java)|Medium|42.18%||
 |049|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)| [java](.&#x2F;solutions&#x2F;049.group-anagrams&#x2F;group-anagrams.java)|Medium|43.36%||
