@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-93/712(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-95/728(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-10-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-54-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-56-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-51-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2018-09-16</b>
+    <b>Last updated: 2018-10-13</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -66,6 +66,7 @@
 |129|[sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)| [java](.&#x2F;solutions&#x2F;129.sum-root-to-leaf-numbers&#x2F;sum-root-to-leaf-numbers.java)|Medium|41.97%||
 |141|[linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/)| [java](.&#x2F;solutions&#x2F;141.linked-list-cycle&#x2F;linked-list-cycle.java)|Easy|35.04%||
 |142|[linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| [java](.&#x2F;solutions&#x2F;142.linked-list-cycle-ii&#x2F;linked-list-cycle-ii.java)|Medium|27.09%||
+|147|[insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/)| [java](.&#x2F;solutions&#x2F;147.insertion-sort-list&#x2F;insertion-sort-list.java)|Medium|50.17%||
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)| [java](.&#x2F;solutions&#x2F;153.find-minimum-in-rotated-sorted-array&#x2F;find-minimum-in-rotated-sorted-array.java)|Medium|44.19%||
 |160|[intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)| [java](.&#x2F;solutions&#x2F;160.intersection-of-two-linked-lists&#x2F;intersection-of-two-linked-lists.java)|Easy|29.57%||
 |166|[fraction-to-recurring-decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)| [java](.&#x2F;solutions&#x2F;166.fraction-to-recurring-decimal&#x2F;fraction-to-recurring-decimal.java)|Medium|23.57%||
@@ -130,6 +131,7 @@
 |780|[max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
 |782|[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones/)| [java](.&#x2F;solutions&#x2F;782.jewels-and-stones&#x2F;jewels-and-stones.java)|Easy|82.06%||
 |813|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)| [java](.&#x2F;solutions&#x2F;813.all-paths-from-source-to-target&#x2F;all-paths-from-source-to-target.java)|Medium|62.18%||
+|819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
 |870|[magic-squares-in-grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)| [java](.&#x2F;solutions&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.java)|Easy|26.52%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
 |906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
