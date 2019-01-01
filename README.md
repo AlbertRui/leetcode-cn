@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-98/772(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-100/772(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-11-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-57-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-52-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-54-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -89,6 +89,7 @@
 |344|[reverse-string](https://leetcode-cn.com/problems/reverse-string/)| [java](.&#x2F;solutions&#x2F;344.reverse-string&#x2F;reverse-string.java)|Easy|61.12%||
 |345|[reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)| [java](.&#x2F;solutions&#x2F;345.reverse-vowels-of-a-string&#x2F;reverse-vowels-of-a-string.java)|Easy|38.45%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
+|367|[valid-perfect-square](https://leetcode-cn.com/problems/valid-perfect-square/)||Easy|38.26%||
 |371|[sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/)| [java](.&#x2F;solutions&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.java)|Easy|53.42%||
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/)| [java](.&#x2F;solutions&#x2F;384.shuffle-an-array&#x2F;shuffle-an-array.java)|Medium|39.28%||
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
@@ -115,6 +116,7 @@
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
 |623|[add-one-row-to-tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)| [java](.&#x2F;solutions&#x2F;623.add-one-row-to-tree&#x2F;add-one-row-to-tree.java)|Medium|33.85%||
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [java](.&#x2F;solutions&#x2F;633.sum-of-square-numbers&#x2F;sum-of-square-numbers.java)|Easy|22.38%||
+|643|[maximum-average-subarray-i](https://leetcode-cn.com/problems/maximum-average-subarray-i/)| [c++](.&#x2F;solutions&#x2F;643.maximum-average-subarray-i&#x2F;maximum-average-subarray-i.cpp)|Easy|30.95%||
 |647|[palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| [java](.&#x2F;solutions&#x2F;647.palindromic-substrings&#x2F;palindromic-substrings.java)|Medium|55.87%||
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
