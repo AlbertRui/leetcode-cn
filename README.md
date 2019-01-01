@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-97/772(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-98/772(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-11-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-57-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-51-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-52-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -107,6 +107,7 @@
 |496|[next-greater-element-i](https://leetcode-cn.com/problems/next-greater-element-i/)| [java](.&#x2F;solutions&#x2F;496.next-greater-element-i&#x2F;next-greater-element-i.java)|Easy|50.79%||
 |523|[continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)| [java](.&#x2F;solutions&#x2F;523.continuous-subarray-sum&#x2F;continuous-subarray-sum.java)|Medium|17.95%||
 |538|[convert-bst-to-greater-tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| [java](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.java)|Easy|46.04%||
+|557|[reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)| [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java) [c++](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.cpp)|Easy|60.61%||
 |561|[array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [java](.&#x2F;solutions&#x2F;561.array-partition-i&#x2F;array-partition-i.java)|Easy|66.26%||
 |564|[find-the-closest-palindrome](https://leetcode-cn.com/problems/find-the-closest-palindrome/)| [java](.&#x2F;solutions&#x2F;564.find-the-closest-palindrome&#x2F;find-the-closest-palindrome.java)|Hard|7.35%||
 |565|[array-nesting](https://leetcode-cn.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
