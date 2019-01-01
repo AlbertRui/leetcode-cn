@@ -1,7 +1,7 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-96/772(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-10-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-97/772(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-11-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-57-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-51-blue.svg?style=flat-square" alt="">
 </p>
@@ -136,4 +136,5 @@
 |871|[keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/)| [java](.&#x2F;solutions&#x2F;871.keys-and-rooms&#x2F;keys-and-rooms.java)|Medium|51.72%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
 |906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
+|973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
 
