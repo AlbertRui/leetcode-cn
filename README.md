@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-102/772(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-103/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-12-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-58-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-54-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-55-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-01</b>
+    <b>Last updated: 2019-01-02</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -122,6 +122,7 @@
 |647|[palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| [java](.&#x2F;solutions&#x2F;647.palindromic-substrings&#x2F;palindromic-substrings.java)|Medium|55.87%||
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
+|669|[trim-a-binary-search-tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)| [c++](.&#x2F;solutions&#x2F;669.trim-a-binary-search-tree&#x2F;trim-a-binary-search-tree.cpp)|Easy|56.23%||
 |680|[valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii/)| [java](.&#x2F;solutions&#x2F;680.valid-palindrome-ii&#x2F;valid-palindrome-ii.java)|Easy|24.80%||
 |682|[baseball-game](https://leetcode-cn.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
 |686|[repeated-string-match](https://leetcode-cn.com/problems/repeated-string-match/)| [java](.&#x2F;solutions&#x2F;686.repeated-string-match&#x2F;repeated-string-match.java)|Easy|20.00%||
