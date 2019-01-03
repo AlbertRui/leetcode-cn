@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-108/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-109/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-12-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-62-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-63-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-56-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -49,6 +49,7 @@
 |047|[permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)| [java](.&#x2F;solutions&#x2F;047.permutations-ii&#x2F;permutations-ii.java)|Medium|42.18%||
 |049|[group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)| [java](.&#x2F;solutions&#x2F;049.group-anagrams&#x2F;group-anagrams.java)|Medium|43.36%||
 |051|[n-queens](https://leetcode-cn.com/problems/n-queens/)| [java](.&#x2F;solutions&#x2F;051.n-queens&#x2F;n-queens.java)|Hard|46.21%||
+|054|[spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/)| [c++](.&#x2F;solutions&#x2F;054.spiral-matrix&#x2F;spiral-matrix.cpp)|Medium|32.28%||
 |055|[jump-game](https://leetcode-cn.com/problems/jump-game/)| [java](.&#x2F;solutions&#x2F;055.jump-game&#x2F;jump-game.java)|Medium|30.77%||
 |079|[word-search](https://leetcode-cn.com/problems/word-search/)| [java](.&#x2F;solutions&#x2F;079.word-search&#x2F;word-search.java)|Medium|30.89%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
