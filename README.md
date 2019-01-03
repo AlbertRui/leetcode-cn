@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-103/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-105/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-12-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-58-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-60-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-55-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-02</b>
+    <b>Last updated: 2019-01-03</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -136,10 +136,12 @@
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
 |780|[max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
 |782|[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones/)| [java](.&#x2F;solutions&#x2F;782.jewels-and-stones&#x2F;jewels-and-stones.java)|Easy|82.06%||
+|784|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||Medium|57.85%||
 |813|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)| [java](.&#x2F;solutions&#x2F;813.all-paths-from-source-to-target&#x2F;all-paths-from-source-to-target.java)|Medium|62.18%||
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
 |870|[magic-squares-in-grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)| [java](.&#x2F;solutions&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.java)|Easy|26.52%||
 |871|[keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/)| [java](.&#x2F;solutions&#x2F;871.keys-and-rooms&#x2F;keys-and-rooms.java)|Medium|51.72%||
+|886|[score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)| [c++](.&#x2F;solutions&#x2F;886.score-of-parentheses&#x2F;score-of-parentheses.cpp)|Medium|45.86%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
 |906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
