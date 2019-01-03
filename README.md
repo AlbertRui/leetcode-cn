@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-106/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-107/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-12-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-61-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-62-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-55-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -96,6 +96,7 @@
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
 |407|[trapping-rain-water-ii](https://leetcode-cn.com/problems/trapping-rain-water-ii/)| [java](.&#x2F;solutions&#x2F;407.trapping-rain-water-ii&#x2F;trapping-rain-water-ii.java)|Hard|19.64%||
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
+|424|[longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)| [c++](.&#x2F;solutions&#x2F;424.longest-repeating-character-replacement&#x2F;longest-repeating-character-replacement.cpp)|Medium|25.97%||
 |436|[find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)| [java](.&#x2F;solutions&#x2F;436.find-right-interval&#x2F;find-right-interval.java)|Medium|18.18%||
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)| [c++](.&#x2F;solutions&#x2F;440.k-th-smallest-in-lexicographical-order&#x2F;k-th-smallest-in-lexicographical-order.cpp)|Hard|21.30%||
 |442|[find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)| [java](.&#x2F;solutions&#x2F;442.find-all-duplicates-in-an-array&#x2F;find-all-duplicates-in-an-array.java)|Medium|56.96%||
