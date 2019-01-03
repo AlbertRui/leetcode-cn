@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-105/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-106/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-12-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-60-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-61-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-55-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -144,5 +144,6 @@
 |886|[score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)| [c++](.&#x2F;solutions&#x2F;886.score-of-parentheses&#x2F;score-of-parentheses.cpp)|Medium|45.86%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
 |906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
+|917|[boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/)| [c++](.&#x2F;solutions&#x2F;917.boats-to-save-people&#x2F;boats-to-save-people.cpp)|Medium|29.11%||
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
 
