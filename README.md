@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-113/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-114/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-13-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-63-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-64-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-57-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -54,6 +54,7 @@
 |067|[add-binary](https://leetcode-cn.com/problems/add-binary/)| [java](.&#x2F;solutions&#x2F;067.add-binary&#x2F;add-binary.java)|Easy|44.53%||
 |079|[word-search](https://leetcode-cn.com/problems/word-search/)| [java](.&#x2F;solutions&#x2F;079.word-search&#x2F;word-search.java)|Medium|30.89%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
+|086|[partition-list](https://leetcode-cn.com/problems/partition-list/)| [c++](.&#x2F;solutions&#x2F;086.partition-list&#x2F;partition-list.cpp)|Medium|42.16%||
 |088|[merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/)| [java](.&#x2F;solutions&#x2F;088.merge-sorted-array&#x2F;merge-sorted-array.java)|Easy|28.61%||
 |090|[subsets-ii](https://leetcode-cn.com/problems/subsets-ii/)| [java](.&#x2F;solutions&#x2F;090.subsets-ii&#x2F;subsets-ii.java)|Medium|45.15%||
 |091|[decode-ways](https://leetcode-cn.com/problems/decode-ways/)| [java](.&#x2F;solutions&#x2F;091.decode-ways&#x2F;decode-ways.java)|Medium|16.82%||
