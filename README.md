@@ -1,6 +1,6 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-111/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-112/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-13-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-63-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-57-blue.svg?style=flat-square" alt="">
