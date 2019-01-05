@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-114/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-116/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-13-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-64-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-66-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-57-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-04</b>
+    <b>Last updated: 2019-01-05</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -89,6 +89,7 @@
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
 |319|[bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/)| [java](.&#x2F;solutions&#x2F;319.bulb-switcher&#x2F;bulb-switcher.java)|Medium|28.71%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
+|338|[counting-bits](https://leetcode-cn.com/problems/counting-bits/)||Medium|69.11%||
 |344|[reverse-string](https://leetcode-cn.com/problems/reverse-string/)| [java](.&#x2F;solutions&#x2F;344.reverse-string&#x2F;reverse-string.java)|Easy|61.12%||
 |345|[reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)| [java](.&#x2F;solutions&#x2F;345.reverse-vowels-of-a-string&#x2F;reverse-vowels-of-a-string.java)|Easy|38.45%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
@@ -144,6 +145,7 @@
 |784|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||Medium|57.85%||
 |813|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)| [java](.&#x2F;solutions&#x2F;813.all-paths-from-source-to-target&#x2F;all-paths-from-source-to-target.java)|Medium|62.18%||
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
+|834|[ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)| [java](.&#x2F;solutions&#x2F;834.ambiguous-coordinates&#x2F;ambiguous-coordinates.java)|Medium|40.91%||
 |870|[magic-squares-in-grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)| [java](.&#x2F;solutions&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.java)|Easy|26.52%||
 |871|[keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/)| [java](.&#x2F;solutions&#x2F;871.keys-and-rooms&#x2F;keys-and-rooms.java)|Medium|51.72%||
 |886|[score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)| [c++](.&#x2F;solutions&#x2F;886.score-of-parentheses&#x2F;score-of-parentheses.cpp)|Medium|45.86%||
