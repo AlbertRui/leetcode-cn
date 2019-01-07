@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-126/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-127/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-13-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-72-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-73-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-61-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -129,6 +129,7 @@
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
 |623|[add-one-row-to-tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)| [java](.&#x2F;solutions&#x2F;623.add-one-row-to-tree&#x2F;add-one-row-to-tree.java)|Medium|33.85%||
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [java](.&#x2F;solutions&#x2F;633.sum-of-square-numbers&#x2F;sum-of-square-numbers.java)|Easy|22.38%||
+|636|[exclusive-time-of-functions](https://leetcode-cn.com/problems/exclusive-time-of-functions/)| [c++](.&#x2F;solutions&#x2F;636.exclusive-time-of-functions&#x2F;exclusive-time-of-functions.cpp)|Medium|40.55%||
 |643|[maximum-average-subarray-i](https://leetcode-cn.com/problems/maximum-average-subarray-i/)| [c++](.&#x2F;solutions&#x2F;643.maximum-average-subarray-i&#x2F;maximum-average-subarray-i.cpp)|Easy|30.95%||
 |647|[palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| [java](.&#x2F;solutions&#x2F;647.palindromic-substrings&#x2F;palindromic-substrings.java)|Medium|55.87%||
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
