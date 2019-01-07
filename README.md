@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-124/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-125/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-13-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-72-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-59-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-60-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -72,6 +72,7 @@
 |142|[linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| [java](.&#x2F;solutions&#x2F;142.linked-list-cycle-ii&#x2F;linked-list-cycle-ii.java)|Medium|27.09%||
 |147|[insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/)| [java](.&#x2F;solutions&#x2F;147.insertion-sort-list&#x2F;insertion-sort-list.java)|Medium|50.17%||
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)| [java](.&#x2F;solutions&#x2F;153.find-minimum-in-rotated-sorted-array&#x2F;find-minimum-in-rotated-sorted-array.java)|Medium|44.19%||
+|155|[min-stack](https://leetcode-cn.com/problems/min-stack/)| [java](.&#x2F;solutions&#x2F;155.min-stack&#x2F;min-stack.java)|Easy|45.72%||
 |160|[intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)| [java](.&#x2F;solutions&#x2F;160.intersection-of-two-linked-lists&#x2F;intersection-of-two-linked-lists.java)|Easy|29.57%||
 |166|[fraction-to-recurring-decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)| [java](.&#x2F;solutions&#x2F;166.fraction-to-recurring-decimal&#x2F;fraction-to-recurring-decimal.java)|Medium|23.57%||
 |169|[majority-element](https://leetcode-cn.com/problems/majority-element/)| [java](.&#x2F;solutions&#x2F;169.majority-element&#x2F;majority-element.java)|Easy|48.02%||
