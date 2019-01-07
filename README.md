@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-127/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-128/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-13-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-73-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-61-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-62-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -101,6 +101,7 @@
 |376|[wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)| [c++](.&#x2F;solutions&#x2F;376.wiggle-subsequence&#x2F;wiggle-subsequence.cpp)|Medium|32.13%||
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/)| [java](.&#x2F;solutions&#x2F;384.shuffle-an-array&#x2F;shuffle-an-array.java)|Medium|39.28%||
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
+|405|[convert-a-number-to-hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)| [java](.&#x2F;solutions&#x2F;405.convert-a-number-to-hexadecimal&#x2F;convert-a-number-to-hexadecimal.java)|Easy|43.23%||
 |407|[trapping-rain-water-ii](https://leetcode-cn.com/problems/trapping-rain-water-ii/)| [java](.&#x2F;solutions&#x2F;407.trapping-rain-water-ii&#x2F;trapping-rain-water-ii.java)|Hard|19.64%||
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
 |424|[longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)| [c++](.&#x2F;solutions&#x2F;424.longest-repeating-character-replacement&#x2F;longest-repeating-character-replacement.cpp)|Medium|25.97%||
