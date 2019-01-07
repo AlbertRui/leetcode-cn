@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-130/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-131/776(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-14-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-74-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-75-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-62-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -155,6 +155,7 @@
 |780|[max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
 |782|[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones/)| [java](.&#x2F;solutions&#x2F;782.jewels-and-stones&#x2F;jewels-and-stones.java)|Easy|82.06%||
 |784|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||Medium|57.85%||
+|811|[number-of-subarrays-with-bounded-maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/)| [c++](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.cpp) [java](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.java)|Medium|38.52%||
 |813|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)| [java](.&#x2F;solutions&#x2F;813.all-paths-from-source-to-target&#x2F;all-paths-from-source-to-target.java)|Medium|62.18%||
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
 |834|[ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)| [java](.&#x2F;solutions&#x2F;834.ambiguous-coordinates&#x2F;ambiguous-coordinates.java)|Medium|40.91%||
