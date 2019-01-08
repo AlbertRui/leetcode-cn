@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-132/777(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-133/777(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-14-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-75-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-63-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-64-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -43,6 +43,7 @@
 |023|[merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| [java](.&#x2F;solutions&#x2F;023.merge-k-sorted-lists&#x2F;merge-k-sorted-lists.java)|Hard|29.62%||
 |024|[swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [java](.&#x2F;solutions&#x2F;024.swap-nodes-in-pairs&#x2F;swap-nodes-in-pairs.java)|Medium|39.12%||
 |026|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [java](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.java)|Easy|35.42%||
+|038|[count-and-say](https://leetcode-cn.com/problems/count-and-say/)| [java](.&#x2F;solutions&#x2F;038.count-and-say&#x2F;count-and-say.java)|Easy|46.65%||
 |041|[first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/)| [java](.&#x2F;solutions&#x2F;041.first-missing-positive&#x2F;first-missing-positive.java)|Hard|25.00%||
 |042|[trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/)| [java](.&#x2F;solutions&#x2F;042.trapping-rain-water&#x2F;trapping-rain-water.java)|Hard|35.10%||
 |046|[permutations](https://leetcode-cn.com/problems/permutations/)| [java](.&#x2F;solutions&#x2F;046.permutations&#x2F;permutations.java)|Medium|61.80%||
