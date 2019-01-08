@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-131/776(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-132/777(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-14-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-75-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-62-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-63-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-07</b>
+    <b>Last updated: 2019-01-08</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -138,6 +138,7 @@
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
 |669|[trim-a-binary-search-tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)| [c++](.&#x2F;solutions&#x2F;669.trim-a-binary-search-tree&#x2F;trim-a-binary-search-tree.cpp)|Easy|56.23%||
+|671|[second-minimum-node-in-a-binary-tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)| [c++](.&#x2F;solutions&#x2F;671.second-minimum-node-in-a-binary-tree&#x2F;second-minimum-node-in-a-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;671.second-minimum-node-in-a-binary-tree&#x2F;second-minimum-node-in-a-binary-tree.java)|Easy|44.52%||
 |672|[bulb-switcher-ii](https://leetcode-cn.com/problems/bulb-switcher-ii/)| [java](.&#x2F;solutions&#x2F;672.bulb-switcher-ii&#x2F;bulb-switcher-ii.java)|Medium|42.02%||
 |680|[valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii/)| [java](.&#x2F;solutions&#x2F;680.valid-palindrome-ii&#x2F;valid-palindrome-ii.java)|Easy|24.80%||
 |682|[baseball-game](https://leetcode-cn.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
