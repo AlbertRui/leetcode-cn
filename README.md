@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-134/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-135/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-14-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-76-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-64-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-65-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -131,6 +131,7 @@
 |565|[array-nesting](https://leetcode-cn.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
 |566|[reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)| [java](.&#x2F;solutions&#x2F;566.reshape-the-matrix&#x2F;reshape-the-matrix.java)|Easy|57.64%||
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
+|617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| [c++](.&#x2F;solutions&#x2F;617.merge-two-binary-trees&#x2F;merge-two-binary-trees.cpp)|Easy|65.38%||
 |623|[add-one-row-to-tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)| [java](.&#x2F;solutions&#x2F;623.add-one-row-to-tree&#x2F;add-one-row-to-tree.java)|Medium|33.85%||
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [java](.&#x2F;solutions&#x2F;633.sum-of-square-numbers&#x2F;sum-of-square-numbers.java)|Easy|22.38%||
 |636|[exclusive-time-of-functions](https://leetcode-cn.com/problems/exclusive-time-of-functions/)| [c++](.&#x2F;solutions&#x2F;636.exclusive-time-of-functions&#x2F;exclusive-time-of-functions.cpp)|Medium|40.55%||
