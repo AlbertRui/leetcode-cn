@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-138/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-139/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-76-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-67-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-68-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -104,6 +104,7 @@
 |371|[sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/)| [java](.&#x2F;solutions&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.java)|Easy|53.42%||
 |376|[wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)| [c++](.&#x2F;solutions&#x2F;376.wiggle-subsequence&#x2F;wiggle-subsequence.cpp)|Medium|32.13%||
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/)| [java](.&#x2F;solutions&#x2F;384.shuffle-an-array&#x2F;shuffle-an-array.java)|Medium|39.28%||
+|401|[binary-watch](https://leetcode-cn.com/problems/binary-watch/)| [c++](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.cpp) [java](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.java)|Easy|43.28%||
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
 |405|[convert-a-number-to-hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)| [java](.&#x2F;solutions&#x2F;405.convert-a-number-to-hexadecimal&#x2F;convert-a-number-to-hexadecimal.java)|Easy|43.23%||
 |407|[trapping-rain-water-ii](https://leetcode-cn.com/problems/trapping-rain-water-ii/)| [java](.&#x2F;solutions&#x2F;407.trapping-rain-water-ii&#x2F;trapping-rain-water-ii.java)|Hard|19.64%||
