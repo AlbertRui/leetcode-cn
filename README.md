@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-137/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-138/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-76-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-66-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-67-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-09</b>
+    <b>Last updated: 2019-01-10</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -125,6 +125,7 @@
 |495|[teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/)| [java](.&#x2F;solutions&#x2F;495.teemo-attacking&#x2F;teemo-attacking.java)|Medium|51.40%||
 |496|[next-greater-element-i](https://leetcode-cn.com/problems/next-greater-element-i/)| [java](.&#x2F;solutions&#x2F;496.next-greater-element-i&#x2F;next-greater-element-i.java)|Easy|50.79%||
 |523|[continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)| [java](.&#x2F;solutions&#x2F;523.continuous-subarray-sum&#x2F;continuous-subarray-sum.java)|Medium|17.95%||
+|530|[minimum-absolute-difference-in-bst](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)| [c++](.&#x2F;solutions&#x2F;530.minimum-absolute-difference-in-bst&#x2F;minimum-absolute-difference-in-bst.cpp)|Easy|50.67%||
 |538|[convert-bst-to-greater-tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| [java](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.java)|Easy|46.04%||
 |557|[reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)| [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java) [c++](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.cpp)|Easy|60.61%||
 |561|[array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [java](.&#x2F;solutions&#x2F;561.array-partition-i&#x2F;array-partition-i.java)|Easy|66.26%||
