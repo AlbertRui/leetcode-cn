@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-140/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-142/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-77-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-79-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-68-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -78,6 +78,7 @@
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)| [java](.&#x2F;solutions&#x2F;153.find-minimum-in-rotated-sorted-array&#x2F;find-minimum-in-rotated-sorted-array.java)|Medium|44.19%||
 |155|[min-stack](https://leetcode-cn.com/problems/min-stack/)| [java](.&#x2F;solutions&#x2F;155.min-stack&#x2F;min-stack.java)|Easy|45.72%||
 |160|[intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)| [java](.&#x2F;solutions&#x2F;160.intersection-of-two-linked-lists&#x2F;intersection-of-two-linked-lists.java)|Easy|29.57%||
+|165|[compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)| [java](.&#x2F;solutions&#x2F;165.compare-version-numbers&#x2F;compare-version-numbers.java)|Medium|23.70%||
 |166|[fraction-to-recurring-decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)| [java](.&#x2F;solutions&#x2F;166.fraction-to-recurring-decimal&#x2F;fraction-to-recurring-decimal.java)|Medium|23.57%||
 |169|[majority-element](https://leetcode-cn.com/problems/majority-element/)| [java](.&#x2F;solutions&#x2F;169.majority-element&#x2F;majority-element.java)|Easy|48.02%||
 |172|[factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)| [java](.&#x2F;solutions&#x2F;172.factorial-trailing-zeroes&#x2F;factorial-trailing-zeroes.java)|Easy|33.03%||
@@ -166,6 +167,7 @@
 |811|[number-of-subarrays-with-bounded-maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/)| [c++](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.cpp) [java](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.java)|Medium|38.52%||
 |813|[all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)| [java](.&#x2F;solutions&#x2F;813.all-paths-from-source-to-target&#x2F;all-paths-from-source-to-target.java)|Medium|62.18%||
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
+|827|[expressive-words](https://leetcode-cn.com/problems/expressive-words/)||Medium|28.96%||
 |834|[ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)| [java](.&#x2F;solutions&#x2F;834.ambiguous-coordinates&#x2F;ambiguous-coordinates.java)|Medium|40.91%||
 |853|[most-profit-assigning-work](https://leetcode-cn.com/problems/most-profit-assigning-work/)| [java](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.java) [c++](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.cpp)|Medium|28.10%||
 |870|[magic-squares-in-grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)| [java](.&#x2F;solutions&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.java)|Easy|26.52%||
