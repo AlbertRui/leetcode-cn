@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-139/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-140/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-76-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-77-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-68-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-10</b>
+    <b>Last updated: 2019-01-11</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -139,6 +139,7 @@
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [java](.&#x2F;solutions&#x2F;633.sum-of-square-numbers&#x2F;sum-of-square-numbers.java)|Easy|22.38%||
 |636|[exclusive-time-of-functions](https://leetcode-cn.com/problems/exclusive-time-of-functions/)| [c++](.&#x2F;solutions&#x2F;636.exclusive-time-of-functions&#x2F;exclusive-time-of-functions.cpp)|Medium|40.55%||
 |643|[maximum-average-subarray-i](https://leetcode-cn.com/problems/maximum-average-subarray-i/)| [c++](.&#x2F;solutions&#x2F;643.maximum-average-subarray-i&#x2F;maximum-average-subarray-i.cpp)|Easy|30.95%||
+|646|[maximum-length-of-pair-chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)| [java](.&#x2F;solutions&#x2F;646.maximum-length-of-pair-chain&#x2F;maximum-length-of-pair-chain.java)|Medium|45.06%||
 |647|[palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| [java](.&#x2F;solutions&#x2F;647.palindromic-substrings&#x2F;palindromic-substrings.java)|Medium|55.87%||
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
