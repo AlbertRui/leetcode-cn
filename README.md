@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-149/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-150/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-83-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-71-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-72-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -159,6 +159,7 @@
 |717|[1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
 |720|[longest-word-in-dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/)| [java](.&#x2F;solutions&#x2F;720.longest-word-in-dictionary&#x2F;longest-word-in-dictionary.java)|Easy|31.36%||
 |725|[split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
+|728|[self-dividing-numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)| [java](.&#x2F;solutions&#x2F;728.self-dividing-numbers&#x2F;self-dividing-numbers.java)|Easy|64.42%||
 |776|[n-ary-tree-postorder-traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)| [java](.&#x2F;solutions&#x2F;776.n-ary-tree-postorder-traversal&#x2F;n-ary-tree-postorder-traversal.java) [c++](.&#x2F;solutions&#x2F;776.n-ary-tree-postorder-traversal&#x2F;n-ary-tree-postorder-traversal.cpp)|Easy|63.44%||
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
 |780|[max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
