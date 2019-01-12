@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-144/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-145/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-80-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-81-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-69-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-11</b>
+    <b>Last updated: 2019-01-12</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -173,6 +173,7 @@
 |853|[most-profit-assigning-work](https://leetcode-cn.com/problems/most-profit-assigning-work/)| [java](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.java) [c++](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.cpp)|Medium|28.10%||
 |870|[magic-squares-in-grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)| [java](.&#x2F;solutions&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.java)|Easy|26.52%||
 |871|[keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/)| [java](.&#x2F;solutions&#x2F;871.keys-and-rooms&#x2F;keys-and-rooms.java)|Medium|51.72%||
+|872|[split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)| [java](.&#x2F;solutions&#x2F;872.split-array-into-fibonacci-sequence&#x2F;split-array-into-fibonacci-sequence.java)|Medium|30.93%||
 |886|[score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)| [c++](.&#x2F;solutions&#x2F;886.score-of-parentheses&#x2F;score-of-parentheses.cpp)|Medium|45.86%||
 |902|[minimum-number-of-refueling-stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)| [c++](.&#x2F;solutions&#x2F;902.minimum-number-of-refueling-stops&#x2F;minimum-number-of-refueling-stops.cpp)|Hard|20.62%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
