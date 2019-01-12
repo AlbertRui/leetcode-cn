@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-146/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-147/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-81-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-82-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-70-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -178,6 +178,7 @@
 |902|[minimum-number-of-refueling-stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)| [c++](.&#x2F;solutions&#x2F;902.minimum-number-of-refueling-stops&#x2F;minimum-number-of-refueling-stops.cpp)|Hard|20.62%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
 |906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
+|913|[random-flip-matrix](https://leetcode-cn.com/problems/random-flip-matrix/)| [c++](.&#x2F;solutions&#x2F;913.random-flip-matrix&#x2F;random-flip-matrix.cpp)|Medium|24.85%||
 |917|[boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/)| [c++](.&#x2F;solutions&#x2F;917.boats-to-save-people&#x2F;boats-to-save-people.cpp)|Medium|29.11%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
 |962|[flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)| [c++](.&#x2F;solutions&#x2F;962.flip-string-to-monotone-increasing&#x2F;flip-string-to-monotone-increasing.cpp)|Medium|32.24%||
