@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-145/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-146/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-81-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-69-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-70-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -183,4 +183,5 @@
 |962|[flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)| [c++](.&#x2F;solutions&#x2F;962.flip-string-to-monotone-increasing&#x2F;flip-string-to-monotone-increasing.cpp)|Medium|32.24%||
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
 |1001|[n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)| [c++](.&#x2F;solutions&#x2F;1001.n-repeated-element-in-size-2n-array&#x2F;n-repeated-element-in-size-2n-array.cpp)|Easy|68.95%||
+|1013|[fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)| [java](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.java) [c++](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.cpp)|Easy|59.69%||
 
