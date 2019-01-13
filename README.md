@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-150/781(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-151/781(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-83-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-84-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-72-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-12</b>
+    <b>Last updated: 2019-01-13</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -52,6 +52,7 @@
 |051|[n-queens](https://leetcode-cn.com/problems/n-queens/)| [java](.&#x2F;solutions&#x2F;051.n-queens&#x2F;n-queens.java)|Hard|46.21%||
 |054|[spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/)| [c++](.&#x2F;solutions&#x2F;054.spiral-matrix&#x2F;spiral-matrix.cpp)|Medium|32.28%||
 |055|[jump-game](https://leetcode-cn.com/problems/jump-game/)| [java](.&#x2F;solutions&#x2F;055.jump-game&#x2F;jump-game.java)|Medium|30.77%||
+|056|[merge-intervals](https://leetcode-cn.com/problems/merge-intervals/)| [java](.&#x2F;solutions&#x2F;056.merge-intervals&#x2F;merge-intervals.java) [c++](.&#x2F;solutions&#x2F;056.merge-intervals&#x2F;merge-intervals.cpp)|Medium|33.04%||
 |060|[permutation-sequence](https://leetcode-cn.com/problems/permutation-sequence/)| [java](.&#x2F;solutions&#x2F;060.permutation-sequence&#x2F;permutation-sequence.java)|Medium|41.21%||
 |067|[add-binary](https://leetcode-cn.com/problems/add-binary/)| [java](.&#x2F;solutions&#x2F;067.add-binary&#x2F;add-binary.java)|Easy|44.53%||
 |079|[word-search](https://leetcode-cn.com/problems/word-search/)| [java](.&#x2F;solutions&#x2F;079.word-search&#x2F;word-search.java)|Medium|30.89%||
