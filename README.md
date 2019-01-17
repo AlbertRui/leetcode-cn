@@ -1,7 +1,7 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-157/785(0)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-15-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-158/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-86-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-76-blue.svg?style=flat-square" alt="">
 </p>
@@ -183,6 +183,7 @@
 |872|[split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)| [java](.&#x2F;solutions&#x2F;872.split-array-into-fibonacci-sequence&#x2F;split-array-into-fibonacci-sequence.java)|Medium|30.93%||
 |882|[peak-index-in-a-mountain-array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)| [java](.&#x2F;solutions&#x2F;882.peak-index-in-a-mountain-array&#x2F;peak-index-in-a-mountain-array.java) [c++](.&#x2F;solutions&#x2F;882.peak-index-in-a-mountain-array&#x2F;peak-index-in-a-mountain-array.cpp)|Easy|66.02%||
 |886|[score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)| [c++](.&#x2F;solutions&#x2F;886.score-of-parentheses&#x2F;score-of-parentheses.cpp)|Medium|45.86%||
+|887|[minimum-cost-to-hire-k-workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)| [java](.&#x2F;solutions&#x2F;887.minimum-cost-to-hire-k-workers&#x2F;minimum-cost-to-hire-k-workers.java)|Hard|29.73%||
 |890|[lemonade-change](https://leetcode-cn.com/problems/lemonade-change/)| [java](.&#x2F;solutions&#x2F;890.lemonade-change&#x2F;lemonade-change.java)|Easy|47.22%||
 |902|[minimum-number-of-refueling-stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)| [c++](.&#x2F;solutions&#x2F;902.minimum-number-of-refueling-stops&#x2F;minimum-number-of-refueling-stops.cpp)|Hard|20.62%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
