@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-158/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-159/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-86-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-76-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -94,6 +94,7 @@
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [java](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.java)|Easy|39.25%||
 |237|[delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)| [java](.&#x2F;solutions&#x2F;237.delete-node-in-a-linked-list&#x2F;delete-node-in-a-linked-list.java)|Easy|47.24%||
 |238|[product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/)| [java](.&#x2F;solutions&#x2F;238.product-of-array-except-self&#x2F;product-of-array-except-self.java)|Medium|50.28%||
+|240|[search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)| [java](.&#x2F;solutions&#x2F;240.search-a-2d-matrix-ii&#x2F;search-a-2d-matrix-ii.java)|Medium|38.52%||
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)| [java](.&#x2F;solutions&#x2F;242.valid-anagram&#x2F;valid-anagram.java)|Easy|42.36%||
 |257|[binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/)| [java](.&#x2F;solutions&#x2F;257.binary-tree-paths&#x2F;binary-tree-paths.java)|Easy|51.13%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
