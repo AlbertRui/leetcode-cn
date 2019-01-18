@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-167/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-168/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-83-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-84-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -158,6 +158,7 @@
 |669|[trim-a-binary-search-tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)| [c++](.&#x2F;solutions&#x2F;669.trim-a-binary-search-tree&#x2F;trim-a-binary-search-tree.cpp)|Easy|56.23%||
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)| [c++](.&#x2F;solutions&#x2F;671.second-minimum-node-in-a-binary-tree&#x2F;second-minimum-node-in-a-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;671.second-minimum-node-in-a-binary-tree&#x2F;second-minimum-node-in-a-binary-tree.java)|Easy|44.52%||
 |672|[bulb-switcher-ii](https://leetcode-cn.com/problems/bulb-switcher-ii/)| [java](.&#x2F;solutions&#x2F;672.bulb-switcher-ii&#x2F;bulb-switcher-ii.java)|Medium|42.02%||
+|674|[longest-continuous-increasing-subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)| [java](.&#x2F;solutions&#x2F;674.longest-continuous-increasing-subsequence&#x2F;longest-continuous-increasing-subsequence.java)|Easy|37.24%||
 |680|[valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii/)| [java](.&#x2F;solutions&#x2F;680.valid-palindrome-ii&#x2F;valid-palindrome-ii.java)|Easy|24.80%||
 |682|[baseball-game](https://leetcode-cn.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
 |686|[repeated-string-match](https://leetcode-cn.com/problems/repeated-string-match/)| [java](.&#x2F;solutions&#x2F;686.repeated-string-match&#x2F;repeated-string-match.java)|Easy|20.00%||
