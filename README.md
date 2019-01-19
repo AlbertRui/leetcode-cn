@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-170/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-172/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-86-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-88-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -100,6 +100,7 @@
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)| [java](.&#x2F;solutions&#x2F;242.valid-anagram&#x2F;valid-anagram.java)|Easy|42.36%||
 |257|[binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/)| [java](.&#x2F;solutions&#x2F;257.binary-tree-paths&#x2F;binary-tree-paths.java)|Easy|51.13%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
+|292|[nim-game](https://leetcode-cn.com/problems/nim-game/)| [c++](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.cpp)|Easy|64.77%||
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
 |319|[bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/)| [java](.&#x2F;solutions&#x2F;319.bulb-switcher&#x2F;bulb-switcher.java)|Medium|28.71%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
@@ -203,6 +204,7 @@
 |917|[boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/)| [c++](.&#x2F;solutions&#x2F;917.boats-to-save-people&#x2F;boats-to-save-people.cpp)|Medium|29.11%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
 |962|[flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)| [c++](.&#x2F;solutions&#x2F;962.flip-string-to-monotone-increasing&#x2F;flip-string-to-monotone-increasing.cpp)|Medium|32.24%||
+|965|[unique-email-addresses](https://leetcode-cn.com/problems/unique-email-addresses/)| [java](.&#x2F;solutions&#x2F;965.unique-email-addresses&#x2F;unique-email-addresses.java)|Easy|72.95%||
 |967|[minimum-falling-path-sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/)| [java](.&#x2F;solutions&#x2F;967.minimum-falling-path-sum&#x2F;minimum-falling-path-sum.java)|Medium|48.15%||
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
 |1001|[n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)| [c++](.&#x2F;solutions&#x2F;1001.n-repeated-element-in-size-2n-array&#x2F;n-repeated-element-in-size-2n-array.cpp)|Easy|68.95%||
