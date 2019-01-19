@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-174/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-176/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-90-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-92-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -90,6 +90,7 @@
 |199|[binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| [java](.&#x2F;solutions&#x2F;199.binary-tree-right-side-view&#x2F;binary-tree-right-side-view.java)|Medium|42.73%||
 |203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)| [java](.&#x2F;solutions&#x2F;203.remove-linked-list-elements&#x2F;remove-linked-list-elements.java)|Easy|38.04%||
 |204|[count-primes](https://leetcode-cn.com/problems/count-primes/)| [c++](.&#x2F;solutions&#x2F;204.count-primes&#x2F;count-primes.cpp)|Easy|24.15%||
+|205|[isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/)| [java](.&#x2F;solutions&#x2F;205.isomorphic-strings&#x2F;isomorphic-strings.java) [c++](.&#x2F;solutions&#x2F;205.isomorphic-strings&#x2F;isomorphic-strings.cpp)|Easy|41.67%||
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)| [java](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.java)|Easy|46.74%||
 |209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)| [java](.&#x2F;solutions&#x2F;209.minimum-size-subarray-sum&#x2F;minimum-size-subarray-sum.java)|Medium|32.16%||
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [java](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.java)|Easy|39.25%||
@@ -114,6 +115,7 @@
 |376|[wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)| [c++](.&#x2F;solutions&#x2F;376.wiggle-subsequence&#x2F;wiggle-subsequence.cpp)|Medium|32.13%||
 |382|[linked-list-random-node](https://leetcode-cn.com/problems/linked-list-random-node/)| [java](.&#x2F;solutions&#x2F;382.linked-list-random-node&#x2F;linked-list-random-node.java)|Medium|49.66%||
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/)| [java](.&#x2F;solutions&#x2F;384.shuffle-an-array&#x2F;shuffle-an-array.java)|Medium|39.28%||
+|387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)||Easy|34.67%||
 |397|[integer-replacement](https://leetcode-cn.com/problems/integer-replacement/)| [c++](.&#x2F;solutions&#x2F;397.integer-replacement&#x2F;integer-replacement.cpp) [java](.&#x2F;solutions&#x2F;397.integer-replacement&#x2F;integer-replacement.java)|Medium|28.32%||
 |401|[binary-watch](https://leetcode-cn.com/problems/binary-watch/)| [c++](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.cpp) [java](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.java)|Easy|43.28%||
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
