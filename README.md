@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-169/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-170/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-85-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-86-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-18</b>
+    <b>Last updated: 2019-01-19</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -123,6 +123,7 @@
 |436|[find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)| [java](.&#x2F;solutions&#x2F;436.find-right-interval&#x2F;find-right-interval.java)|Medium|18.18%||
 |437|[path-sum-iii](https://leetcode-cn.com/problems/path-sum-iii/)| [c++](.&#x2F;solutions&#x2F;437.path-sum-iii&#x2F;path-sum-iii.cpp)|Easy|44.90%||
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)| [c++](.&#x2F;solutions&#x2F;440.k-th-smallest-in-lexicographical-order&#x2F;k-th-smallest-in-lexicographical-order.cpp)|Hard|21.30%||
+|441|[arranging-coins](https://leetcode-cn.com/problems/arranging-coins/)| [c++](.&#x2F;solutions&#x2F;441.arranging-coins&#x2F;arranging-coins.cpp) [java](.&#x2F;solutions&#x2F;441.arranging-coins&#x2F;arranging-coins.java)|Easy|34.29%||
 |442|[find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)| [java](.&#x2F;solutions&#x2F;442.find-all-duplicates-in-an-array&#x2F;find-all-duplicates-in-an-array.java)|Medium|56.96%||
 |443|[string-compression](https://leetcode-cn.com/problems/string-compression/)| [java](.&#x2F;solutions&#x2F;443.string-compression&#x2F;string-compression.java)|Easy|23.84%||
 |445|[add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/)| [java](.&#x2F;solutions&#x2F;445.add-two-numbers-ii&#x2F;add-two-numbers-ii.java)|Medium|46.21%||
