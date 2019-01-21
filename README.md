@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-185/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-186/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-101-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-102-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -175,6 +175,7 @@
 |690|[employee-importance](https://leetcode-cn.com/problems/employee-importance/)| [java](.&#x2F;solutions&#x2F;690.employee-importance&#x2F;employee-importance.java)|Easy|45.54%||
 |693|[binary-number-with-alternating-bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)| [java](.&#x2F;solutions&#x2F;693.binary-number-with-alternating-bits&#x2F;binary-number-with-alternating-bits.java)|Easy|56.97%||
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/)| [java](.&#x2F;solutions&#x2F;695.max-area-of-island&#x2F;max-area-of-island.java)|Easy|51.76%||
+|696|[count-binary-substrings](https://leetcode-cn.com/problems/count-binary-substrings/)| [java](.&#x2F;solutions&#x2F;696.count-binary-substrings&#x2F;count-binary-substrings.java)|Easy|46.92%||
 |697|[degree-of-an-array](https://leetcode-cn.com/problems/degree-of-an-array/)| [java](.&#x2F;solutions&#x2F;697.degree-of-an-array&#x2F;degree-of-an-array.java)|Easy|40.11%||
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [c++](.&#x2F;solutions&#x2F;714.best-time-to-buy-and-sell-stock-with-transaction-fee&#x2F;best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) [java](.&#x2F;solutions&#x2F;714.best-time-to-buy-and-sell-stock-with-transaction-fee&#x2F;best-time-to-buy-and-sell-stock-with-transaction-fee.java)|Medium|41.87%||
 |717|[1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
