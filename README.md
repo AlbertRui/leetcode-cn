@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-186/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-187/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-102-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-103-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -136,6 +136,7 @@
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)| [java](.&#x2F;solutions&#x2F;448.find-all-numbers-disappeared-in-an-array&#x2F;find-all-numbers-disappeared-in-an-array.java)|Easy|51.14%||
 |455|[assign-cookies](https://leetcode-cn.com/problems/assign-cookies/)| [c++](.&#x2F;solutions&#x2F;455.assign-cookies&#x2F;assign-cookies.cpp)|Easy|44.99%||
 |458|[poor-pigs](https://leetcode-cn.com/problems/poor-pigs/)| [c++](.&#x2F;solutions&#x2F;458.poor-pigs&#x2F;poor-pigs.cpp) [java](.&#x2F;solutions&#x2F;458.poor-pigs&#x2F;poor-pigs.java)|Easy|47.36%||
+|461|[hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)| [c++](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.cpp) [java](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.java)|Easy|66.59%||
 |474|[ones-and-zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)| [java](.&#x2F;solutions&#x2F;474.ones-and-zeroes&#x2F;ones-and-zeroes.java)|Medium|31.15%||
 |479|[largest-palindrome-product](https://leetcode-cn.com/problems/largest-palindrome-product/)| [java](.&#x2F;solutions&#x2F;479.largest-palindrome-product&#x2F;largest-palindrome-product.java)|Easy|23.43%||
 |485|[max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [java](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.java)|Easy|53.72%||
