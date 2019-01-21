@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-181/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-182/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-97-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-98-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -102,6 +102,7 @@
 |240|[search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)| [java](.&#x2F;solutions&#x2F;240.search-a-2d-matrix-ii&#x2F;search-a-2d-matrix-ii.java)|Medium|38.52%||
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)| [java](.&#x2F;solutions&#x2F;242.valid-anagram&#x2F;valid-anagram.java)|Easy|42.36%||
 |257|[binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/)| [java](.&#x2F;solutions&#x2F;257.binary-tree-paths&#x2F;binary-tree-paths.java)|Easy|51.13%||
+|258|[add-digits](https://leetcode-cn.com/problems/add-digits/)| [c++](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.cpp) [java](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.java)|Easy|61.74%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
 |292|[nim-game](https://leetcode-cn.com/problems/nim-game/)| [c++](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.cpp)|Easy|64.77%||
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
