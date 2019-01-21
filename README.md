@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-187/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-188/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-103-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-104-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -148,6 +148,7 @@
 |501|[find-mode-in-binary-search-tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)| [c++](.&#x2F;solutions&#x2F;501.find-mode-in-binary-search-tree&#x2F;find-mode-in-binary-search-tree.cpp) [java](.&#x2F;solutions&#x2F;501.find-mode-in-binary-search-tree&#x2F;find-mode-in-binary-search-tree.java)|Easy|39.63%||
 |523|[continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)| [java](.&#x2F;solutions&#x2F;523.continuous-subarray-sum&#x2F;continuous-subarray-sum.java)|Medium|17.95%||
 |530|[minimum-absolute-difference-in-bst](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)| [c++](.&#x2F;solutions&#x2F;530.minimum-absolute-difference-in-bst&#x2F;minimum-absolute-difference-in-bst.cpp)|Easy|50.67%||
+|532|[k-diff-pairs-in-an-array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)| [java](.&#x2F;solutions&#x2F;532.k-diff-pairs-in-an-array&#x2F;k-diff-pairs-in-an-array.java)|Easy|28.95%||
 |538|[convert-bst-to-greater-tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| [java](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.java)|Easy|46.04%||
 |557|[reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)| [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java) [c++](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.cpp)|Easy|60.61%||
 |561|[array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [java](.&#x2F;solutions&#x2F;561.array-partition-i&#x2F;array-partition-i.java)|Easy|66.26%||
