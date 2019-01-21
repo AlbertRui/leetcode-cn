@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-183/785(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-184/785(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-99-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-100-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -195,6 +195,7 @@
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
 |827|[expressive-words](https://leetcode-cn.com/problems/expressive-words/)||Medium|28.96%||
 |834|[ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)| [java](.&#x2F;solutions&#x2F;834.ambiguous-coordinates&#x2F;ambiguous-coordinates.java)|Medium|40.91%||
+|851|[goat-latin](https://leetcode-cn.com/problems/goat-latin/)| [c++](.&#x2F;solutions&#x2F;851.goat-latin&#x2F;goat-latin.cpp) [java](.&#x2F;solutions&#x2F;851.goat-latin&#x2F;goat-latin.java)|Easy|52.45%||
 |853|[most-profit-assigning-work](https://leetcode-cn.com/problems/most-profit-assigning-work/)| [java](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.java) [c++](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.cpp)|Medium|28.10%||
 |857|[positions-of-large-groups](https://leetcode-cn.com/problems/positions-of-large-groups/)| [java](.&#x2F;solutions&#x2F;857.positions-of-large-groups&#x2F;positions-of-large-groups.java)|Easy|39.64%||
 |868|[push-dominoes](https://leetcode-cn.com/problems/push-dominoes/)| [java](.&#x2F;solutions&#x2F;868.push-dominoes&#x2F;push-dominoes.java) [c++](.&#x2F;solutions&#x2F;868.push-dominoes&#x2F;push-dominoes.cpp)|Medium|32.90%||
