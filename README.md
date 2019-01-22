@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-190/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-191/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-106-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-107-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -191,6 +191,7 @@
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
 |780|[max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;780.max-chunks-to-make-sorted&#x2F;max-chunks-to-make-sorted.java)|Medium|47.88%||
 |782|[jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones/)| [java](.&#x2F;solutions&#x2F;782.jewels-and-stones&#x2F;jewels-and-stones.java)|Easy|82.06%||
+|783|[search-in-a-binary-search-tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;783.search-in-a-binary-search-tree&#x2F;search-in-a-binary-search-tree.java) [c++](.&#x2F;solutions&#x2F;783.search-in-a-binary-search-tree&#x2F;search-in-a-binary-search-tree.cpp)|Easy|61.23%||
 |784|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||Medium|57.85%||
 |808|[number-of-matching-subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)| [c++](.&#x2F;solutions&#x2F;808.number-of-matching-subsequences&#x2F;number-of-matching-subsequences.cpp)|Medium|30.03%||
 |811|[number-of-subarrays-with-bounded-maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/)| [c++](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.cpp) [java](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.java)|Medium|38.52%||
