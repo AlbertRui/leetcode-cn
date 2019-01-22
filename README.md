@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-195/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-196/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-111-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-112-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -222,6 +222,7 @@
 |913|[random-flip-matrix](https://leetcode-cn.com/problems/random-flip-matrix/)| [c++](.&#x2F;solutions&#x2F;913.random-flip-matrix&#x2F;random-flip-matrix.cpp)|Medium|24.85%||
 |917|[boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/)| [c++](.&#x2F;solutions&#x2F;917.boats-to-save-people&#x2F;boats-to-save-people.cpp)|Medium|29.11%||
 |920|[uncommon-words-from-two-sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)| [java](.&#x2F;solutions&#x2F;920.uncommon-words-from-two-sentences&#x2F;uncommon-words-from-two-sentences.java) [c++](.&#x2F;solutions&#x2F;920.uncommon-words-from-two-sentences&#x2F;uncommon-words-from-two-sentences.cpp)|Easy|51.89%||
+|932|[monotonic-array](https://leetcode-cn.com/problems/monotonic-array/)| [java](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.java) [c++](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.cpp)|Easy|46.15%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
 |958|[sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [java](.&#x2F;solutions&#x2F;958.sort-array-by-parity-ii&#x2F;sort-array-by-parity-ii.java)|Easy|66.98%||
 |962|[flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)| [c++](.&#x2F;solutions&#x2F;962.flip-string-to-monotone-increasing&#x2F;flip-string-to-monotone-increasing.cpp)|Medium|32.24%||
