@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-200/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-201/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-116-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-117-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -158,6 +158,7 @@
 |564|[find-the-closest-palindrome](https://leetcode-cn.com/problems/find-the-closest-palindrome/)| [java](.&#x2F;solutions&#x2F;564.find-the-closest-palindrome&#x2F;find-the-closest-palindrome.java)|Hard|7.35%||
 |565|[array-nesting](https://leetcode-cn.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
 |566|[reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)| [java](.&#x2F;solutions&#x2F;566.reshape-the-matrix&#x2F;reshape-the-matrix.java)|Easy|57.64%||
+|572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| [c++](.&#x2F;solutions&#x2F;572.subtree-of-another-tree&#x2F;subtree-of-another-tree.cpp) [java](.&#x2F;solutions&#x2F;572.subtree-of-another-tree&#x2F;subtree-of-another-tree.java)|Easy|38.88%||
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
 |581|[shortest-unsorted-continuous-subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| [c++](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.cpp) [java](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.java)|Easy|29.36%||
 |598|[range-addition-ii](https://leetcode-cn.com/problems/range-addition-ii/)| [java](.&#x2F;solutions&#x2F;598.range-addition-ii&#x2F;range-addition-ii.java)|Easy|45.61%||
