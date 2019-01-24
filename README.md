@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-202/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-204/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-118-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-120-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-23</b>
+    <b>Last updated: 2019-01-24</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -161,6 +161,7 @@
 |572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| [c++](.&#x2F;solutions&#x2F;572.subtree-of-another-tree&#x2F;subtree-of-another-tree.cpp) [java](.&#x2F;solutions&#x2F;572.subtree-of-another-tree&#x2F;subtree-of-another-tree.java)|Easy|38.88%||
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
 |581|[shortest-unsorted-continuous-subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| [c++](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.cpp) [java](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.java)|Easy|29.36%||
+|594|[longest-harmonious-subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [java](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.java) [c++](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.cpp)|Easy|37.30%||
 |598|[range-addition-ii](https://leetcode-cn.com/problems/range-addition-ii/)| [java](.&#x2F;solutions&#x2F;598.range-addition-ii&#x2F;range-addition-ii.java)|Easy|45.61%||
 |605|[can-place-flowers](https://leetcode-cn.com/problems/can-place-flowers/)| [c++](.&#x2F;solutions&#x2F;605.can-place-flowers&#x2F;can-place-flowers.cpp) [java](.&#x2F;solutions&#x2F;605.can-place-flowers&#x2F;can-place-flowers.java)|Easy|25.91%||
 |617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| [c++](.&#x2F;solutions&#x2F;617.merge-two-binary-trees&#x2F;merge-two-binary-trees.cpp)|Easy|65.38%||
@@ -189,6 +190,7 @@
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [c++](.&#x2F;solutions&#x2F;714.best-time-to-buy-and-sell-stock-with-transaction-fee&#x2F;best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) [java](.&#x2F;solutions&#x2F;714.best-time-to-buy-and-sell-stock-with-transaction-fee&#x2F;best-time-to-buy-and-sell-stock-with-transaction-fee.java)|Medium|41.87%||
 |717|[1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
 |720|[longest-word-in-dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/)| [java](.&#x2F;solutions&#x2F;720.longest-word-in-dictionary&#x2F;longest-word-in-dictionary.java)|Easy|31.36%||
+|724|[find-pivot-index](https://leetcode-cn.com/problems/find-pivot-index/)| [java](.&#x2F;solutions&#x2F;724.find-pivot-index&#x2F;find-pivot-index.java)|Easy|32.86%||
 |725|[split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
 |728|[self-dividing-numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)| [java](.&#x2F;solutions&#x2F;728.self-dividing-numbers&#x2F;self-dividing-numbers.java)|Easy|64.42%||
 |748|[largest-number-at-least-twice-of-others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| [java](.&#x2F;solutions&#x2F;748.largest-number-at-least-twice-of-others&#x2F;largest-number-at-least-twice-of-others.java)|Easy|38.32%||
