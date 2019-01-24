@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-205/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-206/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-121-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-122-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -156,6 +156,7 @@
 |538|[convert-bst-to-greater-tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| [java](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.java)|Easy|46.04%||
 |557|[reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)| [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java) [c++](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.cpp)|Easy|60.61%||
 |561|[array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [java](.&#x2F;solutions&#x2F;561.array-partition-i&#x2F;array-partition-i.java)|Easy|66.26%||
+|563|[binary-tree-tilt](https://leetcode-cn.com/problems/binary-tree-tilt/)| [c++](.&#x2F;solutions&#x2F;563.binary-tree-tilt&#x2F;binary-tree-tilt.cpp) [java](.&#x2F;solutions&#x2F;563.binary-tree-tilt&#x2F;binary-tree-tilt.java)|Easy|46.42%||
 |564|[find-the-closest-palindrome](https://leetcode-cn.com/problems/find-the-closest-palindrome/)| [java](.&#x2F;solutions&#x2F;564.find-the-closest-palindrome&#x2F;find-the-closest-palindrome.java)|Hard|7.35%||
 |565|[array-nesting](https://leetcode-cn.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
 |566|[reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)| [java](.&#x2F;solutions&#x2F;566.reshape-the-matrix&#x2F;reshape-the-matrix.java)|Easy|57.64%||
