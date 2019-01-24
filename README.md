@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-204/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-205/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-120-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-121-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -98,6 +98,7 @@
 |209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)| [java](.&#x2F;solutions&#x2F;209.minimum-size-subarray-sum&#x2F;minimum-size-subarray-sum.java)|Medium|32.16%||
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [java](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.java)|Easy|39.25%||
 |226|[invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree/)| [c++](.&#x2F;solutions&#x2F;226.invert-binary-tree&#x2F;invert-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;226.invert-binary-tree&#x2F;invert-binary-tree.java)|Easy|65.36%||
+|231|[power-of-two](https://leetcode-cn.com/problems/power-of-two/)| [c++](.&#x2F;solutions&#x2F;231.power-of-two&#x2F;power-of-two.cpp) [java](.&#x2F;solutions&#x2F;231.power-of-two&#x2F;power-of-two.java)|Easy|43.10%||
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;235.lowest-common-ancestor-of-a-binary-search-tree&#x2F;lowest-common-ancestor-of-a-binary-search-tree.java) [c++](.&#x2F;solutions&#x2F;235.lowest-common-ancestor-of-a-binary-search-tree&#x2F;lowest-common-ancestor-of-a-binary-search-tree.cpp)|Easy|54.84%||
 |237|[delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)| [java](.&#x2F;solutions&#x2F;237.delete-node-in-a-linked-list&#x2F;delete-node-in-a-linked-list.java)|Easy|47.24%||
 |238|[product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/)| [java](.&#x2F;solutions&#x2F;238.product-of-array-except-self&#x2F;product-of-array-except-self.java)|Medium|50.28%||
