@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-207/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-208/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-123-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-124-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-24</b>
+    <b>Last updated: 2019-01-25</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -198,6 +198,7 @@
 |728|[self-dividing-numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)| [java](.&#x2F;solutions&#x2F;728.self-dividing-numbers&#x2F;self-dividing-numbers.java)|Easy|64.42%||
 |748|[largest-number-at-least-twice-of-others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| [java](.&#x2F;solutions&#x2F;748.largest-number-at-least-twice-of-others&#x2F;largest-number-at-least-twice-of-others.java)|Easy|38.32%||
 |749|[shortest-completing-word](https://leetcode-cn.com/problems/shortest-completing-word/)| [java](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.java) [c++](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.cpp)|Easy|51.53%||
+|767|[prime-number-of-set-bits-in-binary-representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)| [java](.&#x2F;solutions&#x2F;767.prime-number-of-set-bits-in-binary-representation&#x2F;prime-number-of-set-bits-in-binary-representation.java)|Easy|55.92%||
 |775|[n-ary-tree-preorder-traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)| [c++](.&#x2F;solutions&#x2F;775.n-ary-tree-preorder-traversal&#x2F;n-ary-tree-preorder-traversal.cpp) [java](.&#x2F;solutions&#x2F;775.n-ary-tree-preorder-traversal&#x2F;n-ary-tree-preorder-traversal.java)|Easy|64.39%||
 |776|[n-ary-tree-postorder-traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)| [java](.&#x2F;solutions&#x2F;776.n-ary-tree-postorder-traversal&#x2F;n-ary-tree-postorder-traversal.java) [c++](.&#x2F;solutions&#x2F;776.n-ary-tree-postorder-traversal&#x2F;n-ary-tree-postorder-traversal.cpp)|Easy|63.44%||
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
