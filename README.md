@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-209/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-210/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-125-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-126-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -246,4 +246,5 @@
 |1001|[n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)| [c++](.&#x2F;solutions&#x2F;1001.n-repeated-element-in-size-2n-array&#x2F;n-repeated-element-in-size-2n-array.cpp)|Easy|68.95%||
 |1010|[powerful-integers](https://leetcode-cn.com/problems/powerful-integers/)| [java](.&#x2F;solutions&#x2F;1010.powerful-integers&#x2F;powerful-integers.java)|Easy|36.99%||
 |1013|[fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)| [java](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.java) [c++](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.cpp)|Easy|59.69%||
+|1018|[largest-perimeter-triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)| [java](.&#x2F;solutions&#x2F;1018.largest-perimeter-triangle&#x2F;largest-perimeter-triangle.java)|Easy|54.91%||
 
