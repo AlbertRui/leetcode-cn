@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-208/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-209/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-124-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-125-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -67,6 +67,7 @@
 |104|[maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| [java](.&#x2F;solutions&#x2F;104.maximum-depth-of-binary-tree&#x2F;maximum-depth-of-binary-tree.java)|Easy|58.39%||
 |107|[binary-tree-level-order-traversal-ii](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)| [c++](.&#x2F;solutions&#x2F;107.binary-tree-level-order-traversal-ii&#x2F;binary-tree-level-order-traversal-ii.cpp) [java](.&#x2F;solutions&#x2F;107.binary-tree-level-order-traversal-ii&#x2F;binary-tree-level-order-traversal-ii.java)|Easy|57.70%||
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;109.convert-sorted-list-to-binary-search-tree&#x2F;convert-sorted-list-to-binary-search-tree.java)|Medium|35.74%||
+|111|[minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)| [java](.&#x2F;solutions&#x2F;111.minimum-depth-of-binary-tree&#x2F;minimum-depth-of-binary-tree.java) [c++](.&#x2F;solutions&#x2F;111.minimum-depth-of-binary-tree&#x2F;minimum-depth-of-binary-tree.cpp)|Easy|35.98%||
 |115|[distinct-subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)| [c++](.&#x2F;solutions&#x2F;115.distinct-subsequences&#x2F;distinct-subsequences.cpp)|Hard|42.34%||
 |116|[populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)| [java](.&#x2F;solutions&#x2F;116.populating-next-right-pointers-in-each-node&#x2F;populating-next-right-pointers-in-each-node.java)|Medium|34.20%||
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)| [java](.&#x2F;solutions&#x2F;117.populating-next-right-pointers-in-each-node-ii&#x2F;populating-next-right-pointers-in-each-node-ii.java)|Medium|30.78%||
