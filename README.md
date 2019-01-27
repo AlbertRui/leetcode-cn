@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-219/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-220/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-134-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-135-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -249,6 +249,7 @@
 |967|[minimum-falling-path-sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/)| [java](.&#x2F;solutions&#x2F;967.minimum-falling-path-sum&#x2F;minimum-falling-path-sum.java)|Medium|48.15%||
 |969|[number-of-recent-calls](https://leetcode-cn.com/problems/number-of-recent-calls/)| [java](.&#x2F;solutions&#x2F;969.number-of-recent-calls&#x2F;number-of-recent-calls.java)|Easy|60.50%||
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
+|978|[valid-mountain-array](https://leetcode-cn.com/problems/valid-mountain-array/)| [java](.&#x2F;solutions&#x2F;978.valid-mountain-array&#x2F;valid-mountain-array.java)|Easy|32.55%||
 |979|[di-string-match](https://leetcode-cn.com/problems/di-string-match/)| [java](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.java) [c++](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.cpp)|Easy|67.69%||
 |986|[largest-time-for-given-digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/)| [c++](.&#x2F;solutions&#x2F;986.largest-time-for-given-digits&#x2F;largest-time-for-given-digits.cpp) [java](.&#x2F;solutions&#x2F;986.largest-time-for-given-digits&#x2F;largest-time-for-given-digits.java)|Easy|28.04%||
 |1001|[n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)| [c++](.&#x2F;solutions&#x2F;1001.n-repeated-element-in-size-2n-array&#x2F;n-repeated-element-in-size-2n-array.cpp)|Easy|68.95%||
