@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-225/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-226/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-140-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-141-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -211,6 +211,7 @@
 |749|[shortest-completing-word](https://leetcode-cn.com/problems/shortest-completing-word/)| [java](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.java) [c++](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.cpp)|Easy|51.53%||
 |755|[reach-a-number](https://leetcode-cn.com/problems/reach-a-number/)| [java](.&#x2F;solutions&#x2F;755.reach-a-number&#x2F;reach-a-number.java) [c++](.&#x2F;solutions&#x2F;755.reach-a-number&#x2F;reach-a-number.cpp)|Easy|33.92%||
 |767|[prime-number-of-set-bits-in-binary-representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)| [java](.&#x2F;solutions&#x2F;767.prime-number-of-set-bits-in-binary-representation&#x2F;prime-number-of-set-bits-in-binary-representation.java)|Easy|55.92%||
+|774|[maximum-depth-of-n-ary-tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)| [c++](.&#x2F;solutions&#x2F;774.maximum-depth-of-n-ary-tree&#x2F;maximum-depth-of-n-ary-tree.cpp) [java](.&#x2F;solutions&#x2F;774.maximum-depth-of-n-ary-tree&#x2F;maximum-depth-of-n-ary-tree.java)|Easy|62.96%||
 |775|[n-ary-tree-preorder-traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)| [c++](.&#x2F;solutions&#x2F;775.n-ary-tree-preorder-traversal&#x2F;n-ary-tree-preorder-traversal.cpp) [java](.&#x2F;solutions&#x2F;775.n-ary-tree-preorder-traversal&#x2F;n-ary-tree-preorder-traversal.java)|Easy|64.39%||
 |776|[n-ary-tree-postorder-traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)| [java](.&#x2F;solutions&#x2F;776.n-ary-tree-postorder-traversal&#x2F;n-ary-tree-postorder-traversal.java) [c++](.&#x2F;solutions&#x2F;776.n-ary-tree-postorder-traversal&#x2F;n-ary-tree-postorder-traversal.cpp)|Easy|63.44%||
 |777|[toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)| [java](.&#x2F;solutions&#x2F;777.toeplitz-matrix&#x2F;toeplitz-matrix.java)|Easy|57.76%||
