@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-230/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-231/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-145-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-146-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -102,6 +102,7 @@
 |225|[implement-stack-using-queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)| [java](.&#x2F;solutions&#x2F;225.implement-stack-using-queues&#x2F;implement-stack-using-queues.java) [c++](.&#x2F;solutions&#x2F;225.implement-stack-using-queues&#x2F;implement-stack-using-queues.cpp)|Easy|53.74%||
 |226|[invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree/)| [c++](.&#x2F;solutions&#x2F;226.invert-binary-tree&#x2F;invert-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;226.invert-binary-tree&#x2F;invert-binary-tree.java)|Easy|65.36%||
 |231|[power-of-two](https://leetcode-cn.com/problems/power-of-two/)| [c++](.&#x2F;solutions&#x2F;231.power-of-two&#x2F;power-of-two.cpp) [java](.&#x2F;solutions&#x2F;231.power-of-two&#x2F;power-of-two.java)|Easy|43.10%||
+|232|[implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)| [c++](.&#x2F;solutions&#x2F;232.implement-queue-using-stacks&#x2F;implement-queue-using-stacks.cpp) [java](.&#x2F;solutions&#x2F;232.implement-queue-using-stacks&#x2F;implement-queue-using-stacks.java)|Easy|56.53%||
 |234|[palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/)| [c++](.&#x2F;solutions&#x2F;234.palindrome-linked-list&#x2F;palindrome-linked-list.cpp)|Easy|34.56%||
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;235.lowest-common-ancestor-of-a-binary-search-tree&#x2F;lowest-common-ancestor-of-a-binary-search-tree.java) [c++](.&#x2F;solutions&#x2F;235.lowest-common-ancestor-of-a-binary-search-tree&#x2F;lowest-common-ancestor-of-a-binary-search-tree.cpp)|Easy|54.84%||
 |237|[delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)| [java](.&#x2F;solutions&#x2F;237.delete-node-in-a-linked-list&#x2F;delete-node-in-a-linked-list.java)|Easy|47.24%||
