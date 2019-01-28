@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-229/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-230/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-144-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-145-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -163,6 +163,7 @@
 |500|[keyboard-row](https://leetcode-cn.com/problems/keyboard-row/)| [java](.&#x2F;solutions&#x2F;500.keyboard-row&#x2F;keyboard-row.java)|Easy|63.55%||
 |501|[find-mode-in-binary-search-tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)| [c++](.&#x2F;solutions&#x2F;501.find-mode-in-binary-search-tree&#x2F;find-mode-in-binary-search-tree.cpp) [java](.&#x2F;solutions&#x2F;501.find-mode-in-binary-search-tree&#x2F;find-mode-in-binary-search-tree.java)|Easy|39.63%||
 |507|[perfect-number](https://leetcode-cn.com/problems/perfect-number/)| [java](.&#x2F;solutions&#x2F;507.perfect-number&#x2F;perfect-number.java)|Easy|31.54%||
+|520|[detect-capital](https://leetcode-cn.com/problems/detect-capital/)| [java](.&#x2F;solutions&#x2F;520.detect-capital&#x2F;detect-capital.java) [c++](.&#x2F;solutions&#x2F;520.detect-capital&#x2F;detect-capital.cpp)|Easy|50.76%||
 |523|[continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)| [java](.&#x2F;solutions&#x2F;523.continuous-subarray-sum&#x2F;continuous-subarray-sum.java)|Medium|17.95%||
 |530|[minimum-absolute-difference-in-bst](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)| [c++](.&#x2F;solutions&#x2F;530.minimum-absolute-difference-in-bst&#x2F;minimum-absolute-difference-in-bst.cpp)|Easy|50.67%||
 |532|[k-diff-pairs-in-an-array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)| [java](.&#x2F;solutions&#x2F;532.k-diff-pairs-in-an-array&#x2F;k-diff-pairs-in-an-array.java)|Easy|28.95%||
