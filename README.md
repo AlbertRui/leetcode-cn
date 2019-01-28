@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-226/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-228/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-141-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-143-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -122,6 +122,7 @@
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
 |367|[valid-perfect-square](https://leetcode-cn.com/problems/valid-perfect-square/)||Easy|38.26%||
 |371|[sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/)| [java](.&#x2F;solutions&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.java)|Easy|53.42%||
+|374|[guess-number-higher-or-lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)| [java](.&#x2F;solutions&#x2F;374.guess-number-higher-or-lower&#x2F;guess-number-higher-or-lower.java)|Easy|34.66%||
 |376|[wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)| [c++](.&#x2F;solutions&#x2F;376.wiggle-subsequence&#x2F;wiggle-subsequence.cpp)|Medium|32.13%||
 |382|[linked-list-random-node](https://leetcode-cn.com/problems/linked-list-random-node/)| [java](.&#x2F;solutions&#x2F;382.linked-list-random-node&#x2F;linked-list-random-node.java)|Medium|49.66%||
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/)| [java](.&#x2F;solutions&#x2F;384.shuffle-an-array&#x2F;shuffle-an-array.java)|Medium|39.28%||
@@ -259,6 +260,7 @@
 |979|[di-string-match](https://leetcode-cn.com/problems/di-string-match/)| [java](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.java) [c++](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.cpp)|Easy|67.69%||
 |986|[largest-time-for-given-digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/)| [c++](.&#x2F;solutions&#x2F;986.largest-time-for-given-digits&#x2F;largest-time-for-given-digits.cpp) [java](.&#x2F;solutions&#x2F;986.largest-time-for-given-digits&#x2F;largest-time-for-given-digits.java)|Easy|28.04%||
 |1001|[n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)| [c++](.&#x2F;solutions&#x2F;1001.n-repeated-element-in-size-2n-array&#x2F;n-repeated-element-in-size-2n-array.cpp)|Easy|68.95%||
+|1005|[univalued-binary-tree](https://leetcode-cn.com/problems/univalued-binary-tree/)| [c++](.&#x2F;solutions&#x2F;1005.univalued-binary-tree&#x2F;univalued-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;1005.univalued-binary-tree&#x2F;univalued-binary-tree.java)|Easy|64.40%||
 |1010|[powerful-integers](https://leetcode-cn.com/problems/powerful-integers/)| [java](.&#x2F;solutions&#x2F;1010.powerful-integers&#x2F;powerful-integers.java)|Easy|36.99%||
 |1013|[fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)| [java](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.java) [c++](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.cpp)|Easy|59.69%||
 |1018|[largest-perimeter-triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)| [java](.&#x2F;solutions&#x2F;1018.largest-perimeter-triangle&#x2F;largest-perimeter-triangle.java)|Easy|54.91%||
