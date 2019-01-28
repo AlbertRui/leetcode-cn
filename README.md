@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-228/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-229/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-143-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-144-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -110,6 +110,7 @@
 |242|[valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)| [java](.&#x2F;solutions&#x2F;242.valid-anagram&#x2F;valid-anagram.java)|Easy|42.36%||
 |257|[binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/)| [java](.&#x2F;solutions&#x2F;257.binary-tree-paths&#x2F;binary-tree-paths.java)|Easy|51.13%||
 |258|[add-digits](https://leetcode-cn.com/problems/add-digits/)| [c++](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.cpp) [java](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.java)|Easy|61.74%||
+|263|[ugly-number](https://leetcode-cn.com/problems/ugly-number/)| [java](.&#x2F;solutions&#x2F;263.ugly-number&#x2F;ugly-number.java) [c++](.&#x2F;solutions&#x2F;263.ugly-number&#x2F;ugly-number.cpp)|Easy|43.82%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
 |292|[nim-game](https://leetcode-cn.com/problems/nim-game/)| [c++](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.cpp)|Easy|64.77%||
 |303|[range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [java](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.java) [c++](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.cpp)|Easy|49.93%||
