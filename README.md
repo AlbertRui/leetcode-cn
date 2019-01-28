@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-224/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-225/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-139-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-140-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-27</b>
+    <b>Last updated: 2019-01-28</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -206,6 +206,7 @@
 |724|[find-pivot-index](https://leetcode-cn.com/problems/find-pivot-index/)| [java](.&#x2F;solutions&#x2F;724.find-pivot-index&#x2F;find-pivot-index.java)|Easy|32.86%||
 |725|[split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
 |728|[self-dividing-numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)| [java](.&#x2F;solutions&#x2F;728.self-dividing-numbers&#x2F;self-dividing-numbers.java)|Easy|64.42%||
+|747|[min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [java](.&#x2F;solutions&#x2F;747.min-cost-climbing-stairs&#x2F;min-cost-climbing-stairs.java) [c++](.&#x2F;solutions&#x2F;747.min-cost-climbing-stairs&#x2F;min-cost-climbing-stairs.cpp)|Easy|39.12%||
 |748|[largest-number-at-least-twice-of-others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| [java](.&#x2F;solutions&#x2F;748.largest-number-at-least-twice-of-others&#x2F;largest-number-at-least-twice-of-others.java)|Easy|38.32%||
 |749|[shortest-completing-word](https://leetcode-cn.com/problems/shortest-completing-word/)| [java](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.java) [c++](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.cpp)|Easy|51.53%||
 |755|[reach-a-number](https://leetcode-cn.com/problems/reach-a-number/)| [java](.&#x2F;solutions&#x2F;755.reach-a-number&#x2F;reach-a-number.java) [c++](.&#x2F;solutions&#x2F;755.reach-a-number&#x2F;reach-a-number.cpp)|Easy|33.92%||
