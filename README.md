@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-242/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-243/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-156-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-157-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -96,6 +96,7 @@
 |190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits/)| [java](.&#x2F;solutions&#x2F;190.reverse-bits&#x2F;reverse-bits.java) [c++](.&#x2F;solutions&#x2F;190.reverse-bits&#x2F;reverse-bits.cpp)|Easy|33.00%||
 |198|[house-robber](https://leetcode-cn.com/problems/house-robber/)| [c++](.&#x2F;solutions&#x2F;198.house-robber&#x2F;house-robber.cpp) [java](.&#x2F;solutions&#x2F;198.house-robber&#x2F;house-robber.java)|Easy|38.43%||
 |199|[binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| [java](.&#x2F;solutions&#x2F;199.binary-tree-right-side-view&#x2F;binary-tree-right-side-view.java)|Medium|42.73%||
+|202|[happy-number](https://leetcode-cn.com/problems/happy-number/)| [java](.&#x2F;solutions&#x2F;202.happy-number&#x2F;happy-number.java)|Easy|51.00%||
 |203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)| [java](.&#x2F;solutions&#x2F;203.remove-linked-list-elements&#x2F;remove-linked-list-elements.java)|Easy|38.04%||
 |204|[count-primes](https://leetcode-cn.com/problems/count-primes/)| [c++](.&#x2F;solutions&#x2F;204.count-primes&#x2F;count-primes.cpp)|Easy|24.15%||
 |205|[isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/)| [java](.&#x2F;solutions&#x2F;205.isomorphic-strings&#x2F;isomorphic-strings.java) [c++](.&#x2F;solutions&#x2F;205.isomorphic-strings&#x2F;isomorphic-strings.cpp)|Easy|41.67%||
