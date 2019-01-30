@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-234/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-235/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-148-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-149-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-29</b>
+    <b>Last updated: 2019-01-30</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -55,6 +55,7 @@
 |056|[merge-intervals](https://leetcode-cn.com/problems/merge-intervals/)| [java](.&#x2F;solutions&#x2F;056.merge-intervals&#x2F;merge-intervals.java) [c++](.&#x2F;solutions&#x2F;056.merge-intervals&#x2F;merge-intervals.cpp)|Medium|33.04%||
 |060|[permutation-sequence](https://leetcode-cn.com/problems/permutation-sequence/)| [java](.&#x2F;solutions&#x2F;060.permutation-sequence&#x2F;permutation-sequence.java)|Medium|41.21%||
 |067|[add-binary](https://leetcode-cn.com/problems/add-binary/)| [java](.&#x2F;solutions&#x2F;067.add-binary&#x2F;add-binary.java)|Easy|44.53%||
+|070|[climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [java](.&#x2F;solutions&#x2F;070.climbing-stairs&#x2F;climbing-stairs.java) [c++](.&#x2F;solutions&#x2F;070.climbing-stairs&#x2F;climbing-stairs.cpp)|Easy|43.09%||
 |079|[word-search](https://leetcode-cn.com/problems/word-search/)| [java](.&#x2F;solutions&#x2F;079.word-search&#x2F;word-search.java)|Medium|30.89%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
 |086|[partition-list](https://leetcode-cn.com/problems/partition-list/)| [c++](.&#x2F;solutions&#x2F;086.partition-list&#x2F;partition-list.cpp)|Medium|42.16%||
