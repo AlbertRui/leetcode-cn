@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-235/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-236/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-149-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-150-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -232,6 +232,7 @@
 |816|[design-hashset](https://leetcode-cn.com/problems/design-hashset/)| [java](.&#x2F;solutions&#x2F;816.design-hashset&#x2F;design-hashset.java)|Easy|51.80%||
 |817|[design-hashmap](https://leetcode-cn.com/problems/design-hashmap/)| [java](.&#x2F;solutions&#x2F;817.design-hashmap&#x2F;design-hashmap.java)|Easy|52.66%||
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
+|824|[number-of-lines-to-write-string](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)| [java](.&#x2F;solutions&#x2F;824.number-of-lines-to-write-string&#x2F;number-of-lines-to-write-string.java)|Easy|59.02%||
 |827|[expressive-words](https://leetcode-cn.com/problems/expressive-words/)||Medium|28.96%||
 |829|[subdomain-visit-count](https://leetcode-cn.com/problems/subdomain-visit-count/)| [java](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.java) [c++](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.cpp)|Easy|60.03%||
 |834|[ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)| [java](.&#x2F;solutions&#x2F;834.ambiguous-coordinates&#x2F;ambiguous-coordinates.java)|Medium|40.91%||
