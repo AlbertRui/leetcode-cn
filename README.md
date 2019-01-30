@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-240/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-241/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-154-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-155-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -254,6 +254,7 @@
 |902|[minimum-number-of-refueling-stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)| [c++](.&#x2F;solutions&#x2F;902.minimum-number-of-refueling-stops&#x2F;minimum-number-of-refueling-stops.cpp)|Hard|20.62%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
 |906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
+|908|[middle-of-the-linked-list](https://leetcode-cn.com/problems/middle-of-the-linked-list/)| [c++](.&#x2F;solutions&#x2F;908.middle-of-the-linked-list&#x2F;middle-of-the-linked-list.cpp) [java](.&#x2F;solutions&#x2F;908.middle-of-the-linked-list&#x2F;middle-of-the-linked-list.java)|Easy|56.70%||
 |913|[random-flip-matrix](https://leetcode-cn.com/problems/random-flip-matrix/)| [c++](.&#x2F;solutions&#x2F;913.random-flip-matrix&#x2F;random-flip-matrix.cpp)|Medium|24.85%||
 |917|[boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/)| [c++](.&#x2F;solutions&#x2F;917.boats-to-save-people&#x2F;boats-to-save-people.cpp)|Medium|29.11%||
 |920|[uncommon-words-from-two-sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)| [java](.&#x2F;solutions&#x2F;920.uncommon-words-from-two-sentences&#x2F;uncommon-words-from-two-sentences.java) [c++](.&#x2F;solutions&#x2F;920.uncommon-words-from-two-sentences&#x2F;uncommon-words-from-two-sentences.cpp)|Easy|51.89%||
