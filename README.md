@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-236/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-237/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-150-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-151-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -92,6 +92,7 @@
 |172|[factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)| [java](.&#x2F;solutions&#x2F;172.factorial-trailing-zeroes&#x2F;factorial-trailing-zeroes.java)|Easy|33.03%||
 |187|[repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/)| [java](.&#x2F;solutions&#x2F;187.repeated-dna-sequences&#x2F;repeated-dna-sequences.java)|Medium|39.53%||
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)| [java](.&#x2F;solutions&#x2F;188.best-time-to-buy-and-sell-stock-iv&#x2F;best-time-to-buy-and-sell-stock-iv.java)|Hard|19.66%||
+|190|[reverse-bits](https://leetcode-cn.com/problems/reverse-bits/)| [java](.&#x2F;solutions&#x2F;190.reverse-bits&#x2F;reverse-bits.java) [c++](.&#x2F;solutions&#x2F;190.reverse-bits&#x2F;reverse-bits.cpp)|Easy|33.00%||
 |198|[house-robber](https://leetcode-cn.com/problems/house-robber/)| [c++](.&#x2F;solutions&#x2F;198.house-robber&#x2F;house-robber.cpp) [java](.&#x2F;solutions&#x2F;198.house-robber&#x2F;house-robber.java)|Easy|38.43%||
 |199|[binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| [java](.&#x2F;solutions&#x2F;199.binary-tree-right-side-view&#x2F;binary-tree-right-side-view.java)|Medium|42.73%||
 |203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)| [java](.&#x2F;solutions&#x2F;203.remove-linked-list-elements&#x2F;remove-linked-list-elements.java)|Easy|38.04%||
