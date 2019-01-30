@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-239/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-240/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-153-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-154-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -237,6 +237,7 @@
 |827|[expressive-words](https://leetcode-cn.com/problems/expressive-words/)||Medium|28.96%||
 |829|[subdomain-visit-count](https://leetcode-cn.com/problems/subdomain-visit-count/)| [java](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.java) [c++](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.cpp)|Easy|60.03%||
 |834|[ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)| [java](.&#x2F;solutions&#x2F;834.ambiguous-coordinates&#x2F;ambiguous-coordinates.java)|Medium|40.91%||
+|838|[design-linked-list](https://leetcode-cn.com/problems/design-linked-list/)| [java](.&#x2F;solutions&#x2F;838.design-linked-list&#x2F;design-linked-list.java)|Easy|24.70%||
 |851|[goat-latin](https://leetcode-cn.com/problems/goat-latin/)| [c++](.&#x2F;solutions&#x2F;851.goat-latin&#x2F;goat-latin.cpp) [java](.&#x2F;solutions&#x2F;851.goat-latin&#x2F;goat-latin.java)|Easy|52.45%||
 |853|[most-profit-assigning-work](https://leetcode-cn.com/problems/most-profit-assigning-work/)| [java](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.java) [c++](.&#x2F;solutions&#x2F;853.most-profit-assigning-work&#x2F;most-profit-assigning-work.cpp)|Medium|28.10%||
 |857|[positions-of-large-groups](https://leetcode-cn.com/problems/positions-of-large-groups/)| [java](.&#x2F;solutions&#x2F;857.positions-of-large-groups&#x2F;positions-of-large-groups.java)|Easy|39.64%||
