@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-245/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-247/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-158-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-160-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-01-30</b>
+    <b>Last updated: 2019-01-31</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -43,6 +43,7 @@
 |023|[merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| [java](.&#x2F;solutions&#x2F;023.merge-k-sorted-lists&#x2F;merge-k-sorted-lists.java)|Hard|29.62%||
 |024|[swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [java](.&#x2F;solutions&#x2F;024.swap-nodes-in-pairs&#x2F;swap-nodes-in-pairs.java)|Medium|39.12%||
 |026|[remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [java](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.java)|Easy|35.42%||
+|027|[remove-element](https://leetcode-cn.com/problems/remove-element/)||Easy|52.45%||
 |038|[count-and-say](https://leetcode-cn.com/problems/count-and-say/)| [java](.&#x2F;solutions&#x2F;038.count-and-say&#x2F;count-and-say.java)|Easy|46.65%||
 |041|[first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/)| [java](.&#x2F;solutions&#x2F;041.first-missing-positive&#x2F;first-missing-positive.java)|Hard|25.00%||
 |042|[trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/)| [java](.&#x2F;solutions&#x2F;042.trapping-rain-water&#x2F;trapping-rain-water.java)|Hard|35.10%||
@@ -118,6 +119,7 @@
 |258|[add-digits](https://leetcode-cn.com/problems/add-digits/)| [c++](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.cpp) [java](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.java)|Easy|61.74%||
 |263|[ugly-number](https://leetcode-cn.com/problems/ugly-number/)| [java](.&#x2F;solutions&#x2F;263.ugly-number&#x2F;ugly-number.java) [c++](.&#x2F;solutions&#x2F;263.ugly-number&#x2F;ugly-number.cpp)|Easy|43.82%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
+|290|[word-pattern](https://leetcode-cn.com/problems/word-pattern/)| [java](.&#x2F;solutions&#x2F;290.word-pattern&#x2F;word-pattern.java) [c++](.&#x2F;solutions&#x2F;290.word-pattern&#x2F;word-pattern.cpp)|Easy|36.38%||
 |292|[nim-game](https://leetcode-cn.com/problems/nim-game/)| [c++](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.cpp)|Easy|64.77%||
 |303|[range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [java](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.java) [c++](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.cpp)|Easy|49.93%||
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
