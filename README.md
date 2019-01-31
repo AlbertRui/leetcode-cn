@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-248/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-249/786(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-161-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-162-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -105,6 +105,7 @@
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)| [java](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.java)|Easy|46.74%||
 |209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)| [java](.&#x2F;solutions&#x2F;209.minimum-size-subarray-sum&#x2F;minimum-size-subarray-sum.java)|Medium|32.16%||
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [java](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.java)|Easy|39.25%||
+|219|[contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/)| [c++](.&#x2F;solutions&#x2F;219.contains-duplicate-ii&#x2F;contains-duplicate-ii.cpp) [java](.&#x2F;solutions&#x2F;219.contains-duplicate-ii&#x2F;contains-duplicate-ii.java)|Easy|31.80%||
 |225|[implement-stack-using-queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)| [java](.&#x2F;solutions&#x2F;225.implement-stack-using-queues&#x2F;implement-stack-using-queues.java) [c++](.&#x2F;solutions&#x2F;225.implement-stack-using-queues&#x2F;implement-stack-using-queues.cpp)|Easy|53.74%||
 |226|[invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree/)| [c++](.&#x2F;solutions&#x2F;226.invert-binary-tree&#x2F;invert-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;226.invert-binary-tree&#x2F;invert-binary-tree.java)|Easy|65.36%||
 |231|[power-of-two](https://leetcode-cn.com/problems/power-of-two/)| [c++](.&#x2F;solutions&#x2F;231.power-of-two&#x2F;power-of-two.cpp) [java](.&#x2F;solutions&#x2F;231.power-of-two&#x2F;power-of-two.java)|Easy|43.10%||
