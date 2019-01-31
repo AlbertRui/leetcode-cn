@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-249/786(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-250/793(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-162-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-163-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -220,6 +220,7 @@
 |725|[split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
 |728|[self-dividing-numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)| [java](.&#x2F;solutions&#x2F;728.self-dividing-numbers&#x2F;self-dividing-numbers.java)|Easy|64.42%||
 |742|[to-lower-case](https://leetcode-cn.com/problems/to-lower-case/)| [java](.&#x2F;solutions&#x2F;742.to-lower-case&#x2F;to-lower-case.java) [c++](.&#x2F;solutions&#x2F;742.to-lower-case&#x2F;to-lower-case.cpp)|Easy|71.94%||
+|745|[find-smallest-letter-greater-than-target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)| [java](.&#x2F;solutions&#x2F;745.find-smallest-letter-greater-than-target&#x2F;find-smallest-letter-greater-than-target.java) [c++](.&#x2F;solutions&#x2F;745.find-smallest-letter-greater-than-target&#x2F;find-smallest-letter-greater-than-target.cpp)|Easy|40.92%||
 |747|[min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [java](.&#x2F;solutions&#x2F;747.min-cost-climbing-stairs&#x2F;min-cost-climbing-stairs.java) [c++](.&#x2F;solutions&#x2F;747.min-cost-climbing-stairs&#x2F;min-cost-climbing-stairs.cpp)|Easy|39.12%||
 |748|[largest-number-at-least-twice-of-others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| [java](.&#x2F;solutions&#x2F;748.largest-number-at-least-twice-of-others&#x2F;largest-number-at-least-twice-of-others.java)|Easy|38.32%||
 |749|[shortest-completing-word](https://leetcode-cn.com/problems/shortest-completing-word/)| [java](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.java) [c++](.&#x2F;solutions&#x2F;749.shortest-completing-word&#x2F;shortest-completing-word.cpp)|Easy|51.53%||
