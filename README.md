@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-254/793(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-255/793(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-167-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-168-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -92,6 +92,7 @@
 |165|[compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)| [java](.&#x2F;solutions&#x2F;165.compare-version-numbers&#x2F;compare-version-numbers.java)|Medium|23.70%||
 |166|[fraction-to-recurring-decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)| [java](.&#x2F;solutions&#x2F;166.fraction-to-recurring-decimal&#x2F;fraction-to-recurring-decimal.java)|Medium|23.57%||
 |169|[majority-element](https://leetcode-cn.com/problems/majority-element/)| [java](.&#x2F;solutions&#x2F;169.majority-element&#x2F;majority-element.java)|Easy|48.02%||
+|171|[excel-sheet-column-number](https://leetcode-cn.com/problems/excel-sheet-column-number/)| [java](.&#x2F;solutions&#x2F;171.excel-sheet-column-number&#x2F;excel-sheet-column-number.java)|Easy|63.01%||
 |172|[factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)| [java](.&#x2F;solutions&#x2F;172.factorial-trailing-zeroes&#x2F;factorial-trailing-zeroes.java)|Easy|33.03%||
 |187|[repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/)| [java](.&#x2F;solutions&#x2F;187.repeated-dna-sequences&#x2F;repeated-dna-sequences.java)|Medium|39.53%||
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)| [java](.&#x2F;solutions&#x2F;188.best-time-to-buy-and-sell-stock-iv&#x2F;best-time-to-buy-and-sell-stock-iv.java)|Hard|19.66%||
