@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-257/793(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-258/793(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-170-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-171-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -153,6 +153,7 @@
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
 |424|[longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)| [c++](.&#x2F;solutions&#x2F;424.longest-repeating-character-replacement&#x2F;longest-repeating-character-replacement.cpp)|Medium|25.97%||
 |433|[minimum-genetic-mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)| [c++](.&#x2F;solutions&#x2F;433.minimum-genetic-mutation&#x2F;minimum-genetic-mutation.cpp)|Medium|36.62%||
+|434|[number-of-segments-in-a-string](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)| [java](.&#x2F;solutions&#x2F;434.number-of-segments-in-a-string&#x2F;number-of-segments-in-a-string.java)|Easy|28.20%||
 |436|[find-right-interval](https://leetcode-cn.com/problems/find-right-interval/)| [java](.&#x2F;solutions&#x2F;436.find-right-interval&#x2F;find-right-interval.java)|Medium|18.18%||
 |437|[path-sum-iii](https://leetcode-cn.com/problems/path-sum-iii/)| [c++](.&#x2F;solutions&#x2F;437.path-sum-iii&#x2F;path-sum-iii.cpp)|Easy|44.90%||
 |438|[find-all-anagrams-in-a-string](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)| [c++](.&#x2F;solutions&#x2F;438.find-all-anagrams-in-a-string&#x2F;find-all-anagrams-in-a-string.cpp) [java](.&#x2F;solutions&#x2F;438.find-all-anagrams-in-a-string&#x2F;find-all-anagrams-in-a-string.java)|Easy|33.95%||
