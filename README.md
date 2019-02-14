@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-258/793(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-259/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-171-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-172-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-02-02</b>
+    <b>Last updated: 2019-02-14</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -130,6 +130,7 @@
 |319|[bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/)| [java](.&#x2F;solutions&#x2F;319.bulb-switcher&#x2F;bulb-switcher.java)|Medium|28.71%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
 |338|[counting-bits](https://leetcode-cn.com/problems/counting-bits/)||Medium|69.11%||
+|342|[power-of-four](https://leetcode-cn.com/problems/power-of-four/)| [java](.&#x2F;solutions&#x2F;342.power-of-four&#x2F;power-of-four.java) [c++](.&#x2F;solutions&#x2F;342.power-of-four&#x2F;power-of-four.cpp)|Easy|43.79%||
 |344|[reverse-string](https://leetcode-cn.com/problems/reverse-string/)| [java](.&#x2F;solutions&#x2F;344.reverse-string&#x2F;reverse-string.java)|Easy|61.12%||
 |345|[reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)| [java](.&#x2F;solutions&#x2F;345.reverse-vowels-of-a-string&#x2F;reverse-vowels-of-a-string.java)|Easy|38.45%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
