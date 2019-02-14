@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-260/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-261/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-173-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-174-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -243,6 +243,7 @@
 |783|[search-in-a-binary-search-tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;783.search-in-a-binary-search-tree&#x2F;search-in-a-binary-search-tree.java) [c++](.&#x2F;solutions&#x2F;783.search-in-a-binary-search-tree&#x2F;search-in-a-binary-search-tree.cpp)|Easy|61.23%||
 |784|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||Medium|57.85%||
 |800|[letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation/)| [c++](.&#x2F;solutions&#x2F;800.letter-case-permutation&#x2F;letter-case-permutation.cpp) [java](.&#x2F;solutions&#x2F;800.letter-case-permutation&#x2F;letter-case-permutation.java)|Easy|49.41%||
+|804|[rotated-digits](https://leetcode-cn.com/problems/rotated-digits/)| [c++](.&#x2F;solutions&#x2F;804.rotated-digits&#x2F;rotated-digits.cpp)|Easy|51.40%||
 |808|[number-of-matching-subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)| [c++](.&#x2F;solutions&#x2F;808.number-of-matching-subsequences&#x2F;number-of-matching-subsequences.cpp)|Medium|30.03%||
 |811|[number-of-subarrays-with-bounded-maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/)| [c++](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.cpp) [java](.&#x2F;solutions&#x2F;811.number-of-subarrays-with-bounded-maximum&#x2F;number-of-subarrays-with-bounded-maximum.java)|Medium|38.52%||
 |812|[rotate-string](https://leetcode-cn.com/problems/rotate-string/)| [java](.&#x2F;solutions&#x2F;812.rotate-string&#x2F;rotate-string.java)|Easy|43.83%||
