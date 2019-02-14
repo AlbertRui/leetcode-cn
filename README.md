@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-261/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-262/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-174-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-175-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -171,6 +171,7 @@
 |463|[island-perimeter](https://leetcode-cn.com/problems/island-perimeter/)| [java](.&#x2F;solutions&#x2F;463.island-perimeter&#x2F;island-perimeter.java)|Easy|58.15%||
 |474|[ones-and-zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)| [java](.&#x2F;solutions&#x2F;474.ones-and-zeroes&#x2F;ones-and-zeroes.java)|Medium|31.15%||
 |479|[largest-palindrome-product](https://leetcode-cn.com/problems/largest-palindrome-product/)| [java](.&#x2F;solutions&#x2F;479.largest-palindrome-product&#x2F;largest-palindrome-product.java)|Easy|23.43%||
+|482|[license-key-formatting](https://leetcode-cn.com/problems/license-key-formatting/)| [java](.&#x2F;solutions&#x2F;482.license-key-formatting&#x2F;license-key-formatting.java)|Easy|36.67%||
 |485|[max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [java](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.java)|Easy|53.72%||
 |492|[construct-the-rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/)| [java](.&#x2F;solutions&#x2F;492.construct-the-rectangle&#x2F;construct-the-rectangle.java)|Easy|42.20%||
 |494|[target-sum](https://leetcode-cn.com/problems/target-sum/)| [java](.&#x2F;solutions&#x2F;494.target-sum&#x2F;target-sum.java)|Medium|32.11%||
