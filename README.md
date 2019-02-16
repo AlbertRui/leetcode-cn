@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-266/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-267/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-178-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-179-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -200,6 +200,7 @@
 |594|[longest-harmonious-subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [java](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.java) [c++](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.cpp)|Easy|37.30%||
 |598|[range-addition-ii](https://leetcode-cn.com/problems/range-addition-ii/)| [java](.&#x2F;solutions&#x2F;598.range-addition-ii&#x2F;range-addition-ii.java)|Easy|45.61%||
 |605|[can-place-flowers](https://leetcode-cn.com/problems/can-place-flowers/)| [c++](.&#x2F;solutions&#x2F;605.can-place-flowers&#x2F;can-place-flowers.cpp) [java](.&#x2F;solutions&#x2F;605.can-place-flowers&#x2F;can-place-flowers.java)|Easy|25.91%||
+|606|[construct-string-from-binary-tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)| [java](.&#x2F;solutions&#x2F;606.construct-string-from-binary-tree&#x2F;construct-string-from-binary-tree.java) [c++](.&#x2F;solutions&#x2F;606.construct-string-from-binary-tree&#x2F;construct-string-from-binary-tree.cpp)|Easy|47.87%||
 |617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| [c++](.&#x2F;solutions&#x2F;617.merge-two-binary-trees&#x2F;merge-two-binary-trees.cpp)|Easy|65.38%||
 |623|[add-one-row-to-tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)| [java](.&#x2F;solutions&#x2F;623.add-one-row-to-tree&#x2F;add-one-row-to-tree.java)|Medium|33.85%||
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [java](.&#x2F;solutions&#x2F;633.sum-of-square-numbers&#x2F;sum-of-square-numbers.java)|Easy|22.38%||
