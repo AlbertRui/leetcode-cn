@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-273/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-274/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-184-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-185-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -249,6 +249,7 @@
 |783|[search-in-a-binary-search-tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)| [java](.&#x2F;solutions&#x2F;783.search-in-a-binary-search-tree&#x2F;search-in-a-binary-search-tree.java) [c++](.&#x2F;solutions&#x2F;783.search-in-a-binary-search-tree&#x2F;search-in-a-binary-search-tree.cpp)|Easy|61.23%||
 |784|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||Medium|57.85%||
 |792|[binary-search](https://leetcode-cn.com/problems/binary-search/)| [java](.&#x2F;solutions&#x2F;792.binary-search&#x2F;binary-search.java)|Easy|46.71%||
+|799|[minimum-distance-between-bst-nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)| [c++](.&#x2F;solutions&#x2F;799.minimum-distance-between-bst-nodes&#x2F;minimum-distance-between-bst-nodes.cpp) [java](.&#x2F;solutions&#x2F;799.minimum-distance-between-bst-nodes&#x2F;minimum-distance-between-bst-nodes.java)|Easy|50.53%||
 |800|[letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation/)| [c++](.&#x2F;solutions&#x2F;800.letter-case-permutation&#x2F;letter-case-permutation.cpp) [java](.&#x2F;solutions&#x2F;800.letter-case-permutation&#x2F;letter-case-permutation.java)|Easy|49.41%||
 |804|[rotated-digits](https://leetcode-cn.com/problems/rotated-digits/)| [c++](.&#x2F;solutions&#x2F;804.rotated-digits&#x2F;rotated-digits.cpp)|Easy|51.40%||
 |808|[number-of-matching-subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)| [c++](.&#x2F;solutions&#x2F;808.number-of-matching-subsequences&#x2F;number-of-matching-subsequences.cpp)|Medium|30.03%||
