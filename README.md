@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-275/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-276/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-186-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-187-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -197,6 +197,7 @@
 |565|[array-nesting](https://leetcode-cn.com/problems/array-nesting/)| [java](.&#x2F;solutions&#x2F;565.array-nesting&#x2F;array-nesting.java)|Medium|49.32%||
 |566|[reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)| [java](.&#x2F;solutions&#x2F;566.reshape-the-matrix&#x2F;reshape-the-matrix.java)|Easy|57.64%||
 |572|[subtree-of-another-tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| [c++](.&#x2F;solutions&#x2F;572.subtree-of-another-tree&#x2F;subtree-of-another-tree.cpp) [java](.&#x2F;solutions&#x2F;572.subtree-of-another-tree&#x2F;subtree-of-another-tree.java)|Easy|38.88%||
+|575|[distribute-candies](https://leetcode-cn.com/problems/distribute-candies/)| [java](.&#x2F;solutions&#x2F;575.distribute-candies&#x2F;distribute-candies.java)|Easy|57.81%||
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
 |581|[shortest-unsorted-continuous-subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| [c++](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.cpp) [java](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.java)|Easy|29.36%||
 |594|[longest-harmonious-subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [java](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.java) [c++](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.cpp)|Easy|37.30%||
