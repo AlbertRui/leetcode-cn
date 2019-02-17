@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-277/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-278/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-188-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-189-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -293,6 +293,7 @@
 |928|[surface-area-of-3d-shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)| [java](.&#x2F;solutions&#x2F;928.surface-area-of-3d-shapes&#x2F;surface-area-of-3d-shapes.java)|Easy|47.79%||
 |932|[monotonic-array](https://leetcode-cn.com/problems/monotonic-array/)| [java](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.java) [c++](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.cpp)|Easy|46.15%||
 |933|[increasing-order-search-tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)| [c++](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.cpp) [java](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.java)|Easy|48.69%||
+|941|[sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [c++](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.cpp) [java](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.java)|Easy|69.26%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
 |958|[sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [java](.&#x2F;solutions&#x2F;958.sort-array-by-parity-ii&#x2F;sort-array-by-parity-ii.java)|Easy|66.98%||
 |962|[flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)| [c++](.&#x2F;solutions&#x2F;962.flip-string-to-monotone-increasing&#x2F;flip-string-to-monotone-increasing.cpp)|Medium|32.24%||
