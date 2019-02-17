@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-268/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-269/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-180-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-181-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -295,6 +295,7 @@
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
 |978|[valid-mountain-array](https://leetcode-cn.com/problems/valid-mountain-array/)| [java](.&#x2F;solutions&#x2F;978.valid-mountain-array&#x2F;valid-mountain-array.java)|Easy|32.55%||
 |979|[di-string-match](https://leetcode-cn.com/problems/di-string-match/)| [java](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.java) [c++](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.cpp)|Easy|67.69%||
+|981|[delete-columns-to-make-sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;981.delete-columns-to-make-sorted&#x2F;delete-columns-to-make-sorted.java)|Easy|67.02%||
 |986|[largest-time-for-given-digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/)| [c++](.&#x2F;solutions&#x2F;986.largest-time-for-given-digits&#x2F;largest-time-for-given-digits.cpp) [java](.&#x2F;solutions&#x2F;986.largest-time-for-given-digits&#x2F;largest-time-for-given-digits.java)|Easy|28.04%||
 |1001|[n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)| [c++](.&#x2F;solutions&#x2F;1001.n-repeated-element-in-size-2n-array&#x2F;n-repeated-element-in-size-2n-array.cpp)|Easy|68.95%||
 |1005|[univalued-binary-tree](https://leetcode-cn.com/problems/univalued-binary-tree/)| [c++](.&#x2F;solutions&#x2F;1005.univalued-binary-tree&#x2F;univalued-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;1005.univalued-binary-tree&#x2F;univalued-binary-tree.java)|Easy|64.40%||
