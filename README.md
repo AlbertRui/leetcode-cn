@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-278/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-279/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-189-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-190-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -276,6 +276,7 @@
 |870|[magic-squares-in-grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)| [java](.&#x2F;solutions&#x2F;870.magic-squares-in-grid&#x2F;magic-squares-in-grid.java)|Easy|26.52%||
 |871|[keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/)| [java](.&#x2F;solutions&#x2F;871.keys-and-rooms&#x2F;keys-and-rooms.java)|Medium|51.72%||
 |872|[split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)| [java](.&#x2F;solutions&#x2F;872.split-array-into-fibonacci-sequence&#x2F;split-array-into-fibonacci-sequence.java)|Medium|30.93%||
+|874|[backspace-string-compare](https://leetcode-cn.com/problems/backspace-string-compare/)| [java](.&#x2F;solutions&#x2F;874.backspace-string-compare&#x2F;backspace-string-compare.java)|Easy|44.98%||
 |879|[maximize-distance-to-closest-person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)| [java](.&#x2F;solutions&#x2F;879.maximize-distance-to-closest-person&#x2F;maximize-distance-to-closest-person.java)|Easy|34.49%||
 |882|[peak-index-in-a-mountain-array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)| [java](.&#x2F;solutions&#x2F;882.peak-index-in-a-mountain-array&#x2F;peak-index-in-a-mountain-array.java) [c++](.&#x2F;solutions&#x2F;882.peak-index-in-a-mountain-array&#x2F;peak-index-in-a-mountain-array.cpp)|Easy|66.02%||
 |886|[score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)| [c++](.&#x2F;solutions&#x2F;886.score-of-parentheses&#x2F;score-of-parentheses.cpp)|Medium|45.86%||
