@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-267/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-268/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-179-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-180-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-02-16</b>
+    <b>Last updated: 2019-02-17</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -151,6 +151,7 @@
 |405|[convert-a-number-to-hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)| [java](.&#x2F;solutions&#x2F;405.convert-a-number-to-hexadecimal&#x2F;convert-a-number-to-hexadecimal.java)|Easy|43.23%||
 |407|[trapping-rain-water-ii](https://leetcode-cn.com/problems/trapping-rain-water-ii/)| [java](.&#x2F;solutions&#x2F;407.trapping-rain-water-ii&#x2F;trapping-rain-water-ii.java)|Hard|19.64%||
 |409|[longest-palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| [java](.&#x2F;solutions&#x2F;409.longest-palindrome&#x2F;longest-palindrome.java) [c++](.&#x2F;solutions&#x2F;409.longest-palindrome&#x2F;longest-palindrome.cpp)|Easy|45.17%||
+|414|[third-maximum-number](https://leetcode-cn.com/problems/third-maximum-number/)| [c++](.&#x2F;solutions&#x2F;414.third-maximum-number&#x2F;third-maximum-number.cpp) [java](.&#x2F;solutions&#x2F;414.third-maximum-number&#x2F;third-maximum-number.java)|Easy|30.61%||
 |415|[add-strings](https://leetcode-cn.com/problems/add-strings/)||Easy|42.19%||
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
 |424|[longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)| [c++](.&#x2F;solutions&#x2F;424.longest-repeating-character-replacement&#x2F;longest-repeating-character-replacement.cpp)|Medium|25.97%||
