@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-274/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-275/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-185-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-186-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -141,6 +141,7 @@
 |374|[guess-number-higher-or-lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)| [java](.&#x2F;solutions&#x2F;374.guess-number-higher-or-lower&#x2F;guess-number-higher-or-lower.java)|Easy|34.66%||
 |376|[wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)| [c++](.&#x2F;solutions&#x2F;376.wiggle-subsequence&#x2F;wiggle-subsequence.cpp)|Medium|32.13%||
 |382|[linked-list-random-node](https://leetcode-cn.com/problems/linked-list-random-node/)| [java](.&#x2F;solutions&#x2F;382.linked-list-random-node&#x2F;linked-list-random-node.java)|Medium|49.66%||
+|383|[ransom-note](https://leetcode-cn.com/problems/ransom-note/)| [java](.&#x2F;solutions&#x2F;383.ransom-note&#x2F;ransom-note.java)|Easy|44.58%||
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/)| [java](.&#x2F;solutions&#x2F;384.shuffle-an-array&#x2F;shuffle-an-array.java)|Medium|39.28%||
 |387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)||Easy|34.67%||
 |389|[find-the-difference](https://leetcode-cn.com/problems/find-the-difference/)| [java](.&#x2F;solutions&#x2F;389.find-the-difference&#x2F;find-the-difference.java)|Easy|53.15%||
