@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-272/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-273/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-183-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-184-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -200,6 +200,7 @@
 |581|[shortest-unsorted-continuous-subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| [c++](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.cpp) [java](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.java)|Easy|29.36%||
 |594|[longest-harmonious-subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [java](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.java) [c++](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.cpp)|Easy|37.30%||
 |598|[range-addition-ii](https://leetcode-cn.com/problems/range-addition-ii/)| [java](.&#x2F;solutions&#x2F;598.range-addition-ii&#x2F;range-addition-ii.java)|Easy|45.61%||
+|599|[minimum-index-sum-of-two-lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)| [java](.&#x2F;solutions&#x2F;599.minimum-index-sum-of-two-lists&#x2F;minimum-index-sum-of-two-lists.java)|Easy|43.68%||
 |605|[can-place-flowers](https://leetcode-cn.com/problems/can-place-flowers/)| [c++](.&#x2F;solutions&#x2F;605.can-place-flowers&#x2F;can-place-flowers.cpp) [java](.&#x2F;solutions&#x2F;605.can-place-flowers&#x2F;can-place-flowers.java)|Easy|25.91%||
 |606|[construct-string-from-binary-tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)| [java](.&#x2F;solutions&#x2F;606.construct-string-from-binary-tree&#x2F;construct-string-from-binary-tree.java) [c++](.&#x2F;solutions&#x2F;606.construct-string-from-binary-tree&#x2F;construct-string-from-binary-tree.cpp)|Easy|47.87%||
 |617|[merge-two-binary-trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| [c++](.&#x2F;solutions&#x2F;617.merge-two-binary-trees&#x2F;merge-two-binary-trees.cpp)|Easy|65.38%||
