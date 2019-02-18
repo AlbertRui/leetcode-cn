@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-281/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-283/801(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-192-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-193-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-02-17</b>
+    <b>Last updated: 2019-02-18</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -296,6 +296,7 @@
 |932|[monotonic-array](https://leetcode-cn.com/problems/monotonic-array/)| [java](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.java) [c++](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.cpp)|Easy|46.15%||
 |933|[increasing-order-search-tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)| [c++](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.cpp) [java](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.java)|Easy|48.69%||
 |941|[sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [c++](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.cpp) [java](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.java)|Easy|69.26%||
+|944|[smallest-range-i](https://leetcode-cn.com/problems/smallest-range-i/)| [java](.&#x2F;solutions&#x2F;944.smallest-range-i&#x2F;smallest-range-i.java)|Easy|62.58%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
 |958|[sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [java](.&#x2F;solutions&#x2F;958.sort-array-by-parity-ii&#x2F;sort-array-by-parity-ii.java)|Easy|66.98%||
 |961|[long-pressed-name](https://leetcode-cn.com/problems/long-pressed-name/)| [java](.&#x2F;solutions&#x2F;961.long-pressed-name&#x2F;long-pressed-name.java)|Easy|39.45%||
