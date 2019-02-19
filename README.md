@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-284/801(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-285/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-194-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-195-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -211,6 +211,7 @@
 |623|[add-one-row-to-tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)| [java](.&#x2F;solutions&#x2F;623.add-one-row-to-tree&#x2F;add-one-row-to-tree.java)|Medium|33.85%||
 |633|[sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)| [java](.&#x2F;solutions&#x2F;633.sum-of-square-numbers&#x2F;sum-of-square-numbers.java)|Easy|22.38%||
 |636|[exclusive-time-of-functions](https://leetcode-cn.com/problems/exclusive-time-of-functions/)| [c++](.&#x2F;solutions&#x2F;636.exclusive-time-of-functions&#x2F;exclusive-time-of-functions.cpp)|Medium|40.55%||
+|637|[average-of-levels-in-binary-tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)| [java](.&#x2F;solutions&#x2F;637.average-of-levels-in-binary-tree&#x2F;average-of-levels-in-binary-tree.java)|Easy|56.22%||
 |643|[maximum-average-subarray-i](https://leetcode-cn.com/problems/maximum-average-subarray-i/)| [c++](.&#x2F;solutions&#x2F;643.maximum-average-subarray-i&#x2F;maximum-average-subarray-i.cpp)|Easy|30.95%||
 |645|[set-mismatch](https://leetcode-cn.com/problems/set-mismatch/)| [java](.&#x2F;solutions&#x2F;645.set-mismatch&#x2F;set-mismatch.java)|Easy|32.52%||
 |646|[maximum-length-of-pair-chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)| [java](.&#x2F;solutions&#x2F;646.maximum-length-of-pair-chain&#x2F;maximum-length-of-pair-chain.java)|Medium|45.06%||
