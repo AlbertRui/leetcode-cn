@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-286/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-288/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-87-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-89-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-02-19</b>
+    <b>Last updated: 2019-02-20</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -125,6 +125,7 @@
 |268|[missing-number](https://leetcode-cn.com/problems/missing-number/)| [c++](.&#x2F;solutions&#x2F;268.missing-number&#x2F;missing-number.cpp) [java](.&#x2F;solutions&#x2F;268.missing-number&#x2F;missing-number.java)|Easy|46.90%||
 |278|[first-bad-version](https://leetcode-cn.com/problems/first-bad-version/)| [java](.&#x2F;solutions&#x2F;278.first-bad-version&#x2F;first-bad-version.java)|Easy|27.99%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
+|287|[find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| [c++](.&#x2F;solutions&#x2F;287.find-the-duplicate-number&#x2F;find-the-duplicate-number.cpp) [java](.&#x2F;solutions&#x2F;287.find-the-duplicate-number&#x2F;find-the-duplicate-number.java)|Medium|56.94%||
 |290|[word-pattern](https://leetcode-cn.com/problems/word-pattern/)| [java](.&#x2F;solutions&#x2F;290.word-pattern&#x2F;word-pattern.java) [c++](.&#x2F;solutions&#x2F;290.word-pattern&#x2F;word-pattern.cpp)|Easy|36.38%||
 |292|[nim-game](https://leetcode-cn.com/problems/nim-game/)| [c++](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.cpp)|Easy|64.77%||
 |303|[range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [java](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.java) [c++](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.cpp)|Easy|49.93%||
@@ -299,6 +300,7 @@
 |932|[monotonic-array](https://leetcode-cn.com/problems/monotonic-array/)| [java](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.java) [c++](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.cpp)|Easy|46.15%||
 |933|[increasing-order-search-tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)| [c++](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.cpp) [java](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.java)|Easy|48.69%||
 |941|[sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [c++](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.cpp) [java](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.java)|Easy|69.26%||
+|943|[sum-of-subarray-minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)||Medium|21.30%||
 |944|[smallest-range-i](https://leetcode-cn.com/problems/smallest-range-i/)| [java](.&#x2F;solutions&#x2F;944.smallest-range-i&#x2F;smallest-range-i.java)|Easy|62.58%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
 |958|[sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [java](.&#x2F;solutions&#x2F;958.sort-array-by-parity-ii&#x2F;sort-array-by-parity-ii.java)|Easy|66.98%||
