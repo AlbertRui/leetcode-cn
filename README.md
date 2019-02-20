@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-288/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-289/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-89-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-90-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -132,6 +132,7 @@
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
 |319|[bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/)| [java](.&#x2F;solutions&#x2F;319.bulb-switcher&#x2F;bulb-switcher.java)|Medium|28.71%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
+|331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)| [c++](.&#x2F;solutions&#x2F;331.verify-preorder-serialization-of-a-binary-tree&#x2F;verify-preorder-serialization-of-a-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;331.verify-preorder-serialization-of-a-binary-tree&#x2F;verify-preorder-serialization-of-a-binary-tree.java)|Medium|40.33%||
 |338|[counting-bits](https://leetcode-cn.com/problems/counting-bits/)||Medium|69.11%||
 |342|[power-of-four](https://leetcode-cn.com/problems/power-of-four/)| [java](.&#x2F;solutions&#x2F;342.power-of-four&#x2F;power-of-four.java) [c++](.&#x2F;solutions&#x2F;342.power-of-four&#x2F;power-of-four.cpp)|Easy|43.79%||
 |344|[reverse-string](https://leetcode-cn.com/problems/reverse-string/)| [java](.&#x2F;solutions&#x2F;344.reverse-string&#x2F;reverse-string.java)|Easy|61.12%||
