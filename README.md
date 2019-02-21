@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-291/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-292/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-92-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-93-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -223,6 +223,7 @@
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
 |669|[trim-a-binary-search-tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)| [c++](.&#x2F;solutions&#x2F;669.trim-a-binary-search-tree&#x2F;trim-a-binary-search-tree.cpp)|Easy|56.23%||
+|670|[maximum-swap](https://leetcode-cn.com/problems/maximum-swap/)| [c++](.&#x2F;solutions&#x2F;670.maximum-swap&#x2F;maximum-swap.cpp) [java](.&#x2F;solutions&#x2F;670.maximum-swap&#x2F;maximum-swap.java)|Medium|33.54%||
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)| [c++](.&#x2F;solutions&#x2F;671.second-minimum-node-in-a-binary-tree&#x2F;second-minimum-node-in-a-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;671.second-minimum-node-in-a-binary-tree&#x2F;second-minimum-node-in-a-binary-tree.java)|Easy|44.52%||
 |672|[bulb-switcher-ii](https://leetcode-cn.com/problems/bulb-switcher-ii/)| [java](.&#x2F;solutions&#x2F;672.bulb-switcher-ii&#x2F;bulb-switcher-ii.java)|Medium|42.02%||
 |674|[longest-continuous-increasing-subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)| [java](.&#x2F;solutions&#x2F;674.longest-continuous-increasing-subsequence&#x2F;longest-continuous-increasing-subsequence.java)|Easy|37.24%||
