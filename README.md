@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-292/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-293/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-93-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-94-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-02-21</b>
+    <b>Last updated: 2019-02-22</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -242,6 +242,7 @@
 |724|[find-pivot-index](https://leetcode-cn.com/problems/find-pivot-index/)| [java](.&#x2F;solutions&#x2F;724.find-pivot-index&#x2F;find-pivot-index.java)|Easy|32.86%||
 |725|[split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| [java](.&#x2F;solutions&#x2F;725.split-linked-list-in-parts&#x2F;split-linked-list-in-parts.java)|Medium|47.26%||
 |728|[self-dividing-numbers](https://leetcode-cn.com/problems/self-dividing-numbers/)| [java](.&#x2F;solutions&#x2F;728.self-dividing-numbers&#x2F;self-dividing-numbers.java)|Easy|64.42%||
+|740|[delete-and-earn](https://leetcode-cn.com/problems/delete-and-earn/)| [c++](.&#x2F;solutions&#x2F;740.delete-and-earn&#x2F;delete-and-earn.cpp) [java](.&#x2F;solutions&#x2F;740.delete-and-earn&#x2F;delete-and-earn.java)|Medium|46.99%||
 |742|[to-lower-case](https://leetcode-cn.com/problems/to-lower-case/)| [java](.&#x2F;solutions&#x2F;742.to-lower-case&#x2F;to-lower-case.java) [c++](.&#x2F;solutions&#x2F;742.to-lower-case&#x2F;to-lower-case.cpp)|Easy|71.94%||
 |745|[find-smallest-letter-greater-than-target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)| [java](.&#x2F;solutions&#x2F;745.find-smallest-letter-greater-than-target&#x2F;find-smallest-letter-greater-than-target.java) [c++](.&#x2F;solutions&#x2F;745.find-smallest-letter-greater-than-target&#x2F;find-smallest-letter-greater-than-target.cpp)|Easy|40.92%||
 |747|[min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)| [java](.&#x2F;solutions&#x2F;747.min-cost-climbing-stairs&#x2F;min-cost-climbing-stairs.java) [c++](.&#x2F;solutions&#x2F;747.min-cost-climbing-stairs&#x2F;min-cost-climbing-stairs.cpp)|Easy|39.12%||
