@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-295/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-296/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-96-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-97-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -176,6 +176,7 @@
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)| [java](.&#x2F;solutions&#x2F;448.find-all-numbers-disappeared-in-an-array&#x2F;find-all-numbers-disappeared-in-an-array.java)|Easy|51.14%||
 |453|[minimum-moves-to-equal-array-elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)| [java](.&#x2F;solutions&#x2F;453.minimum-moves-to-equal-array-elements&#x2F;minimum-moves-to-equal-array-elements.java)|Easy|48.27%||
 |455|[assign-cookies](https://leetcode-cn.com/problems/assign-cookies/)| [c++](.&#x2F;solutions&#x2F;455.assign-cookies&#x2F;assign-cookies.cpp)|Easy|44.99%||
+|456|[132-pattern](https://leetcode-cn.com/problems/132-pattern/)| [java](.&#x2F;solutions&#x2F;456.132-pattern&#x2F;132-pattern.java) [c++](.&#x2F;solutions&#x2F;456.132-pattern&#x2F;132-pattern.cpp)|Medium|20.44%||
 |458|[poor-pigs](https://leetcode-cn.com/problems/poor-pigs/)| [c++](.&#x2F;solutions&#x2F;458.poor-pigs&#x2F;poor-pigs.cpp) [java](.&#x2F;solutions&#x2F;458.poor-pigs&#x2F;poor-pigs.java)|Easy|47.36%||
 |461|[hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)| [c++](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.cpp) [java](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.java)|Easy|66.59%||
 |463|[island-perimeter](https://leetcode-cn.com/problems/island-perimeter/)| [java](.&#x2F;solutions&#x2F;463.island-perimeter&#x2F;island-perimeter.java)|Easy|58.15%||
