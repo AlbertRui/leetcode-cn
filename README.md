@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-301/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-302/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-102-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-103-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -184,6 +184,7 @@
 |461|[hamming-distance](https://leetcode-cn.com/problems/hamming-distance/)| [c++](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.cpp) [java](.&#x2F;solutions&#x2F;461.hamming-distance&#x2F;hamming-distance.java)|Easy|66.59%||
 |463|[island-perimeter](https://leetcode-cn.com/problems/island-perimeter/)| [java](.&#x2F;solutions&#x2F;463.island-perimeter&#x2F;island-perimeter.java)|Easy|58.15%||
 |474|[ones-and-zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)| [java](.&#x2F;solutions&#x2F;474.ones-and-zeroes&#x2F;ones-and-zeroes.java)|Medium|31.15%||
+|477|[total-hamming-distance](https://leetcode-cn.com/problems/total-hamming-distance/)| [java](.&#x2F;solutions&#x2F;477.total-hamming-distance&#x2F;total-hamming-distance.java)|Medium|37.94%||
 |479|[largest-palindrome-product](https://leetcode-cn.com/problems/largest-palindrome-product/)| [java](.&#x2F;solutions&#x2F;479.largest-palindrome-product&#x2F;largest-palindrome-product.java)|Easy|23.43%||
 |482|[license-key-formatting](https://leetcode-cn.com/problems/license-key-formatting/)| [java](.&#x2F;solutions&#x2F;482.license-key-formatting&#x2F;license-key-formatting.java)|Easy|36.67%||
 |485|[max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [java](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.java)|Easy|53.72%||
