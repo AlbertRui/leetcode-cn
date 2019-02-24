@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-302/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-303/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-103-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-104-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -59,6 +59,7 @@
 |067|[add-binary](https://leetcode-cn.com/problems/add-binary/)| [java](.&#x2F;solutions&#x2F;067.add-binary&#x2F;add-binary.java)|Easy|44.53%||
 |069|[sqrtx](https://leetcode-cn.com/problems/sqrtx/)| [java](.&#x2F;solutions&#x2F;069.sqrtx&#x2F;sqrtx.java) [c++](.&#x2F;solutions&#x2F;069.sqrtx&#x2F;sqrtx.cpp)|Easy|34.21%||
 |070|[climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [java](.&#x2F;solutions&#x2F;070.climbing-stairs&#x2F;climbing-stairs.java) [c++](.&#x2F;solutions&#x2F;070.climbing-stairs&#x2F;climbing-stairs.cpp)|Easy|43.09%||
+|078|[subsets](https://leetcode-cn.com/problems/subsets/)| [c++](.&#x2F;solutions&#x2F;078.subsets&#x2F;subsets.cpp) [java](.&#x2F;solutions&#x2F;078.subsets&#x2F;subsets.java)|Medium|70.64%||
 |079|[word-search](https://leetcode-cn.com/problems/word-search/)| [java](.&#x2F;solutions&#x2F;079.word-search&#x2F;word-search.java)|Medium|30.89%||
 |083|[remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| [java](.&#x2F;solutions&#x2F;083.remove-duplicates-from-sorted-list&#x2F;remove-duplicates-from-sorted-list.java)|Easy|40.25%||
 |086|[partition-list](https://leetcode-cn.com/problems/partition-list/)| [c++](.&#x2F;solutions&#x2F;086.partition-list&#x2F;partition-list.cpp)|Medium|42.16%||
