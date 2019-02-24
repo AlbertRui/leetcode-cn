@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-298/805(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-299/805(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-99-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-100-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -157,6 +157,7 @@
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
 |404|[sum-of-left-leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)| [java](.&#x2F;solutions&#x2F;404.sum-of-left-leaves&#x2F;sum-of-left-leaves.java) [c++](.&#x2F;solutions&#x2F;404.sum-of-left-leaves&#x2F;sum-of-left-leaves.cpp)|Easy|47.48%||
 |405|[convert-a-number-to-hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)| [java](.&#x2F;solutions&#x2F;405.convert-a-number-to-hexadecimal&#x2F;convert-a-number-to-hexadecimal.java)|Easy|43.23%||
+|406|[queue-reconstruction-by-height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)| [java](.&#x2F;solutions&#x2F;406.queue-reconstruction-by-height&#x2F;queue-reconstruction-by-height.java)|Medium|58.33%||
 |407|[trapping-rain-water-ii](https://leetcode-cn.com/problems/trapping-rain-water-ii/)| [java](.&#x2F;solutions&#x2F;407.trapping-rain-water-ii&#x2F;trapping-rain-water-ii.java)|Hard|19.64%||
 |409|[longest-palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| [java](.&#x2F;solutions&#x2F;409.longest-palindrome&#x2F;longest-palindrome.java) [c++](.&#x2F;solutions&#x2F;409.longest-palindrome&#x2F;longest-palindrome.cpp)|Easy|45.17%||
 |412|[fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/)| [java](.&#x2F;solutions&#x2F;412.fizz-buzz&#x2F;fizz-buzz.java) [c++](.&#x2F;solutions&#x2F;412.fizz-buzz&#x2F;fizz-buzz.cpp)|Easy|57.69%||
