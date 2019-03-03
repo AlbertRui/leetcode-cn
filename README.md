@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-305/809(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-306/809(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-106-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-107-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-03-01</b>
+    <b>Last updated: 2019-03-03</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -285,6 +285,7 @@
 |827|[expressive-words](https://leetcode-cn.com/problems/expressive-words/)||Medium|28.96%||
 |829|[subdomain-visit-count](https://leetcode-cn.com/problems/subdomain-visit-count/)| [java](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.java) [c++](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.cpp)|Easy|60.03%||
 |830|[largest-triangle-area](https://leetcode-cn.com/problems/largest-triangle-area/)| [java](.&#x2F;solutions&#x2F;830.largest-triangle-area&#x2F;largest-triangle-area.java)|Easy|53.99%||
+|832|[binary-tree-pruning](https://leetcode-cn.com/problems/binary-tree-pruning/)| [c++](.&#x2F;solutions&#x2F;832.binary-tree-pruning&#x2F;binary-tree-pruning.cpp) [java](.&#x2F;solutions&#x2F;832.binary-tree-pruning&#x2F;binary-tree-pruning.java)|Medium|66.76%||
 |834|[ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)| [java](.&#x2F;solutions&#x2F;834.ambiguous-coordinates&#x2F;ambiguous-coordinates.java)|Medium|40.91%||
 |838|[design-linked-list](https://leetcode-cn.com/problems/design-linked-list/)| [java](.&#x2F;solutions&#x2F;838.design-linked-list&#x2F;design-linked-list.java)|Easy|24.70%||
 |851|[goat-latin](https://leetcode-cn.com/problems/goat-latin/)| [c++](.&#x2F;solutions&#x2F;851.goat-latin&#x2F;goat-latin.cpp) [java](.&#x2F;solutions&#x2F;851.goat-latin&#x2F;goat-latin.java)|Easy|52.45%||
