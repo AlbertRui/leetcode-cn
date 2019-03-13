@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-309/817(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-310/817(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-110-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-111-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -145,6 +145,7 @@
 |342|[power-of-four](https://leetcode-cn.com/problems/power-of-four/)| [java](.&#x2F;solutions&#x2F;342.power-of-four&#x2F;power-of-four.java) [c++](.&#x2F;solutions&#x2F;342.power-of-four&#x2F;power-of-four.cpp)|Easy|43.79%||
 |344|[reverse-string](https://leetcode-cn.com/problems/reverse-string/)| [java](.&#x2F;solutions&#x2F;344.reverse-string&#x2F;reverse-string.java)|Easy|61.12%||
 |345|[reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)| [java](.&#x2F;solutions&#x2F;345.reverse-vowels-of-a-string&#x2F;reverse-vowels-of-a-string.java)|Easy|38.45%||
+|347|[top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)| [java](.&#x2F;solutions&#x2F;347.top-k-frequent-elements&#x2F;top-k-frequent-elements.java)|Medium|54.09%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
 |350|[intersection-of-two-arrays-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)| [java](.&#x2F;solutions&#x2F;350.intersection-of-two-arrays-ii&#x2F;intersection-of-two-arrays-ii.java) [c++](.&#x2F;solutions&#x2F;350.intersection-of-two-arrays-ii&#x2F;intersection-of-two-arrays-ii.cpp)|Easy|37.71%||
 |367|[valid-perfect-square](https://leetcode-cn.com/problems/valid-perfect-square/)||Easy|38.26%||
