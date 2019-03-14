@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-311/817(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-313/817(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-112-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-113-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -169,6 +169,7 @@
 |414|[third-maximum-number](https://leetcode-cn.com/problems/third-maximum-number/)| [c++](.&#x2F;solutions&#x2F;414.third-maximum-number&#x2F;third-maximum-number.cpp) [java](.&#x2F;solutions&#x2F;414.third-maximum-number&#x2F;third-maximum-number.java)|Easy|30.61%||
 |415|[add-strings](https://leetcode-cn.com/problems/add-strings/)||Easy|42.19%||
 |417|[pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)| [java](.&#x2F;solutions&#x2F;417.pacific-atlantic-water-flow&#x2F;pacific-atlantic-water-flow.java)|Medium|37.25%||
+|421|[maximum-xor-of-two-numbers-in-an-array](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)| [c++](.&#x2F;solutions&#x2F;421.maximum-xor-of-two-numbers-in-an-array&#x2F;maximum-xor-of-two-numbers-in-an-array.cpp) [java](.&#x2F;solutions&#x2F;421.maximum-xor-of-two-numbers-in-an-array&#x2F;maximum-xor-of-two-numbers-in-an-array.java)|Medium|52.61%||
 |424|[longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)| [c++](.&#x2F;solutions&#x2F;424.longest-repeating-character-replacement&#x2F;longest-repeating-character-replacement.cpp)|Medium|25.97%||
 |433|[minimum-genetic-mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)| [c++](.&#x2F;solutions&#x2F;433.minimum-genetic-mutation&#x2F;minimum-genetic-mutation.cpp)|Medium|36.62%||
 |434|[number-of-segments-in-a-string](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)| [java](.&#x2F;solutions&#x2F;434.number-of-segments-in-a-string&#x2F;number-of-segments-in-a-string.java)|Easy|28.20%||
