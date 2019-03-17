@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-316/817(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-317/818(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-115-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-116-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -248,6 +248,7 @@
 |682|[baseball-game](https://leetcode-cn.com/problems/baseball-game/)| [java](.&#x2F;solutions&#x2F;682.baseball-game&#x2F;baseball-game.java)|Easy|58.04%||
 |686|[repeated-string-match](https://leetcode-cn.com/problems/repeated-string-match/)| [java](.&#x2F;solutions&#x2F;686.repeated-string-match&#x2F;repeated-string-match.java)|Easy|20.00%||
 |687|[longest-univalue-path](https://leetcode-cn.com/problems/longest-univalue-path/)| [java](.&#x2F;solutions&#x2F;687.longest-univalue-path&#x2F;longest-univalue-path.java) [c++](.&#x2F;solutions&#x2F;687.longest-univalue-path&#x2F;longest-univalue-path.cpp)|Easy|32.14%||
+|688|[knight-probability-in-chessboard](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)| [java](.&#x2F;solutions&#x2F;688.knight-probability-in-chessboard&#x2F;knight-probability-in-chessboard.java)|Medium|40.27%||
 |690|[employee-importance](https://leetcode-cn.com/problems/employee-importance/)| [java](.&#x2F;solutions&#x2F;690.employee-importance&#x2F;employee-importance.java)|Easy|45.54%||
 |693|[binary-number-with-alternating-bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)| [java](.&#x2F;solutions&#x2F;693.binary-number-with-alternating-bits&#x2F;binary-number-with-alternating-bits.java)|Easy|56.97%||
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/)| [java](.&#x2F;solutions&#x2F;695.max-area-of-island&#x2F;max-area-of-island.java)|Easy|51.76%||
