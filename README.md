@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-318/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-319/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-117-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-118-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -130,6 +130,7 @@
 |258|[add-digits](https://leetcode-cn.com/problems/add-digits/)| [c++](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.cpp) [java](.&#x2F;solutions&#x2F;258.add-digits&#x2F;add-digits.java)|Easy|61.74%||
 |263|[ugly-number](https://leetcode-cn.com/problems/ugly-number/)| [java](.&#x2F;solutions&#x2F;263.ugly-number&#x2F;ugly-number.java) [c++](.&#x2F;solutions&#x2F;263.ugly-number&#x2F;ugly-number.cpp)|Easy|43.82%||
 |268|[missing-number](https://leetcode-cn.com/problems/missing-number/)| [c++](.&#x2F;solutions&#x2F;268.missing-number&#x2F;missing-number.cpp) [java](.&#x2F;solutions&#x2F;268.missing-number&#x2F;missing-number.java)|Easy|46.90%||
+|274|[h-index](https://leetcode-cn.com/problems/h-index/)| [java](.&#x2F;solutions&#x2F;274.h-index&#x2F;h-index.java)|Medium|33.69%||
 |275|[h-index-ii](https://leetcode-cn.com/problems/h-index-ii/)| [java](.&#x2F;solutions&#x2F;275.h-index-ii&#x2F;h-index-ii.java)|Medium|35.82%||
 |278|[first-bad-version](https://leetcode-cn.com/problems/first-bad-version/)| [java](.&#x2F;solutions&#x2F;278.first-bad-version&#x2F;first-bad-version.java)|Easy|27.99%||
 |283|[move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)| [java](.&#x2F;solutions&#x2F;283.move-zeroes&#x2F;move-zeroes.java)|Easy|51.53%||
