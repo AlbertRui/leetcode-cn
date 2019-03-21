@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-317/818(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-318/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-116-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-117-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-03-17</b>
+    <b>Last updated: 2019-03-21</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -333,6 +333,7 @@
 |962|[flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)| [c++](.&#x2F;solutions&#x2F;962.flip-string-to-monotone-increasing&#x2F;flip-string-to-monotone-increasing.cpp)|Medium|32.24%||
 |965|[unique-email-addresses](https://leetcode-cn.com/problems/unique-email-addresses/)| [java](.&#x2F;solutions&#x2F;965.unique-email-addresses&#x2F;unique-email-addresses.java)|Easy|72.95%||
 |967|[minimum-falling-path-sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/)| [java](.&#x2F;solutions&#x2F;967.minimum-falling-path-sum&#x2F;minimum-falling-path-sum.java)|Medium|48.15%||
+|968|[beautiful-array](https://leetcode-cn.com/problems/beautiful-array/)| [java](.&#x2F;solutions&#x2F;968.beautiful-array&#x2F;beautiful-array.java)|Medium|50.93%||
 |969|[number-of-recent-calls](https://leetcode-cn.com/problems/number-of-recent-calls/)| [java](.&#x2F;solutions&#x2F;969.number-of-recent-calls&#x2F;number-of-recent-calls.java)|Easy|60.50%||
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
 |978|[valid-mountain-array](https://leetcode-cn.com/problems/valid-mountain-array/)| [java](.&#x2F;solutions&#x2F;978.valid-mountain-array&#x2F;valid-mountain-array.java)|Easy|32.55%||
