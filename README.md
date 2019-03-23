@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-320/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-321/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-119-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-120-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -210,6 +210,7 @@
 |538|[convert-bst-to-greater-tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| [java](.&#x2F;solutions&#x2F;538.convert-bst-to-greater-tree&#x2F;convert-bst-to-greater-tree.java)|Easy|46.04%||
 |541|[reverse-string-ii](https://leetcode-cn.com/problems/reverse-string-ii/)| [c++](.&#x2F;solutions&#x2F;541.reverse-string-ii&#x2F;reverse-string-ii.cpp) [java](.&#x2F;solutions&#x2F;541.reverse-string-ii&#x2F;reverse-string-ii.java)|Easy|43.44%||
 |543|[diameter-of-binary-tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)| [c++](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;543.diameter-of-binary-tree&#x2F;diameter-of-binary-tree.java)|Easy|42.77%||
+|547|[friend-circles](https://leetcode-cn.com/problems/friend-circles/)| [java](.&#x2F;solutions&#x2F;547.friend-circles&#x2F;friend-circles.java) [c++](.&#x2F;solutions&#x2F;547.friend-circles&#x2F;friend-circles.cpp)|Medium|49.23%||
 |551|[student-attendance-record-i](https://leetcode-cn.com/problems/student-attendance-record-i/)| [java](.&#x2F;solutions&#x2F;551.student-attendance-record-i&#x2F;student-attendance-record-i.java)|Easy|45.98%||
 |557|[reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)| [java](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.java) [c++](.&#x2F;solutions&#x2F;557.reverse-words-in-a-string-iii&#x2F;reverse-words-in-a-string-iii.cpp)|Easy|60.61%||
 |561|[array-partition-i](https://leetcode-cn.com/problems/array-partition-i/)| [java](.&#x2F;solutions&#x2F;561.array-partition-i&#x2F;array-partition-i.java)|Easy|66.26%||
