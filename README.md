@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-319/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-320/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-118-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-119-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-03-21</b>
+    <b>Last updated: 2019-03-23</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -255,6 +255,7 @@
 |695|[max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/)| [java](.&#x2F;solutions&#x2F;695.max-area-of-island&#x2F;max-area-of-island.java)|Easy|51.76%||
 |696|[count-binary-substrings](https://leetcode-cn.com/problems/count-binary-substrings/)| [java](.&#x2F;solutions&#x2F;696.count-binary-substrings&#x2F;count-binary-substrings.java)|Easy|46.92%||
 |697|[degree-of-an-array](https://leetcode-cn.com/problems/degree-of-an-array/)| [java](.&#x2F;solutions&#x2F;697.degree-of-an-array&#x2F;degree-of-an-array.java)|Easy|40.11%||
+|712|[minimum-ascii-delete-sum-for-two-strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)| [c++](.&#x2F;solutions&#x2F;712.minimum-ascii-delete-sum-for-two-strings&#x2F;minimum-ascii-delete-sum-for-two-strings.cpp)|Medium|53.65%||
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [c++](.&#x2F;solutions&#x2F;714.best-time-to-buy-and-sell-stock-with-transaction-fee&#x2F;best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) [java](.&#x2F;solutions&#x2F;714.best-time-to-buy-and-sell-stock-with-transaction-fee&#x2F;best-time-to-buy-and-sell-stock-with-transaction-fee.java)|Medium|41.87%||
 |717|[1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)| [java](.&#x2F;solutions&#x2F;717.1-bit-and-2-bit-characters&#x2F;1-bit-and-2-bit-characters.java)|Easy|49.50%||
 |720|[longest-word-in-dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/)| [java](.&#x2F;solutions&#x2F;720.longest-word-in-dictionary&#x2F;longest-word-in-dictionary.java)|Easy|31.36%||
