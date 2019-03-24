@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-329/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-330/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-127-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-128-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -285,6 +285,7 @@
 |784|[insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||Medium|57.85%||
 |789|[kth-largest-element-in-a-stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)| [java](.&#x2F;solutions&#x2F;789.kth-largest-element-in-a-stream&#x2F;kth-largest-element-in-a-stream.java)|Easy|33.78%||
 |792|[binary-search](https://leetcode-cn.com/problems/binary-search/)| [java](.&#x2F;solutions&#x2F;792.binary-search&#x2F;binary-search.java)|Easy|46.71%||
+|795|[k-th-symbol-in-grammar](https://leetcode-cn.com/problems/k-th-symbol-in-grammar/)| [java](.&#x2F;solutions&#x2F;795.k-th-symbol-in-grammar&#x2F;k-th-symbol-in-grammar.java) [c++](.&#x2F;solutions&#x2F;795.k-th-symbol-in-grammar&#x2F;k-th-symbol-in-grammar.cpp)|Medium|34.51%||
 |799|[minimum-distance-between-bst-nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)| [c++](.&#x2F;solutions&#x2F;799.minimum-distance-between-bst-nodes&#x2F;minimum-distance-between-bst-nodes.cpp) [java](.&#x2F;solutions&#x2F;799.minimum-distance-between-bst-nodes&#x2F;minimum-distance-between-bst-nodes.java)|Easy|50.53%||
 |800|[letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation/)| [c++](.&#x2F;solutions&#x2F;800.letter-case-permutation&#x2F;letter-case-permutation.cpp) [java](.&#x2F;solutions&#x2F;800.letter-case-permutation&#x2F;letter-case-permutation.java)|Easy|49.41%||
 |804|[rotated-digits](https://leetcode-cn.com/problems/rotated-digits/)| [c++](.&#x2F;solutions&#x2F;804.rotated-digits&#x2F;rotated-digits.cpp)|Easy|51.40%||
