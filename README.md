@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-325/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-326/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-123-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-124-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -317,6 +317,7 @@
 |887|[minimum-cost-to-hire-k-workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)| [java](.&#x2F;solutions&#x2F;887.minimum-cost-to-hire-k-workers&#x2F;minimum-cost-to-hire-k-workers.java)|Hard|29.73%||
 |890|[lemonade-change](https://leetcode-cn.com/problems/lemonade-change/)| [java](.&#x2F;solutions&#x2F;890.lemonade-change&#x2F;lemonade-change.java)|Easy|47.22%||
 |899|[binary-gap](https://leetcode-cn.com/problems/binary-gap/)| [c++](.&#x2F;solutions&#x2F;899.binary-gap&#x2F;binary-gap.cpp) [java](.&#x2F;solutions&#x2F;899.binary-gap&#x2F;binary-gap.java)|Easy|55.62%||
+|900|[reordered-power-of-2](https://leetcode-cn.com/problems/reordered-power-of-2/)| [java](.&#x2F;solutions&#x2F;900.reordered-power-of-2&#x2F;reordered-power-of-2.java) [c++](.&#x2F;solutions&#x2F;900.reordered-power-of-2&#x2F;reordered-power-of-2.cpp)|Medium|42.04%||
 |902|[minimum-number-of-refueling-stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)| [c++](.&#x2F;solutions&#x2F;902.minimum-number-of-refueling-stops&#x2F;minimum-number-of-refueling-stops.cpp)|Hard|20.62%||
 |904|[leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees/)| [java](.&#x2F;solutions&#x2F;904.leaf-similar-trees&#x2F;leaf-similar-trees.java)|Easy|48.96%||
 |906|[walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)| [c++](.&#x2F;solutions&#x2F;906.walking-robot-simulation&#x2F;walking-robot-simulation.cpp)|Easy|15.21%||
