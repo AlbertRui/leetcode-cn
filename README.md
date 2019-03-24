@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-327/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-328/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-125-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-126-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -331,6 +331,7 @@
 |928|[surface-area-of-3d-shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)| [java](.&#x2F;solutions&#x2F;928.surface-area-of-3d-shapes&#x2F;surface-area-of-3d-shapes.java)|Easy|47.79%||
 |932|[monotonic-array](https://leetcode-cn.com/problems/monotonic-array/)| [java](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.java) [c++](.&#x2F;solutions&#x2F;932.monotonic-array&#x2F;monotonic-array.cpp)|Easy|46.15%||
 |933|[increasing-order-search-tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)| [c++](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.cpp) [java](.&#x2F;solutions&#x2F;933.increasing-order-search-tree&#x2F;increasing-order-search-tree.java)|Easy|48.69%||
+|940|[fruit-into-baskets](https://leetcode-cn.com/problems/fruit-into-baskets/)| [c++](.&#x2F;solutions&#x2F;940.fruit-into-baskets&#x2F;fruit-into-baskets.cpp) [java](.&#x2F;solutions&#x2F;940.fruit-into-baskets&#x2F;fruit-into-baskets.java)|Medium|27.27%||
 |941|[sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [c++](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.cpp) [java](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.java)|Easy|69.26%||
 |943|[sum-of-subarray-minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)||Medium|21.30%||
 |944|[smallest-range-i](https://leetcode-cn.com/problems/smallest-range-i/)| [java](.&#x2F;solutions&#x2F;944.smallest-range-i&#x2F;smallest-range-i.java)|Easy|62.58%||
