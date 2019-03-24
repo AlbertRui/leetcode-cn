@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-328/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-329/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-126-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-127-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -114,6 +114,7 @@
 |205|[isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/)| [java](.&#x2F;solutions&#x2F;205.isomorphic-strings&#x2F;isomorphic-strings.java) [c++](.&#x2F;solutions&#x2F;205.isomorphic-strings&#x2F;isomorphic-strings.cpp)|Easy|41.67%||
 |206|[reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/)| [java](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.java)|Easy|46.74%||
 |209|[minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)| [java](.&#x2F;solutions&#x2F;209.minimum-size-subarray-sum&#x2F;minimum-size-subarray-sum.java)|Medium|32.16%||
+|211|[add-and-search-word-data-structure-design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)| [java](.&#x2F;solutions&#x2F;211.add-and-search-word-data-structure-design&#x2F;add-and-search-word-data-structure-design.java)|Medium|43.89%||
 |217|[contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [java](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.java)|Easy|39.25%||
 |219|[contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/)| [c++](.&#x2F;solutions&#x2F;219.contains-duplicate-ii&#x2F;contains-duplicate-ii.cpp) [java](.&#x2F;solutions&#x2F;219.contains-duplicate-ii&#x2F;contains-duplicate-ii.java)|Easy|31.80%||
 |223|[rectangle-area](https://leetcode-cn.com/problems/rectangle-area/)| [java](.&#x2F;solutions&#x2F;223.rectangle-area&#x2F;rectangle-area.java)|Medium|42.47%||
