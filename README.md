@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-331/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-332/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-129-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-130-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-03-24</b>
+    <b>Last updated: 2019-03-27</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -339,6 +339,7 @@
 |943|[sum-of-subarray-minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)||Medium|21.30%||
 |944|[smallest-range-i](https://leetcode-cn.com/problems/smallest-range-i/)| [java](.&#x2F;solutions&#x2F;944.smallest-range-i&#x2F;smallest-range-i.java)|Easy|62.58%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
+|954|[maximum-sum-circular-subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)| [java](.&#x2F;solutions&#x2F;954.maximum-sum-circular-subarray&#x2F;maximum-sum-circular-subarray.java)|Medium|23.32%||
 |958|[sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)| [java](.&#x2F;solutions&#x2F;958.sort-array-by-parity-ii&#x2F;sort-array-by-parity-ii.java)|Easy|66.98%||
 |961|[long-pressed-name](https://leetcode-cn.com/problems/long-pressed-name/)| [java](.&#x2F;solutions&#x2F;961.long-pressed-name&#x2F;long-pressed-name.java)|Easy|39.45%||
 |962|[flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)| [c++](.&#x2F;solutions&#x2F;962.flip-string-to-monotone-increasing&#x2F;flip-string-to-monotone-increasing.cpp)|Medium|32.24%||
