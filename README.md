@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-336/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-337/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-134-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-135-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -153,6 +153,7 @@
 |347|[top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)| [java](.&#x2F;solutions&#x2F;347.top-k-frequent-elements&#x2F;top-k-frequent-elements.java)|Medium|54.09%||
 |349|[intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| [java](.&#x2F;solutions&#x2F;349.intersection-of-two-arrays&#x2F;intersection-of-two-arrays.java)|Easy|48.24%||
 |350|[intersection-of-two-arrays-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)| [java](.&#x2F;solutions&#x2F;350.intersection-of-two-arrays-ii&#x2F;intersection-of-two-arrays-ii.java) [c++](.&#x2F;solutions&#x2F;350.intersection-of-two-arrays-ii&#x2F;intersection-of-two-arrays-ii.cpp)|Easy|37.71%||
+|365|[water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| [java](.&#x2F;solutions&#x2F;365.water-and-jug-problem&#x2F;water-and-jug-problem.java)|Medium|24.59%||
 |367|[valid-perfect-square](https://leetcode-cn.com/problems/valid-perfect-square/)||Easy|38.26%||
 |371|[sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/)| [java](.&#x2F;solutions&#x2F;371.sum-of-two-integers&#x2F;sum-of-two-integers.java)|Easy|53.42%||
 |374|[guess-number-higher-or-lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)| [java](.&#x2F;solutions&#x2F;374.guess-number-higher-or-lower&#x2F;guess-number-higher-or-lower.java)|Easy|34.66%||
