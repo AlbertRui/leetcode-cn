@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-339/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-340/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-137-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-138-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -231,6 +231,7 @@
 |576|[out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)| [java](.&#x2F;solutions&#x2F;576.out-of-boundary-paths&#x2F;out-of-boundary-paths.java)|Medium|21.55%||
 |581|[shortest-unsorted-continuous-subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| [c++](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.cpp) [java](.&#x2F;solutions&#x2F;581.shortest-unsorted-continuous-subarray&#x2F;shortest-unsorted-continuous-subarray.java)|Easy|29.36%||
 |583|[delete-operation-for-two-strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)| [c++](.&#x2F;solutions&#x2F;583.delete-operation-for-two-strings&#x2F;delete-operation-for-two-strings.cpp) [java](.&#x2F;solutions&#x2F;583.delete-operation-for-two-strings&#x2F;delete-operation-for-two-strings.java)|Medium|40.52%||
+|593|[valid-square](https://leetcode-cn.com/problems/valid-square/)| [java](.&#x2F;solutions&#x2F;593.valid-square&#x2F;valid-square.java)|Medium|37.72%||
 |594|[longest-harmonious-subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)| [java](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.java) [c++](.&#x2F;solutions&#x2F;594.longest-harmonious-subsequence&#x2F;longest-harmonious-subsequence.cpp)|Easy|37.30%||
 |598|[range-addition-ii](https://leetcode-cn.com/problems/range-addition-ii/)| [java](.&#x2F;solutions&#x2F;598.range-addition-ii&#x2F;range-addition-ii.java)|Easy|45.61%||
 |599|[minimum-index-sum-of-two-lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)| [java](.&#x2F;solutions&#x2F;599.minimum-index-sum-of-two-lists&#x2F;minimum-index-sum-of-two-lists.java)|Easy|43.68%||
