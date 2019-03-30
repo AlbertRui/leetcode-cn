@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-341/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-343/821(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-139-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-141-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-03-29</b>
+    <b>Last updated: 2019-03-30</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -247,6 +247,7 @@
 |645|[set-mismatch](https://leetcode-cn.com/problems/set-mismatch/)| [java](.&#x2F;solutions&#x2F;645.set-mismatch&#x2F;set-mismatch.java)|Easy|32.52%||
 |646|[maximum-length-of-pair-chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)| [java](.&#x2F;solutions&#x2F;646.maximum-length-of-pair-chain&#x2F;maximum-length-of-pair-chain.java)|Medium|45.06%||
 |647|[palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| [java](.&#x2F;solutions&#x2F;647.palindromic-substrings&#x2F;palindromic-substrings.java)|Medium|55.87%||
+|648|[replace-words](https://leetcode-cn.com/problems/replace-words/)| [java](.&#x2F;solutions&#x2F;648.replace-words&#x2F;replace-words.java)|Medium|47.85%||
 |657|[judge-route-circle](https://leetcode-cn.com/problems/judge-route-circle/)| [java](.&#x2F;solutions&#x2F;657.judge-route-circle&#x2F;judge-route-circle.java)|Easy|68.45%||
 |658|[find-k-closest-elements](https://leetcode-cn.com/problems/find-k-closest-elements/)| [java](.&#x2F;solutions&#x2F;658.find-k-closest-elements&#x2F;find-k-closest-elements.java)|Medium|36.40%||
 |667|[beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/)| [java](.&#x2F;solutions&#x2F;667.beautiful-arrangement-ii&#x2F;beautiful-arrangement-ii.java)|Medium|51.46%||
@@ -356,6 +357,7 @@
 |968|[beautiful-array](https://leetcode-cn.com/problems/beautiful-array/)| [java](.&#x2F;solutions&#x2F;968.beautiful-array&#x2F;beautiful-array.java)|Medium|50.93%||
 |969|[number-of-recent-calls](https://leetcode-cn.com/problems/number-of-recent-calls/)| [java](.&#x2F;solutions&#x2F;969.number-of-recent-calls&#x2F;number-of-recent-calls.java)|Easy|60.50%||
 |973|[stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)| [c++](.&#x2F;solutions&#x2F;973.stamping-the-sequence&#x2F;stamping-the-sequence.cpp)|Hard|22.07%||
+|975|[range-sum-of-bst](https://leetcode-cn.com/problems/range-sum-of-bst/)||Medium|75.48%||
 |978|[valid-mountain-array](https://leetcode-cn.com/problems/valid-mountain-array/)| [java](.&#x2F;solutions&#x2F;978.valid-mountain-array&#x2F;valid-mountain-array.java)|Easy|32.55%||
 |979|[di-string-match](https://leetcode-cn.com/problems/di-string-match/)| [java](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.java) [c++](.&#x2F;solutions&#x2F;979.di-string-match&#x2F;di-string-match.cpp)|Easy|67.69%||
 |981|[delete-columns-to-make-sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)| [java](.&#x2F;solutions&#x2F;981.delete-columns-to-make-sorted&#x2F;delete-columns-to-make-sorted.java)|Easy|67.02%||
