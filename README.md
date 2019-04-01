@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-345/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-346/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-142-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-143-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -373,4 +373,5 @@
 |1013|[fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)| [java](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.java) [c++](.&#x2F;solutions&#x2F;1013.fibonacci-number&#x2F;fibonacci-number.cpp)|Easy|59.69%||
 |1016|[subarray-sums-divisible-by-k](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/)| [java](.&#x2F;solutions&#x2F;1016.subarray-sums-divisible-by-k&#x2F;subarray-sums-divisible-by-k.java)|Medium|29.18%||
 |1018|[largest-perimeter-triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)| [java](.&#x2F;solutions&#x2F;1018.largest-perimeter-triangle&#x2F;largest-perimeter-triangle.java)|Easy|54.91%||
+|1045|[check-if-word-is-valid-after-substitutions](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)| [c++](.&#x2F;solutions&#x2F;1045.check-if-word-is-valid-after-substitutions&#x2F;check-if-word-is-valid-after-substitutions.cpp) [java](.&#x2F;solutions&#x2F;1045.check-if-word-is-valid-after-substitutions&#x2F;check-if-word-is-valid-after-substitutions.java)|Medium|49.45%||
 
