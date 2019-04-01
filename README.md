@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-344/821(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-345/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-142-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-196-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-03-30</b>
+    <b>Last updated: 2019-04-01</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -305,6 +305,7 @@
 |816|[design-hashset](https://leetcode-cn.com/problems/design-hashset/)| [java](.&#x2F;solutions&#x2F;816.design-hashset&#x2F;design-hashset.java)|Easy|51.80%||
 |817|[design-hashmap](https://leetcode-cn.com/problems/design-hashmap/)| [java](.&#x2F;solutions&#x2F;817.design-hashmap&#x2F;design-hashmap.java)|Easy|52.66%||
 |819|[minimum-swaps-to-make-sequences-increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)| [java](.&#x2F;solutions&#x2F;819.minimum-swaps-to-make-sequences-increasing&#x2F;minimum-swaps-to-make-sequences-increasing.java)|Medium|28.32%||
+|822|[unique-morse-code-words](https://leetcode-cn.com/problems/unique-morse-code-words/)| [java](.&#x2F;solutions&#x2F;822.unique-morse-code-words&#x2F;unique-morse-code-words.java)|Easy|70.29%||
 |824|[number-of-lines-to-write-string](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)| [java](.&#x2F;solutions&#x2F;824.number-of-lines-to-write-string&#x2F;number-of-lines-to-write-string.java)|Easy|59.02%||
 |827|[expressive-words](https://leetcode-cn.com/problems/expressive-words/)||Medium|28.96%||
 |829|[subdomain-visit-count](https://leetcode-cn.com/problems/subdomain-visit-count/)| [java](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.java) [c++](.&#x2F;solutions&#x2F;829.subdomain-visit-count&#x2F;subdomain-visit-count.cpp)|Easy|60.03%||
