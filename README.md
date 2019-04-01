@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-346/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-347/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-143-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-144-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -111,6 +111,7 @@
 |191|[number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits/)| [java](.&#x2F;solutions&#x2F;191.number-of-1-bits&#x2F;number-of-1-bits.java) [c++](.&#x2F;solutions&#x2F;191.number-of-1-bits&#x2F;number-of-1-bits.cpp)|Easy|45.30%||
 |198|[house-robber](https://leetcode-cn.com/problems/house-robber/)| [c++](.&#x2F;solutions&#x2F;198.house-robber&#x2F;house-robber.cpp) [java](.&#x2F;solutions&#x2F;198.house-robber&#x2F;house-robber.java)|Easy|38.43%||
 |199|[binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| [java](.&#x2F;solutions&#x2F;199.binary-tree-right-side-view&#x2F;binary-tree-right-side-view.java)|Medium|42.73%||
+|201|[bitwise-and-of-numbers-range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/)| [c++](.&#x2F;solutions&#x2F;201.bitwise-and-of-numbers-range&#x2F;bitwise-and-of-numbers-range.cpp) [java](.&#x2F;solutions&#x2F;201.bitwise-and-of-numbers-range&#x2F;bitwise-and-of-numbers-range.java)|Medium|38.54%||
 |202|[happy-number](https://leetcode-cn.com/problems/happy-number/)| [java](.&#x2F;solutions&#x2F;202.happy-number&#x2F;happy-number.java)|Easy|51.00%||
 |203|[remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)| [java](.&#x2F;solutions&#x2F;203.remove-linked-list-elements&#x2F;remove-linked-list-elements.java)|Easy|38.04%||
 |204|[count-primes](https://leetcode-cn.com/problems/count-primes/)| [c++](.&#x2F;solutions&#x2F;204.count-primes&#x2F;count-primes.cpp)|Easy|24.15%||
