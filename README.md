@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-347/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-349/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-144-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-146-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-04-01</b>
+    <b>Last updated: 2019-04-06</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -349,6 +349,7 @@
 |941|[sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity/)| [c++](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.cpp) [java](.&#x2F;solutions&#x2F;941.sort-array-by-parity&#x2F;sort-array-by-parity.java)|Easy|69.26%||
 |943|[sum-of-subarray-minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)||Medium|21.30%||
 |944|[smallest-range-i](https://leetcode-cn.com/problems/smallest-range-i/)| [java](.&#x2F;solutions&#x2F;944.smallest-range-i&#x2F;smallest-range-i.java)|Easy|62.58%||
+|952|[word-subsets](https://leetcode-cn.com/problems/word-subsets/)| [java](.&#x2F;solutions&#x2F;952.word-subsets&#x2F;word-subsets.java)|Medium|33.39%||
 |953|[reverse-only-letters](https://leetcode-cn.com/problems/reverse-only-letters/)| [java](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.java) [c++](.&#x2F;solutions&#x2F;953.reverse-only-letters&#x2F;reverse-only-letters.cpp)|Easy|40.68%||
 |954|[maximum-sum-circular-subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)| [java](.&#x2F;solutions&#x2F;954.maximum-sum-circular-subarray&#x2F;maximum-sum-circular-subarray.java)|Medium|23.32%||
 |957|[minimum-add-to-make-parentheses-valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)| [java](.&#x2F;solutions&#x2F;957.minimum-add-to-make-parentheses-valid&#x2F;minimum-add-to-make-parentheses-valid.java)|Medium|64.87%||
@@ -375,4 +376,5 @@
 |1016|[subarray-sums-divisible-by-k](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/)| [java](.&#x2F;solutions&#x2F;1016.subarray-sums-divisible-by-k&#x2F;subarray-sums-divisible-by-k.java)|Medium|29.18%||
 |1018|[largest-perimeter-triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)| [java](.&#x2F;solutions&#x2F;1018.largest-perimeter-triangle&#x2F;largest-perimeter-triangle.java)|Easy|54.91%||
 |1045|[check-if-word-is-valid-after-substitutions](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)| [c++](.&#x2F;solutions&#x2F;1045.check-if-word-is-valid-after-substitutions&#x2F;check-if-word-is-valid-after-substitutions.cpp) [java](.&#x2F;solutions&#x2F;1045.check-if-word-is-valid-after-substitutions&#x2F;check-if-word-is-valid-after-substitutions.java)|Medium|49.45%||
+|1072|[next-greater-node-in-linked-list](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/)||Medium|32.15%||
 
