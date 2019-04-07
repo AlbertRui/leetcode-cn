@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-350/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-351/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-147-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-148-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -166,6 +166,7 @@
 |384|[shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/)| [java](.&#x2F;solutions&#x2F;384.shuffle-an-array&#x2F;shuffle-an-array.java)|Medium|39.28%||
 |387|[first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)||Easy|34.67%||
 |389|[find-the-difference](https://leetcode-cn.com/problems/find-the-difference/)| [java](.&#x2F;solutions&#x2F;389.find-the-difference&#x2F;find-the-difference.java)|Easy|53.15%||
+|396|[rotate-function](https://leetcode-cn.com/problems/rotate-function/)| [java](.&#x2F;solutions&#x2F;396.rotate-function&#x2F;rotate-function.java)|Medium|35.65%||
 |397|[integer-replacement](https://leetcode-cn.com/problems/integer-replacement/)| [c++](.&#x2F;solutions&#x2F;397.integer-replacement&#x2F;integer-replacement.cpp) [java](.&#x2F;solutions&#x2F;397.integer-replacement&#x2F;integer-replacement.java)|Medium|28.32%||
 |401|[binary-watch](https://leetcode-cn.com/problems/binary-watch/)| [c++](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.cpp) [java](.&#x2F;solutions&#x2F;401.binary-watch&#x2F;binary-watch.java)|Easy|43.28%||
 |403|[frog-jump](https://leetcode-cn.com/problems/frog-jump/)| [java](.&#x2F;solutions&#x2F;403.frog-jump&#x2F;frog-jump.java)|Hard|13.00%||
