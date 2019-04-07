@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-349/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-350/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-146-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-147-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-04-06</b>
+    <b>Last updated: 2019-04-07</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -203,6 +203,7 @@
 |479|[largest-palindrome-product](https://leetcode-cn.com/problems/largest-palindrome-product/)| [java](.&#x2F;solutions&#x2F;479.largest-palindrome-product&#x2F;largest-palindrome-product.java)|Easy|23.43%||
 |482|[license-key-formatting](https://leetcode-cn.com/problems/license-key-formatting/)| [java](.&#x2F;solutions&#x2F;482.license-key-formatting&#x2F;license-key-formatting.java)|Easy|36.67%||
 |485|[max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones/)| [java](.&#x2F;solutions&#x2F;485.max-consecutive-ones&#x2F;max-consecutive-ones.java)|Easy|53.72%||
+|486|[predict-the-winner](https://leetcode-cn.com/problems/predict-the-winner/)| [c++](.&#x2F;solutions&#x2F;486.predict-the-winner&#x2F;predict-the-winner.cpp) [java](.&#x2F;solutions&#x2F;486.predict-the-winner&#x2F;predict-the-winner.java)|Medium|43.13%||
 |492|[construct-the-rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/)| [java](.&#x2F;solutions&#x2F;492.construct-the-rectangle&#x2F;construct-the-rectangle.java)|Easy|42.20%||
 |494|[target-sum](https://leetcode-cn.com/problems/target-sum/)| [java](.&#x2F;solutions&#x2F;494.target-sum&#x2F;target-sum.java)|Medium|32.11%||
 |495|[teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/)| [java](.&#x2F;solutions&#x2F;495.teemo-attacking&#x2F;teemo-attacking.java)|Medium|51.40%||
