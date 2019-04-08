@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-352/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-353/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-149-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-150-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -147,6 +147,7 @@
 |303|[range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [java](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.java) [c++](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.cpp)|Easy|49.93%||
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
 |319|[bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/)| [java](.&#x2F;solutions&#x2F;319.bulb-switcher&#x2F;bulb-switcher.java)|Medium|28.71%||
+|322|[coin-change](https://leetcode-cn.com/problems/coin-change/)| [java](.&#x2F;solutions&#x2F;322.coin-change&#x2F;coin-change.java) [c++](.&#x2F;solutions&#x2F;322.coin-change&#x2F;coin-change.cpp)|Medium|30.52%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
 |331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)| [c++](.&#x2F;solutions&#x2F;331.verify-preorder-serialization-of-a-binary-tree&#x2F;verify-preorder-serialization-of-a-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;331.verify-preorder-serialization-of-a-binary-tree&#x2F;verify-preorder-serialization-of-a-binary-tree.java)|Medium|40.33%||
 |337|[house-robber-iii](https://leetcode-cn.com/problems/house-robber-iii/)| [java](.&#x2F;solutions&#x2F;337.house-robber-iii&#x2F;house-robber-iii.java)|Medium|51.55%||
