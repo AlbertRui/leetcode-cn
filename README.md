@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-355/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-356/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-152-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-153-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -95,6 +95,7 @@
 |141|[linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/)| [java](.&#x2F;solutions&#x2F;141.linked-list-cycle&#x2F;linked-list-cycle.java)|Easy|35.04%||
 |142|[linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| [java](.&#x2F;solutions&#x2F;142.linked-list-cycle-ii&#x2F;linked-list-cycle-ii.java)|Medium|27.09%||
 |147|[insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/)| [java](.&#x2F;solutions&#x2F;147.insertion-sort-list&#x2F;insertion-sort-list.java)|Medium|50.17%||
+|148|[sort-list](https://leetcode-cn.com/problems/sort-list/)| [java](.&#x2F;solutions&#x2F;148.sort-list&#x2F;sort-list.java)|Medium|59.20%||
 |150|[evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)| [java](.&#x2F;solutions&#x2F;150.evaluate-reverse-polish-notation&#x2F;evaluate-reverse-polish-notation.java)|Medium|42.99%||
 |152|[maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| [c++](.&#x2F;solutions&#x2F;152.maximum-product-subarray&#x2F;maximum-product-subarray.cpp) [java](.&#x2F;solutions&#x2F;152.maximum-product-subarray&#x2F;maximum-product-subarray.java)|Medium|31.63%||
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)| [java](.&#x2F;solutions&#x2F;153.find-minimum-in-rotated-sorted-array&#x2F;find-minimum-in-rotated-sorted-array.java)|Medium|44.19%||
