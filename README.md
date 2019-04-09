@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-356/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-357/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-153-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-154-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -376,6 +376,7 @@
 |987|[reveal-cards-in-increasing-order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)| [java](.&#x2F;solutions&#x2F;987.reveal-cards-in-increasing-order&#x2F;reveal-cards-in-increasing-order.java) [c++](.&#x2F;solutions&#x2F;987.reveal-cards-in-increasing-order&#x2F;reveal-cards-in-increasing-order.cpp)|Medium|74.03%||
 |992|[delete-columns-to-make-sorted-ii](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii/)| [c++](.&#x2F;solutions&#x2F;992.delete-columns-to-make-sorted-ii&#x2F;delete-columns-to-make-sorted-ii.cpp) [java](.&#x2F;solutions&#x2F;992.delete-columns-to-make-sorted-ii&#x2F;delete-columns-to-make-sorted-ii.java)|Medium|24.62%||
 |1001|[n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)| [c++](.&#x2F;solutions&#x2F;1001.n-repeated-element-in-size-2n-array&#x2F;n-repeated-element-in-size-2n-array.cpp)|Easy|68.95%||
+|1002|[maximum-width-ramp](https://leetcode-cn.com/problems/maximum-width-ramp/)| [c++](.&#x2F;solutions&#x2F;1002.maximum-width-ramp&#x2F;maximum-width-ramp.cpp) [java](.&#x2F;solutions&#x2F;1002.maximum-width-ramp&#x2F;maximum-width-ramp.java)|Medium|31.85%||
 |1005|[univalued-binary-tree](https://leetcode-cn.com/problems/univalued-binary-tree/)| [c++](.&#x2F;solutions&#x2F;1005.univalued-binary-tree&#x2F;univalued-binary-tree.cpp) [java](.&#x2F;solutions&#x2F;1005.univalued-binary-tree&#x2F;univalued-binary-tree.java)|Easy|64.40%||
 |1009|[pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/)| [java](.&#x2F;solutions&#x2F;1009.pancake-sorting&#x2F;pancake-sorting.java)|Medium|60.13%||
 |1010|[powerful-integers](https://leetcode-cn.com/problems/powerful-integers/)| [java](.&#x2F;solutions&#x2F;1010.powerful-integers&#x2F;powerful-integers.java)|Easy|36.99%||
