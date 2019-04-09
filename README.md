@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-354/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-355/829(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-151-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-152-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -336,6 +336,7 @@
 |886|[score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)| [c++](.&#x2F;solutions&#x2F;886.score-of-parentheses&#x2F;score-of-parentheses.cpp)|Medium|45.86%||
 |887|[minimum-cost-to-hire-k-workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)| [java](.&#x2F;solutions&#x2F;887.minimum-cost-to-hire-k-workers&#x2F;minimum-cost-to-hire-k-workers.java)|Hard|29.73%||
 |890|[lemonade-change](https://leetcode-cn.com/problems/lemonade-change/)| [java](.&#x2F;solutions&#x2F;890.lemonade-change&#x2F;lemonade-change.java)|Easy|47.22%||
+|896|[smallest-subtree-with-all-the-deepest-nodes](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes/)| [c++](.&#x2F;solutions&#x2F;896.smallest-subtree-with-all-the-deepest-nodes&#x2F;smallest-subtree-with-all-the-deepest-nodes.cpp) [java](.&#x2F;solutions&#x2F;896.smallest-subtree-with-all-the-deepest-nodes&#x2F;smallest-subtree-with-all-the-deepest-nodes.java)|Medium|36.21%||
 |899|[binary-gap](https://leetcode-cn.com/problems/binary-gap/)| [c++](.&#x2F;solutions&#x2F;899.binary-gap&#x2F;binary-gap.cpp) [java](.&#x2F;solutions&#x2F;899.binary-gap&#x2F;binary-gap.java)|Easy|55.62%||
 |900|[reordered-power-of-2](https://leetcode-cn.com/problems/reordered-power-of-2/)| [java](.&#x2F;solutions&#x2F;900.reordered-power-of-2&#x2F;reordered-power-of-2.java) [c++](.&#x2F;solutions&#x2F;900.reordered-power-of-2&#x2F;reordered-power-of-2.cpp)|Medium|42.04%||
 |902|[minimum-number-of-refueling-stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)| [c++](.&#x2F;solutions&#x2F;902.minimum-number-of-refueling-stops&#x2F;minimum-number-of-refueling-stops.cpp)|Hard|20.62%||
