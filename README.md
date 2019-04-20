@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-361/829(0)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-362/837(0)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-16-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-158-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-159-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-197-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -10,7 +10,7 @@
 <p align="center">
     <b>Language: java javascript python c++ c</b>
     <br>
-    <b>Last updated: 2019-04-14</b>
+    <b>Last updated: 2019-04-21</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -149,6 +149,7 @@
 |292|[nim-game](https://leetcode-cn.com/problems/nim-game/)| [c++](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.cpp)|Easy|64.77%||
 |303|[range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)| [java](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.java) [c++](.&#x2F;solutions&#x2F;303.range-sum-query-immutable&#x2F;range-sum-query-immutable.cpp)|Easy|49.93%||
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [java](.&#x2F;solutions&#x2F;309.best-time-to-buy-and-sell-stock-with-cooldown&#x2F;best-time-to-buy-and-sell-stock-with-cooldown.java)|Medium|40.71%||
+|310|[minimum-height-trees](https://leetcode-cn.com/problems/minimum-height-trees/)| [java](.&#x2F;solutions&#x2F;310.minimum-height-trees&#x2F;minimum-height-trees.java)|Medium|33.79%||
 |319|[bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/)| [java](.&#x2F;solutions&#x2F;319.bulb-switcher&#x2F;bulb-switcher.java)|Medium|28.71%||
 |322|[coin-change](https://leetcode-cn.com/problems/coin-change/)| [java](.&#x2F;solutions&#x2F;322.coin-change&#x2F;coin-change.java) [c++](.&#x2F;solutions&#x2F;322.coin-change&#x2F;coin-change.cpp)|Medium|30.52%||
 |328|[odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/)| [java](.&#x2F;solutions&#x2F;328.odd-even-linked-list&#x2F;odd-even-linked-list.java)|Medium|44.75%||
